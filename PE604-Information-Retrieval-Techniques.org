@@ -1,7 +1,7 @@
 * <<<PE604>>> INFORMATION RETRIEVAL TECHNIQUES
 :properties:
 :author: Dr. G. Raghuraman and Dr. D. Thenmozhi
-:date: 
+:date:
 :end:
 
 #+begin_comment
@@ -75,25 +75,30 @@ semantic indexing.
 |UNIT V|APPLICATIONS|9|
 XML Retrieval -- Multimedia IR -- Parallel and Distributed IR --
 Digital Libraries -- Social Media Retrieval -- Content-based Image
-Retrieval -- Online Public Access Catalogs (OPACs).
+Retrieval -- Online Public Access Catalogs (OPACs) -- Developing IR application.
 
 #+begin_comment
 - 1. AU focused only on recommender system. Several applications are explored here
 - 2. Added OPACs from M.E syllabus
+- 3. Added developing IR application
 #+end_comment
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Describe various IR modeling techniques (K3)
-- Identify and design the various components of an Information
-  Retrieval system (K3)
-- Apply machine learning techniques to text classification and
-  clustering for efficient Information Retrieval (K3)
-- Describe various IR applications (K2)
-- Apply IR evaluation metrics to measure the performance of IR
-  systems (K3).
+After the completion of this course, students will be able to:
+- Apply the IR modeling techniques for the document retrieval problem and measure the performance of IR systems by making use of IR evaluation metrics (K3)
+- Construct the basic components of an IR system namely indexing and querying (K3)
+- Explain the searching techniques for IR and Web. (K2)
+- Apply machine learning techniques to text classification and clustering for efficient Information Retrieval (K3)
+- Explain various IR applications (K2).
+- Develop an IR application (K4).
+
+#+begin_comment
+- 1. CO1 and CO5 were combined as CO1
+- 2. CO2 was divided in CO2 and CO3
+- 3. Added CO6
+#+end_comment
 
 ** TEXT BOOKS
 1. Ricardo Baeza Yates, Berthier Ribeiro Neto, ``Modern Information
