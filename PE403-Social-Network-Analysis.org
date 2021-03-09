@@ -1,7 +1,7 @@
 * <<<PE403>>> SOCIAL NETWORK ANALYSIS
 :properties:
 :author: Dr. V. S. Felix Enigo and Dr. G. Raghuraman
-:date: 03/05/2019
+:date: 09-03-2021
 :end:
 
 #+startup: showall
