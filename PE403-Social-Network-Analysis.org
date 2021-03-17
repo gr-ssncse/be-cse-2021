@@ -86,7 +86,7 @@ networks.
 After the completion of this course, students will be able to: 
 - Explain Social network concepts, measures and data (K2)
 - Interpret social networks mathematically (K2)
-- Compare the working of various community detection algorithms for online Social networks (K3)
+- Organize the working of various community detection algorithms for online Social networks (K3)
 - Apply SNA tools for analysing social networks (K3)
 - Make use of Visualization tools to social networks (K3).
 
