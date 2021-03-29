@@ -11,8 +11,8 @@
 | 3 | 0 | 0 | 3 |
 
 ** R2021 CHANGES :noexport:
-1. Unit 3 of R2018 has been reordered as unit 5 in R2021.
-2. Unit 4 and 5 of R2018 has been reordered as unit 3 and 4 in R2021.  
+1. Reordered Unit 3 of R2018 as unit 5 in R2021.
+2. Reordered Unit 4 and 5 of R2018 as unit 3 and 4 in R2021.  
    
 
 
