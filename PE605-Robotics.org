@@ -1,20 +1,18 @@
 * <<<PE604>>> ROBOTICS
 :properties:
 :author: Dr. K. R. Sarath Chandran and Ms. S. Angel Deborah
-:date: 09/03/2021
+:date: 09/03/2021(Revison)/ 29/03/2021(Changes highlighted)
 :end:
 
-#+begin_comment
-- 1. Same as AU ECE 2017 syllabus. 
-- 2. No changes from AU ECE 2017 syllabus. 
-- 3. Not Applicable
-- 4. Five Course outcomes specified and aligned with units
-- 5. Not Applicable
-#+end_comment
+
 #+startup: showall
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
+
+** R2021 CHANGES :noexport:
+1. Same as R2018
+
 
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
