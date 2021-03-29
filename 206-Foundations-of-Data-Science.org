@@ -1,7 +1,7 @@
 * <<<206>>> FOUNDATIONS OF DATA SCIENCE
 :properties:
 :author: Ms. S. Rajalakshmi  and Dr. Y. V. Lokeswari.
-:date: 09-03-2021
+:date: 29-03-2021
 :end:
 
 #+startup: showall
@@ -9,6 +9,8 @@
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
+** R2021 CHANGES :noexport:
+1. New subject
 
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
