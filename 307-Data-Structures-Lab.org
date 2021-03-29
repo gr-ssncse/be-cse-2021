@@ -29,34 +29,38 @@
 2. One application of linked list and expression tree implementation are removed because the Mini project has been included.
 
 ** COURSE OBJECTIVES
-- Develop program solutions for various problems
-- Apply suitable data structures, linear and non linear for a given problem statement
-- Design the data structure for the given problem and implement them in a high level programming language.
+- Understand and apply suitable data structures, linear and non linear
+- Design the data structure for the given problem and implement them
+  in a high level programming language
+- Understand the concepts and differences in searching and sorting
+  techniques
+- Learn the introductory concepts of hashing techniques.
+
 
 ** SUGGESTIVE EXPERIMENTS
-1. Implement solutions for problems using arrays and pointers 
-2. Implement suitable solution for a given problem (using structures)
-3. Implementation of Linked List ADT (e.g Manage student records)
-4. Implement hashing using separate chaining technique 
-5. Implement doubly linked list ADT (e.g Insert, delete, search, merge, reverse operations)
-6. Implementation of Stack ADT (e.g Balancing paranthesis, infix to postfix conversion, evaluation of postfix expression)
-7. Implementation of Queue ADT (e.g Simulating printer jobs)
-8. Implement binary search tree and perform its pre-order, in-order, and post-order traversals
-9. Implement AVL trees (e.g Implement dictionary)  
-10. Implement priority queue using binary heaps (e.g Storing employee records based upon salary)
-11. Represent the graphs and implement graph traversal algorithms 
-12. Implement Dijkstra's algorithm using graph (e.g Find the shortest route to connect one city to another)
-13. Mini Project
+1. Represent polynomial expression as linked list and write functions for polynomial manipulation
+2. Implement doubly linked list ADT (e.g Insert, delete, search, merge, reverse operations)
+3. Array implementation of Stack ADT (e.g Balancing paranthesis, infix to postfix conversion, evaluation of postfix expression)
+4. Array implementation of Queue ADT (e.g Simulating printer jobs)
+5. Implement binary search tree and produce its pre-order, in-order, and post-order traversals
+6. Implement AVL trees (e.g Implement dictionary)  
+7. Implement priority queue using binary heaps (e.g Storing employee records based upon salary)
+8. Graph representation and implement graph traversal algorithms 
+9. Implement Dijkstra's algorithm using graph (e.g Find the shortest route to connect one city to another)
+10. Implement binary search and any two sorting algorithms 
+11. Implement hashing using separate chaining technique 
+12. Mini Project
 
 \hfill *Total Periods: 60*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Develop programs for a given problem using pointers and structures (K3)
 - Analyze and apply suitable linear data structures to solve a given problem (K4) 
 - Apply suitable trees for various applications and perform traversals (K3)
 - Make use of graphs to solve appropriate problems (K3)
+- Implement searching, sorting and hashing techniques (K3)
 - Design and develop applications by choosing suitable data structure(s) for solving real world problems (K6).
+
 
 ** LABORATORY REQUIREMENT FOR BATCH OF 25 STUDENTS
 Hardware:\\
