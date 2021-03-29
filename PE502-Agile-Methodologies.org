@@ -1,13 +1,17 @@
 * <<<PE502>>> AGILE METHODOLOGIES
 :properties:
 :author: Dr. S. Saraswathi and Dr. K. Madheswari
-:date: 11-03-2021
+:date: 29-03-2021
 :end:
 
 #+startup: showall
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
+
+** R2021 CHANGES :noexport:
+1. we have verified the syllabus with industry expert.
+2. No changes made in the syllabus
 
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
