@@ -1,4 +1,4 @@
-* <<<R2021>>> Changes
+* R2021 Changes
   - CSS Box Model and JSON were added
   - Audio and video controls as they are not very important
   - Topics of Unit 4 are changed based on the following book as the ReactJS moved to recent version
