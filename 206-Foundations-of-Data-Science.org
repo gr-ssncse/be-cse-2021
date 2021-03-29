@@ -10,7 +10,8 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 ** R2021 CHANGES :noexport:
-1. New subject
+1. New subject.
+2. All 5 units were revisited and topics were changed from Regualtion 2018.
 
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
