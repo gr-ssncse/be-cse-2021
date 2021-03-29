@@ -5,6 +5,13 @@
 :end:
 #+startup: showall
 
+** R2021 CHANGES :noexport:
+1. Added case study in units 2,4 & 5
+2. Modified CO5 from K3 to K4
+
+
+
+
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
@@ -97,10 +104,8 @@ After the completion of this course, students will be able to:
 - Apply the techniques of smoothing, sharpening and
   enhancement in both spatial and frequency domain (K3)
 - Explain the restoration concepts and filtering techniques (K2)
-- Identify the segmentation methods and apply in real time applications
-  (K3)
-- Analyse the feature extraction and object recognition
-  methods (K4).
+- Identify the segmentation methods and apply in real time applications (K3)
+- Analyse the feature extraction and object recognition methods (K4).
    
 ** TEXT BOOKS
 1. Rafael C Gonzalez, Richard E Woods, ``Digital Image Processing'',
