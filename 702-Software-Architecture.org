@@ -100,4 +100,4 @@ After the completion of this course, students will be able to:
    an Emerging Discipline'', Pearson Education, 2008.
 2. Kai Qian et al., ''Software Architecture and Design Illuminated'', Jones and Bartlett Publishers, Canada, 2010
 3. Martin Kleppman, ''Designing Data-Intensive Applications'', O’Reilly Media, 2017
-4. Bauer, Martin & Boussard, Mathieu & Bui, Nicola & Loof, Jourik & Magerkurth, Carsten & Meissner, Stefan & Nettsträter, Andreas & Stefa, Julinda & Thoma, Matthias & Joachim, Walewski. (2013). IoT Reference Architecture.  
+4. Bauer, Martin & Boussard, Mathieu & Bui, Nicola & Loof, Jourik & Magerkurth, Carsten & Meissner, Stefan & Nettsträter, Andreas & Stefa, Julinda & Thoma, Matthias & Joachim, Walewski, IoT Reference Architecture, (2013).  
