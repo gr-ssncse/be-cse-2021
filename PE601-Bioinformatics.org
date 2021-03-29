@@ -1,8 +1,11 @@
 * <<<PE601>>> BIOINFORMATICS
 :properties:
 :author: Dr.S.Kavitha and Dr.P.Mirunalini
-:date: 17-03-2021  
+:date: 29-03-2021  
 :end:
+** R2021 CHANGES :noexport:
+ Few changes are done from AU 2013, 7th semester Elective course on Bioinformatics
+
 
 #+startup: showall
 
