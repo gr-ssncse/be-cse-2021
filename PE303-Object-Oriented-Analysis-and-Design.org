@@ -8,8 +8,9 @@
 2. The Course ourcomes are rephrased and aligned with the units. And CO-PO-PSO Mappings are done as per the expert's suggestions.
 
 #+begin_comment
-1. Six Course outcomes specified and aligned with units
-2. No change from R-2018
+1. Sixth Course outcome specified and aligned with units
+2. No change of content from R-2018
+3. Reference book edition is changed for "Design patterns: Elements of Reusable Object Oriented Software", Pearson Education, 2015.
 
 #+end_comment
 
@@ -97,8 +98,7 @@ Upon completion of this course, the students should be able to:
 
 ** REFERENCES
 1. Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, ``Design
-   patterns: Elements of Reusable Object Oriented Software'', Addison
-   Wesley, 1995.
+   patterns: Elements of Reusable Object Oriented Software'', Pearson Education, 2015.
 2. Martin Fowler, ``UML Distilled: A Brief Guide to the Standard
    Object Modeling Language'', 3rd edition, Addison Wesley, 2003.
 3. Booch, G, Jacobson I, Rumbaugh J, ``The Unified Modeling Language
