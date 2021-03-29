@@ -1,5 +1,5 @@
 
-* <<<R2021>>> Changes
+* R2021 Changes
 - Order of the exercises has been revised
 - Exception handling exercise was added 
 - An Experiment using file operations was removed

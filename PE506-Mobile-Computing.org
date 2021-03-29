@@ -1,7 +1,7 @@
 * <<<PE506>>> MOBILE COMPUTING
 :properties:
 :author: Dr. V. S. Felix Enigo and Dr. A. Beulah
-:date: 13/03/2021
+:date: 29/03/2021
 :end:
 
 #+startup: showall
@@ -13,51 +13,30 @@
 #+NAME: co-po-mapping
 |                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
 |                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K5 |   K3 |   K6 |
-| CO1            | K3 |   2 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    0 |    0 |
-| CO2            | K3 |   2 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    0 |    0 |
-| CO3            | K3 |   2 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    1 |    0 |    0 |
-| CO4            | K2 |   1 |   3 |   0 |   0 |   3 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    1 |    0 |    3 |
-| CO5            | K3 |   1 |   3 |   1 |   2 |   2 |   0 |   0 |   0 |   0 |    1 |    0 |    0 |    3 |    0 |    0 |
-| CO6            | K3 |   3 |   3 |   3 |   3 |   2 |   1 |   0 |   0 |   3 |    3 |    0 |    3 |    3 |    3 |    3 |
-| Score          |    |  11 |  18 |   4 |   5 |   7 |   1 |   0 |   0 |   3 |    4 |    0 |    3 |   14 |    3 |    6 |
-| Course Mapping |    |   2 |   3 |   3 |   3 |   2 |   1 |   0 |   0 |   3 |    3 |    0 |    3 |    3 |    3 |    3 |
+| CO1            | K3 |   2 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    0 |    0 |    0 |
+| CO2            | K3 |   2 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    0 |    0 |    0 |
+| CO3            | K3 |   2 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    0 |    0 |    0 |
+| CO4            | K2 |   1 |   3 |   0 |   0 |   3 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    1 |    0 |    0 |
+| CO5            | K3 |   1 |   3 |   1 |   2 |   2 |   0 |   0 |   0 |   0 |    1 |    0 |    0 |    2 |    0 |    0 |
+| CO6            | K3 |   3 |   3 |   3 |   3 |   2 |   1 |   0 |   0 |   1 |    2 |    0 |    0 |    2 |    3 |    1 |
+| Score          |    |  11 |  18 |   4 |   5 |   7 |   1 |   0 |   0 |   1 |    3 |    0 |    0 |    6 |    3 |    1 |
+| Course Mapping |    |   2 |   3 |   1 |   1 |   1 |   1 |   0 |   0 |   1 |    1 |    0 |    0 |    1 |    1 |    1 |
 
-
-#+begin_comment
-- 1. Five Course outcomes specified and aligned with units
-- 2. CO6 added to cover soft POs
-- 3. NA
-- 4. 2 text and 5 Reference books 
-- 5. LTPC checked
-- 6. Hours distributed based on number and depth of the topics
-- 7. KL and Co matches the depth of the topics
-- 8. 4 COs in K3/k4
-#+end_comment
 
 ** R2021 CHANGES :noexport:
-1. Brute force dropped
-2. Reordered topics
-   1. Divide-and-conquer
-   2. Backtracking
-   3. Dynamic programming
-   4. Greedy
-   5. Iterative improvement
-3. Under iterative improvement: Simplex dropped; Stable matching and
-   Maximum network flow added.
-4. Under DP: Ordering in matrix multiplication added
-5. Suggested programs slightly changed
-6. Jeff Erickson added as a textbook. Dasgupta book moved to
-   reference.
-
-
+1. Unit 1 no change
+2. Unit 2 network and transport layer combined, removed VANET, WAP (outdated)
+3. Unit 3 2G reduced to overview, 3G as it is, 4G included (latest)
+4. Unit 5 in old syllabus is expanded to Unit - IV and Unit- V 
+5. Unit 4 and Unit 5 includes mobile application development
 
 ** COURSE OBJECTIVES
 The student should be made to:
 - Understand the basic concepts of mobile computing
 - Know the functionalities of layers in protocol stack
 - Learn the basics of mobile telecommunication system
-- Gain knowledge about different mobile platforms and application development environments
-- Develop applications using Andriod Platform
+- Build and deploy mobile applications in mobile platforms
+- Develop full fledged mobile applications
 
 {{{unit}}}
 |UNIT I | INTRODUCTION | 9 |
@@ -94,10 +73,9 @@ User Interfaces -- Intents and services -- Storing and Retrieving data -- Notifi
 - Explain the functionalities of MAC protocols in wireless networks (K2)
 - Choose appropriate algorithms for routing and transporting data for a given scenario (K3)
 - Demonstrate the concepts of 3G and 4G Cellular Networks (K2)
-- Make use of various mobile platforms (K3)
-- Develop simple Andriod applications using the basic concepts learnt (K3)
-- Develop Android App for Solving a real world problems in teams by choosing suitable andriod components and applying best practices
- in programming  with a clear documentation of algorithm and approach (K4)
+- Make use of various mobile platforms to develop and deploy mobile applications (K3)
+- Develop mobile applications using various features learnt (K3)
+- Develop mobile App for Solving a real world problems in teams by choosing appropriate mobile components and applying best practices in coding  with a clear documentation of procedure and approach (K4)
 
 ** TEXT BOOKS
 1. Jochen H Schller, ``Mobile Communications'', Pearson Education, New

@@ -1,3 +1,15 @@
+* R2021 Changes
+  - CSS Box Model and JSON were added
+  - Audio and video controls as they are not very important
+  - Topics of Unit 4 are changed based on the following book as the ReactJS moved to recent version
+ -- Book Alex Banks, Eve Porcello, ``Learning React: Modern 
+   Patterns for Devloping React Apps'', June 2020, O'Reilly Media Inc.,
+  -  Topics of Unit 5 are changed based on the following book as the NodeJS moved to recent version
+   -- Book Shelly Powers, ``Learning Node 2nd Edition'', 1st
+   Edition, O'Reilly Media, June 2016. (Unit 5)
+  --Book Sitepoint Team, ``Your First Week With Node.js'', SitePoint, February 2018. (Unit 5)
+  
+
 * <<<601>>> INTERNET PROGRAMMING 
 :properties:
 :author: Dr. B. Prabavathy and Dr. V. S. Felix Enigo
