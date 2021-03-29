@@ -83,11 +83,6 @@ improving cache performance; Virtual Memory: TLBs; Accessing I/O
 devices -- Interrupts; Direct memory access; Bus structure -- Bus
 operation -- Arbitration; Interface circuits; USB.
 
-:DRAWERNAME:
-Unit V of CS8491 COMPUTER ARCHITECTURE in Anna University R2017 is
-moved here as Unit IV.
-:END:
-
 {{{unit}}}
 | UNIT V | PARALLEL PROCESSORS | 9 |
 Parallel processing challenges; Flynn's classification: SISD -- MIMD
@@ -95,12 +90,6 @@ Parallel processing challenges; Flynn's classification: SISD -- MIMD
 Multi-core processors and other shared memory multiprocessors;
 Introduction to Graphics Processing Units.
 
-:DRAWERNAME:
-1. Unit IV of CS8491 COMPUTER ARCHITECTURE in Anna University R2017 is
-   moved here as Unit V with the change:
-2. Removed: Clusters; Warehouse Scale Computers and other
-   Message-Passing Multiprocessors.
-:END:
 
 \hfill *Total Periods: 45*
 
