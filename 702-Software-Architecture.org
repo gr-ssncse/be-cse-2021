@@ -85,18 +85,13 @@ After the completion of this course, students will be able to:
 2. Apply suitable architectural styles based on the software quality
    requirements (K3)
 3. Define ADLs and evaluate alternate architectural solutions (K4)
-<<<<<<< HEAD
 4. Construct new architectures based on the quality attribute
    requirements (K4)
 5. Analyze the architectural decisions for building data-intensive and
    IoT systems(K4)
 6. Design a system in teams and apply best practices and principles in
    OOAD with clear documentation of approaches (K5)
-=======
-4. Construct new architectures based on the quality attribute requirements (K4)
-5. Analyze the architectural decisions for building data-intensive and IoT systems(K4)
-6. Design a system in teams and apply best practices and principles in Architectural patterns with clear documentation of approaches (K5)
->>>>>>> 840bd946524bb83c6e41881bab0c4765565a21fd
+ 
 
 ** TEXTBOOKS  
 1. Len Bass, Paul Clements, Rick Kazman, ``Software Architecture in
@@ -107,14 +102,7 @@ After the completion of this course, students will be able to:
 ** REFERENCES 
 1. Mary Shaw, David Garlan, ``Software Architecture: Perspectives on
    an Emerging Discipline'', Pearson Education, 2008.
-<<<<<<< HEAD
-2. Kai Qian et al., ''Software Architecture and Design Illuminated'',
-   Jones and Bartlett Publishers, Canada, 2010
-3. Martin Kleppman, ''Designing Data-Intensive Applications'',
-   O’Reilly Media, 2017
-4. https://www.researchgate.net/publication/260542337_IoT_Reference_Architecture
-=======
 2. Kai Qian et al., ''Software Architecture and Design Illuminated'', Jones and Bartlett Publishers, Canada, 2010
 3. Martin Kleppman, ''Designing Data-Intensive Applications'', O’Reilly Media, 2017
 4. Bauer, Martin & Boussard, Mathieu & Bui, Nicola & Loof, Jourik & Magerkurth, Carsten & Meissner, Stefan & Nettsträter, Andreas & Stefa, Julinda & Thoma, Matthias & Joachim, Walewski, IoT Reference Architecture, (2013), ISBN-978-3-642-40402-3.  
->>>>>>> 840bd946524bb83c6e41881bab0c4765565a21fd
+
