@@ -1,4 +1,4 @@
-* <<<203>>> DATABASE MANAGEMENT SYSTEMS FUNDAMENTALS
+* <<<203>>> DATABASE MANAGEMENT SYSTEMS
 :properties:
 :author: Dr R Kanchana, Mr B Senthilkumar
 :date: 16 March 2021

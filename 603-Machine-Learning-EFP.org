@@ -64,10 +64,8 @@ Evaluation of Machine Learning algorithms.
 5. Solve K-means clustering using Euclidean distance metric
 
 ** STUDIO SESSIONS (15 sessions of 3 hours each)
-/Sample Case Study/: Online booking and service system
-
-Diabetes 130-US hospitals for years 1999-2008 dataset from
-the UCI Machine Learning Repository contains information
+/Sample Case Study/: Diabetes 130-US hospitals for years 1999-2008
+dataset from the UCI Machine Learning Repository contains information
 about 100,000 patients with diabetes treated acros 130 US
 hospitals. The task is to predict whether a patient requires
 readmission.
