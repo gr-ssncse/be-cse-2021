@@ -4,6 +4,9 @@
 :date:6.03.2021
 :end:
 
+** R2021 CHANGES :noexport:
+1. revised COs and mapping
+
 #+begin_comment
 - 1. No equivalent course in AU 2017 Curriculum
 - 2. Framed the syllabus with a balance of theoretical concepts and practical implementation
