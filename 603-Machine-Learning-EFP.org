@@ -20,10 +20,9 @@
 
 ** COURSE OBJECTIVES
 1. To understand machine learning problems
-2. To study various supervised, unsupervised and
-   reinforcement learning algorithms in machine learning
+2. To study various supervised and unsupervised in machine learning
 3. To develop machine learning algorithms for solving
-   socially relevany problems
+   socially relevant problems
 4. To motivate independent learning and exploration.
 
 ** LECTURES (30 hours)

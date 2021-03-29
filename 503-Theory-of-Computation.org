@@ -7,7 +7,7 @@
 #+startup: showall
 {{{credits}}}
 | L | T | P | C |
-| 3 | 2 | 0 | 4 |
+| 3 | 0 | 0 | 3 |
 
 #+begin_comment
 CO-PO mapping later
