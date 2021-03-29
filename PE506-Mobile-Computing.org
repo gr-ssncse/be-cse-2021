@@ -34,6 +34,23 @@
 - 8. 4 COs in K3/k4
 #+end_comment
 
+** R2021 CHANGES :noexport:
+1. Brute force dropped
+2. Reordered topics
+   1. Divide-and-conquer
+   2. Backtracking
+   3. Dynamic programming
+   4. Greedy
+   5. Iterative improvement
+3. Under iterative improvement: Simplex dropped; Stable matching and
+   Maximum network flow added.
+4. Under DP: Ordering in matrix multiplication added
+5. Suggested programs slightly changed
+6. Jeff Erickson added as a textbook. Dasgupta book moved to
+   reference.
+
+
+
 ** COURSE OBJECTIVES
 The student should be made to:
 - Understand the basic concepts of mobile computing
@@ -63,11 +80,11 @@ AODV -- Hybrid routing –ZRP; Traditional TCP – Classical TCP improvements.
 Introduction; GSM Overview; 3GPP; UMTS  and  IMT-2000: Architecture --  User  Equipment --  RNS --  UTRAN -- Node B -- RNC Functions -- IP Multimedia Subsystem; 4G Cellular Network: LTE Network Architecture -- EPS Interfaces -- EPS Protocols and Planes -- LTE Protocol Strack -- SDU and PDU -- RRC -- PDCP -- RLC -- MAC -- PHY.
 
 {{{unit}}}
-|UNIT IV | MOBILE PLATFORMS | 8 |
-iOS: iOS Architecture Layers -- iOS Simulator; Android: Introdution to Android -- Android's Development Environment.
+|UNIT IV | SETTING UP AND DEPLOYMENT OF MOBILE APPLICATIONS | 8 |
+iOS: iOS Architecture Layers -- iOS Simulator; Android: Introduction to Android -- Android's Development Environment: Introducing the Android SDK -- Exploring the development environment -- Building an Android application -- Using the Android emulator - Developing simple applications using mobile platforms.
 
 {{{unit}}}
-|UNIT V | EXERCISING THE ANDROID SDK| 10 |
+|UNIT V | APPLICATION DEVELOPMENT FOR MOBILE OS| 10 |
 User Interfaces -- Intents and services -- Storing and Retrieving data -- Notifications and alarms -- Location --  Putting Android to work in a field service application.
 
 
