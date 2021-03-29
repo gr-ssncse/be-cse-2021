@@ -1,7 +1,7 @@
 * <<<PE306>>> MULTICORE ARCHITECTURE AND PROGRAMMING
 :properties:
 :author: Dr. D. Venkatavara Prasad and Ms.S.Angel Deborah 
-:date: 6.03.2021
+:date: 6.03.2021 (COs mapping revised) / 29.03.2021(Changes highlighted)
 :end:
 
 #+startup: showall
@@ -9,6 +9,11 @@
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
+
+** R2021 CHANGES :noexport:
+1. Same as R2018
+2. COs and COs mapping are changed
+
 
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
