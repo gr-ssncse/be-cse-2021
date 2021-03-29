@@ -49,15 +49,15 @@ Practice
 
 {{{unit}}}
 | UNIT II |ARCHITECTURAL STYLES | 9 |
-Introduction to Architectural Styles -- Simple Styles --
-Distributed and Networked Architectures -- Architecture for Network
-based Applications -- Decentralized Architectures.
+Introduction to Architectural Styles -- Simple Styles -- Distributed
+and Networked Architectures -- Architecture for Network based
+Applications -- Decentralized Architectures.
 
 {{{unit}}}
 | UNIT III | ARCHITECTURE DESCRIPTION, DOCUMENTATION AND EVALUATION | 9 |
 Early Architecture Description Languages -- Domain and Style Specific
 ADLs -- Extensible ADLs -- Documenting Software Architectures --
-Architecture Evaluation -- ATAM; 
+Architecture Evaluation -- ATAM;
 
 {{{unit}}}
 | UNIT IV | CREATING ARCHITECTURE  | 9 |
@@ -68,31 +68,36 @@ Usability Tactics -- Relationship of Tactics to Architectural Patterns
 
 {{{unit}}}
 | UNIT V | CASE STUDIES | 9 |
-
-Distributed Architectures for Data-intensive Systems that use Microservices --
-Architecture of Software Systems involving Internet-of-Things(IoT).
+Distributed Architectures for Data-intensive Systems that use
+Microservices -- Architecture of Software Systems involving
+Internet-of-Things(IoT).
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 1. Describe various architectural views and quality attributes(K2)
-2. Apply suitable architectural styles based on the software quality requirements (K3)
+2. Apply suitable architectural styles based on the software quality
+   requirements (K3)
 3. Define ADLs and evaluate alternate architectural solutions (K4)
-4. Construct new architectures based on the quality attribute requirements (K4)
-5. Analyze the architectural decisions for building data-intensive and IoT systems(K4)
-6. Design a system in teams and apply best practices and principles in OOAD with clear documentation of approaches (K5)
+4. Construct new architectures based on the quality attribute
+   requirements (K4)
+5. Analyze the architectural decisions for building data-intensive and
+   IoT systems(K4)
+6. Design a system in teams and apply best practices and principles in
+   OOAD with clear documentation of approaches (K5)
 
-** TEXTBOOKS
-  
- 1. Len Bass, Paul Clements, Rick Kazman, ``Software Architecture in
+** TEXTBOOKS  
+1. Len Bass, Paul Clements, Rick Kazman, ``Software Architecture in
    Practice'', Third Edition, Addison Wesley, 2012.
- 2. Richard N Taylor, Nenad Medvidovic, Eric M Dashofy, ``Software
+2. Richard N Taylor, Nenad Medvidovic, Eric M Dashofy, ``Software
    Architecture: Foundations, Theory and Practice'', Wiley 2010.
-** REFERENCES
- 
+
+** REFERENCES 
 1. Mary Shaw, David Garlan, ``Software Architecture: Perspectives on
    an Emerging Discipline'', Pearson Education, 2008.
-2. Kai Qian et al., ''Software Architecture and Design Illuminated'', Jones and Bartlett Publishers, Canada, 2010
-3. Martin Kleppman, ''Designing Data-Intensive Applications'', O’Reilly Media, 2017
+2. Kai Qian et al., ''Software Architecture and Design Illuminated'',
+   Jones and Bartlett Publishers, Canada, 2010
+3. Martin Kleppman, ''Designing Data-Intensive Applications'',
+   O’Reilly Media, 2017
 4. https://www.researchgate.net/publication/260542337_IoT_Reference_Architecture

@@ -10,18 +10,15 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
-<<<<<<< HEAD
 ** R2018 CHANGES :noexport:
 1. Unit IV of CS8491 COMPUTER ARCHITECTURE in Anna University R2017 is
    moved here as Unit V with the change:
 2. Removed: Clusters; Warehouse Scale Computers and other
    Message-Passing Multiprocessors.
-=======
+
 ** R2021 CHANGES :noexport:
 1. Subword parallelism dropped from Unit 2
 2. Cache mapping techniques added in Unit 5
-
->>>>>>> b598eb34885afab0e935cd42649d8098c3194956
 
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
