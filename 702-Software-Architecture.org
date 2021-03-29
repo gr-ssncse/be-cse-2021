@@ -86,7 +86,7 @@ After the completion of this course, students will be able to:
 3. Define ADLs and evaluate alternate architectural solutions (K4)
 4. Construct new architectures based on the quality attribute requirements (K4)
 5. Analyze the architectural decisions for building data-intensive and IoT systems(K4)
-6. Design a system in teams and apply best practices and principles in OOAD with clear documentation of approaches (K5)
+6. Design a system in teams and apply best practices and principles in Architectural patterns with clear documentation of approaches (K5)
 
 ** TEXTBOOKS
   
