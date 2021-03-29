@@ -25,71 +25,78 @@
 
 
 ** REVISION 2021                                                   :noexport:
-1. Since Programming in C course is not included in the 2nd semester, the concepts of arrays, pointers and structures in C are covered in Unit I
-2. Searching and sorting algorithms are removed as they study in the 1st semester as well as in DAA. However, hashing techniques are included in Unit II
-3. The syllabi for UG and PG are different to a larger extent
-4. Course outcomes are specified and aligned with the units
-5. Suggestive experiments are specified in the separate lab course for this subject
+1. 
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
 
 
 ** COURSE OBJECTIVES
+- To understand the concepts of ADT
 - To learn the concept of pointers and structures in C
 - To comprehend the notion of linear and non linear data structures
 - To apply the linear and non-linear data structures to various problems 
 - To design suitable data structures for different problems and implement them in C
 
 {{{unit}}}
-| UNIT I | C PROGRAMMING - POINTERS AND STRUCTURES | 10 |
-Pointers and Arrays: Pointers and addresses -- Pointers and function
-arguments -- Pointers and arrays -- Pointers to pointers -- Address
-Arithmetic; Structures: Basics -- Structures and functions -- Array of
-structures -- Pointers to Structures -- Self-referential structures --
-Typedef; Algorithm Analysis: Running time calculations.
+| UNIT I | LINEAR DATA STRUCTURES - LIST | 10 |
+Algorithm Analysis: Running time calculations; Abstract Data Types
+(ADTs); List ADT: Array implementation of lists -- Linked lists --
+Circular linked lists -- Doubly linked lists -- Applications of Lists:
+Polynomial manipulation.
 
 {{{unit}}}
-| UNIT II | LINEAR DATA STRUCTURES – LINKED LIST | 10 |
-Abstract Data Types (ADTs); List ADT: Linked lists -- Circular linked
-lists -- Doubly linked lists -- Applications of Lists: Polynomial
-manipulation; Hashing: Separate chaining -- Open addressing --
-Rehashing.
-
-{{{unit}}}
-| UNIT III | LINEAR DATA STRUCTURES – STACK AND QUEUE   | 7 |
+| UNIT II | LINEAR DATA STRUCTURES – STACKS AND QUEUES | 8 |
 Stack ADT: Stack model -- Implementation of stacks -- Applications:
- Balancing symbols -- Infix to postfix conversion -- Evaluating
- postfix expressions; Queue ADT: Queue model -- Array implementation
- of queues -- Applications of queues.
+Balancing symbols -- Infix to postfix conversion -- Evaluating postfix
+expressions; Queue ADT: Queue model -- Array implementation of queues
+-- Applications of queues.
 
 {{{unit}}}
-| UNIT IV | NON-LINEAR DATA STRUCTURES – TREES  | 10 |
+| UNIT III | NON LINEAR DATA STRUCTURES – TREES   | 9 |
 Preliminaries: Implementation of trees -- Tree traversals with an
 application; Binary trees: Expression trees; Binary search tree ADT;
 AVL trees; B-Trees; Priority Queues: Binary heap.
 
-{{{unit}}}     
-| UNIT V | NON LINEAR DATA STRUCTURES – GRAPHS | 8 |
+{{{unit}}}
+| UNIT IV | NON LINEAR DATA STRUCTURES – GRAPHS | 9 |
 Graph Algorithms: Definitions -- Representation of graphs; Graph
 Traversals: Breadth-first traversal -- Depth-first traversal;
 Topological sort -- Shortest-Path Algorithms: Dijkstra's algorithm --
-All-pairs shortest path algorithm.
+All-pairs shortest path.
+
+{{{unit}}}
+| UNIT V | SEARCHING, SORTING AND HASHING TECHNIQUES | 9 |
+Searching: Linear search -- Binary search; Sorting: Selection sort --
+Shell sort; Hashing: Hash function -- Separate chaining -- Open
+addressing -- Rehashing -- Extendible hashing.
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-- Develop programs using structures and pointers and introduce the importance of algorithm analysis (K3)
-- Analyze the different types of list and their operations with suitable applications (K4)
+- Elucidate and implement various operations of List (K3)
 - Develop applications using stack and queue (K3)
-- Apply the operations of unbalanced and balanced trees to develop solutions to various problems (K3)
-- Develop applications using traversal and shortest path algorithms of graph (K3)
+- Implement the operations of balanced and unbalanced trees (K3)
+- Develop applications using shortest path and traversal algorithms of graph  (K3)
+- Choose suitable searching and sorting algorithms to solve various computing problems (K4).
+   
       
 ** TEXT BOOKS
-1. Mark Allen Weiss, ``Data Structures and Algorithm Analysis in C'', 2nd Edition, Pearson Education, 2002.
-2. Brian W. Kernighan, Dennis M. Ritchie, ``C Programming Language'', 2nd Edition, Prentice Hall, 1988.
+1. M A Weiss, ``Data Structures and Algorithm Analysis in C'', 2nd
+   Edition, Pearson Education, 2002.
+2. Richard F Gilberg, Behrouz A Forouzan, ``Data Structures: A
+   Pseudocode Approach with C'', 2nd Edition, Cengage India, 2007.
 
 ** REFERENCES
-1. A V Aho, J E Hopcroft, J D Ullman, ``Data Structures and Algorithms'', Pearson Education, 1st Edition Reprint, 2003.
-2. R F Gilberg, B A Forouzan, ``Data Structures'', 2nd Edition, Thomson India Edition, 2005.
-3. Ellis Horowitz, Sartaj Sahni, Susan Anderson-Freed, ``Fundamentals of Data Structures in C'', 2nd Edition, University Press, 2008.
-4. Byron Gottfried, Jitender Chhabra, ``Programming with C`` (Schaum’s Outlines Series), 3rd Edition, Mcgraw Hill Higher Education, 2010.
-
+1. A V Aho, J E Hopcroft, J D Ullman, ``Data Structures and
+   Algorithms'', Pearson Education, 1st Edition Reprint, 2003.
+2. R F Gilberg, B A Forouzan, ``Data Structures'', 2nd Edition,
+   Thomson India Edition, 2005.
+3. Ellis Horowitz, Sartaj Sahni, Susan Anderson-Freed, ``Fundamentals
+   of Data Structures in C'', 2nd Edition, University Press, 2008.
+4. S Sridhar, ``Design and Analysis of Algorithms``, 1st Edition,
+   Oxford University Press, 2014.
+5. Byron Gottfried, Jitender Chhabra, ``Programming with C`` (Schaum’s
+   Outlines Series), 3rd Edition, Mcgraw Hill Higher Education, 2010.
