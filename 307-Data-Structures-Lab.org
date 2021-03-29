@@ -29,13 +29,9 @@
 2. One application of linked list and expression tree implementation are removed because the Mini project has been included.
 
 ** COURSE OBJECTIVES
-- Understand and apply suitable data structures, linear and non linear
-- Design the data structure for the given problem and implement them
-  in a high level programming language
-- Understand the concepts and differences in searching and sorting
-  techniques
-- Learn the introductory concepts of hashing techniques.
-
+- Develop program solutions for various problems
+- Apply suitable data structures, linear and non linear for a given problem statement
+- Design the data structure for the given problem and implement them in a high level programming language.
 
 ** SUGGESTIVE EXPERIMENTS
 1. Represent polynomial expression as linked list and write functions for polynomial manipulation
