@@ -1,7 +1,7 @@
 * <<<PE303>>> OBJECT ORIENTED ANALYSIS AND DESIGN
 :properties:
-:author: Dr. K. Valli Devi and Dr. S. Manisha
-:date: 29.3.2021
+:author: Dr. K. Vallidevi and Dr. S. Manisha
+:date: 29.03.2021
 :end:
 ** R2021 CHANGES :noexport:
 1. No change in units from R-2018
