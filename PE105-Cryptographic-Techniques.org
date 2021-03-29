@@ -1,6 +1,6 @@
 * <<<PE105>>> INTRODUCTION TO CRYPTOGRAPHIC TECHNIQUES
 :properties:
-:author:   Mr. V. Balasubramanian and Dr. J. Bhuvana
+:author:   Dr. V. Balasubramanian and Dr. J. Bhuvana
 :date: 09-03-2021
 :end:
 
@@ -11,7 +11,8 @@
 - 4. Five Course outcomes specified and aligned with units
 - 5. Not Applicable
 #+end_comment
-
+** R2021 CHANGES :noexport:
+No Change
 #+startup: showall
 {{{credits}}}
 | L | T | P | C |
