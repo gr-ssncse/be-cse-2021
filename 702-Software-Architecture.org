@@ -1,7 +1,7 @@
 * <<<702>>> SOFTWARE ARCHITECTURE
 :properties:
 :author: Dr. K. Vallidevi
-:date: 26 March 2021
+:date: 29 March 2021
 :end:
 
 #+startup: showall
@@ -65,7 +65,7 @@ ADLs -- Extensible ADLs -- Documenting Software Architectures --
 Architecture Evaluation -- ATAM; 
 
 {{{unit}}}
-| UNIT IV | Achieving Qualities | 9 |
+| UNIT IV | Achieving Architectural Qualities | 9 |
 Introducing Tactics -- Availability Tactics -- Modifiability Tactics
 -- Performance Tactics -- Security Tactics -- Testability Tactics --
 Usability Tactics -- Relationship of Tactics to Architectural Patterns
@@ -100,4 +100,4 @@ After the completion of this course, students will be able to:
    an Emerging Discipline'', Pearson Education, 2008.
 2. Kai Qian et al., ''Software Architecture and Design Illuminated'', Jones and Bartlett Publishers, Canada, 2010
 3. Martin Kleppman, ''Designing Data-Intensive Applications'', O’Reilly Media, 2017
-4. https://www.researchgate.net/publication/260542337_IoT_Reference_Architecture
+4. Bauer, Martin & Boussard, Mathieu & Bui, Nicola & Loof, Jourik & Magerkurth, Carsten & Meissner, Stefan & Nettsträter, Andreas & Stefa, Julinda & Thoma, Matthias & Joachim, Walewski. (2013). IoT Reference Architecture.  
