@@ -23,52 +23,10 @@
 2. To progress from fundamental principles to larger Engineering systems 
 3. To motivate independent learning and exploration.
 
-** LECTURES (30 hours)
-{{{unit}}}
-<<<<<<< HEAD
-| UNIT I | CONCEPTUAL MODELING | 6 |
-Requirement analysis, Entity-Relationship (ER) model,
-Constraints, Enhanced-ER (EER) model, EER in UML class
-diagrams.
-
-{{{unit}}}
-| UNIT II | RELATIONAL DATA MODEL & CONSTRAINTS  | 6 |
-Integrity constraints, SQL Data definition, Data retrieval,
-Complex queries, Views, Database programming.
-
-{{{unit}}}
-| UNIT III | RELATIONAL MODEL DESIGN | 6  |
-Relational design using ER and EER-to-Relational mapping,
-Functional dependencies, Normalization, Properties of
-relational decomposition, Algorithms for relational database
-schema design.
-
-{{{unit}}}
-| UNIT IV | TRANSACTION PROCESSSING | 6 |
-Schedules, Serializability, Two-phase locking for concurrency
-control.
-
-{{{unit}}}
-| UNIT V | OBJECT-RELATIONAL AND NO-SQL DATABASES | 6 |
-Object database extensions to SQL, ODL and OQL, CAP theorem,
-Introduction to Aggregate data models -- No-SQL: Data
-modelling in NoSQL, CRUD operations.
-
-** LAB ASSIGNMENTS (15 hours)
-1. Draw an ER / EER diagram for a real-time application.
-2. Map the ER/EER to relational database schema (top-down
-   approach)
-3. Create a database for a given specification with
-   constraints.
-4. Apply SQL queries / database programming to retrieve data.
-5. Design a relational database using Normalization theory
-   (bottom-up approach)
-6. Check the serializability of any non-serial schedule using
-   two-phase locking techniques.
-=======
+** Database Management Systems Fundamentals:   30 hours
+{{{unit}}} 
 | UNIT I | CONCEPTUAL MODELING | 4 |
-Requirement analysis, Database life cycle, Entity-Relationship (ER) model, Constraints.
-
+Database system development life cycle, Requirement analysis, Entity-Relationship (ER) model, Constraints.
 {{{unit}}}
 | UNIT II | RELATIONAL DATA MODEL  | 7 |
 Integrity constraints, SQL Data definition, Data retrieval, Complex queries, Views, Database programming.	
@@ -79,14 +37,14 @@ Relational design using ER and EER-to-Relational mapping, Functional dependencie
 Introduction to transaction processing – properties of transactions.	
 
 {{{unit}}}
-| UNIT IV | OBJECT RELATIONAL DATABASES | 6 |
+| UNIT IV | OBJECT RELATIONAL DATABASES | 5 |
 Enhanced-ER (EER) model, EER in UML class diagrams. Object database extensions to SQL, ODL and OQL. 
 
 {{{unit}}}
 | UNIT V |  NO-SQL DATABASES | 6 |
-CAP theorem. Introduction to Aggregate data models – No-SQL: Data modelling in NoSQL, CRUD operations	
+Characteristics and categories, Aggregate data models, Distribution models, CAP theorem, schema design and data modeling, CRUD operations.  	
 
-** CLASS ACTIVITY (15 hours)
+** CLASS ACTIVITY - Lab work (15 hours)
 1. Draw an ER diagram for a real-time application and map it to relational database schema (top-down approach)
 2. Create a database for a given specification with constraints.
 3. Apply SQL queries / database programming to retrieve data.
@@ -100,10 +58,13 @@ CAP theorem. Introduction to Aggregate data models – No-SQL: Data modelling in
 ** STUDIO SESSIONS (15 sessions of 3 hours each)
 /Sample Case Study/: Online booking and service system
 
-/Variants/
-   - Online car rental booking system (ola)
-   - Online food / medicine / courier / groceries delivery system (swiggy)
-   - Online healthcare/ legal services / homeneeds (carpentry / plumbing etc)
+Requirements:
+1. Advance booking – the number of days allowed to book the service in advance.
+2. Checking the service availability for a particular location/product
+3. Manage the user comments/reviews about the service/products
+4. Analyzing the trends in products/services required by customers
+5. Designing user-friendly UI for the customers.
+
 
 1. The students are first taught the fundamentals of conceptual
    modeling of a given application and relational database design. The
@@ -210,8 +171,8 @@ assessment only.*
 | End sem evaluation by a committee | Demo  (Innovation, emerging technologies, security, user interface): 40 |            |         10 |         10 |         20 |
 |------------+------------------------------------------+------------+------------+------------+------------|
 <<<<<<< HEAD
-
-** ASSESSMENT
+#+END_COMMENT
+** ASSESSMENT PATTERN
 | Assessment Tool         | Weight |    |
 |-------------------------+--------+----|
 | /Continous assessment/  |     50 |    |
@@ -219,17 +180,15 @@ assessment only.*
 | CAT 2 (Theory / Lab)    |        | 15 |
 | Lab work                |        | 20 |
 | /Project Assessment/    |     50 |    |
-| Review 1                |        |  5 |
-| Review 2                |        |  5 |
-| Mid semester evaluation |        | 15 |
+| Mid semester evaluation |        | 25 |
 | End semester evaluation |        | 25 |
 |-------------------------+--------+----|
-| Total                   |    100 |    |
-=======
-#+TBLFM: 
-
+| Total                   |        | 100|
+ 
+#+BEGIN_COMMENT
 ** Tentative Rubrics for Evaluation
-#+END_COMMENT
+
+** Assessment Pattern
 | Assessment Tool      | Weight |     |
 |----------------------+--------+-----|
 | End semester exam    |     50 |     |
@@ -274,8 +233,15 @@ assessment only.*
 | Total           |      100% |     |
 #+END_COMMENT
 ** TEXT BOOKS
+1. Ramez Elmasri, Shamkant B. Navathe, Fundamental of Database Systems, 7th Edition, Pearson, 2016.
+2. Pramod J. Sadalage, Martin Fowler, NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence, Addison-Wesley, 2013
 
 ** REFERENCES
+1. Thomas M. Connolly, Carolyn E. Begg, Database Systems – A Practical Approach to Design, Implementation, and Management, Sixth Edition, Global Edition, Pearson Education, 2015.
+2. Hector Garcia-Molina, Jeffrey D Ullman, Jennifer Widom, "Database Systems : The Complete Book", 2nd edition, Pearson.
+3. Toby Teorey, Sam Lightstone, Tom Nadeau, H. V. Jagadish, “Database Modeling and Design - Logical Design”, Fifth Edition, Morgan Kaufmann Publishers, 2011.
+4. Alex Giamas, “Mastering MongoDB 3.x – An expert's guide to building fault-tolerant MongoDB applications”, Packt publishing, 2017
+5. Eben Hewitt, “Cassandra: The Definitive Guide”, O’Reilly, 2011.
 
 #+BEGIN_COMMENT
 Technical Outcome.
