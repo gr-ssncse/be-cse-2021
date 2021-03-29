@@ -1,7 +1,7 @@
 ﻿* <<<PE102>>> SOFTWARE TESTING
 :properties:
 :author: Dr. K. Madheswari and Dr. A. Chamundeswari
-:date: 16.03.2021
+:date: 29.03.2021
 :end:
 
 #+startup: showall
@@ -9,6 +9,11 @@
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
+** R2021 CHANGES :noexport:
+1. The syllabus is revised based on the current trend. 
+2. All five units were changed and updated based on the recent text books
+3. Testing techniques for Object oriented software has been added
+4. Testing techniques for Web and Mobile application have been included
 
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
