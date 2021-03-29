@@ -1,7 +1,7 @@
 * <<<PE202>>> BIG DATA MANAGEMENT
 :properties:
 :author: Dr. J Suresh and Dr. Y. V. Lokeswari
-:date: 26-03-2021
+:date: 27-03-2021
 :end:
 
 #+begin_comment
@@ -16,6 +16,9 @@
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
+
+** R2021 CHANGES :noexport:
+1. Unit 1 to 5 have been fully changed with recent Big Data Management Tools.
 
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
