@@ -1,7 +1,7 @@
 * <<<504>>> SOFTWARE ENGINEERING
 :properties:
 :author: Dr. A. Chamundeswari and Ms. S. Angel Deborah
-:date: 
+:date: 29.3.2021(Changes highlighted)
 :end:
 
 
@@ -9,6 +9,27 @@
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
+
+** R2021 CHANGES :noexport:
+1. New terminlogy like Phases of the SDLC introduced
+2. Secure development life cycle dropped
+3. Agility in UNIT 1 of R2018 moved to UNIT 5 
+4. Project planning and software estimation of UNIT 2 in R2018 is moved to UNIT 1 
+5. UNIT 1 renamed as SOFTWARE PROCESS AND PLANNING
+6. UNIT 3 of R2018 reordered as UNIT 2
+7. UNIT 4 of R2018 reordered as UNIT 3
+8. User Interface design dropped
+9. Architecture for Network based Applications and Decentralized Architectures added
+10. UNIT 5 of R2018 reordered as UNIT 4
+11. Reengineering, Reverse Engineering, Restructuring dropped
+12. UNIT 5 - AGILE DEVELOPMENT AND DEVOPS introduced
+13. Armando Fox and David Patterson's book added as text book
+14. Ian Sommerville's book moved to reference
+15. Rajib Mall's book and Pankaj Jalote's book dropped
+16. Brian Albee's book added as reference book
+
+
+
 
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
