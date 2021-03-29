@@ -3,7 +3,11 @@
 :author: Dr. S. Manisha and Dr. Y.V. Lokeswari
 :date: 25.3.2021
 :end:
-
+** R2021 CHANGES :noexport:
+1. No change in units from R-2018
+2. The Course ourcomes are rephrased and aligned with the units. And CO-PO-PSO Mappings are done as per the expert's suggestions.
+3. Brian Fling added as Text Book to align with the units. Bill Scot and Theresa Neil moved to references.
+4. Text Books contents are verified to align with the units and are marked in the syllbus. 
 #+startup: showall
 
 {{{credits}}}
