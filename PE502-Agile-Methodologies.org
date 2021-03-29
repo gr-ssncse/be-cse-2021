@@ -10,8 +10,9 @@
 | 3 | 0 | 0 | 3 |
 
 ** R2021 CHANGES :noexport:
-1. we have verified the syllabus with industry expert.
+1. We have verified the syllabus with industry expert.
 2. No changes made in the syllabus
+3. Books are updated to recent edition.
 
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
