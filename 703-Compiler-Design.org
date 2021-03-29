@@ -1,8 +1,9 @@
 * <<<602>>> COMPILER DESIGN
   # DESIGN AND IMPLEMENTATION OF COMPILERS
+  
 :properties:
 :author: Dr. S. Saraswathi 
-:date: 27-02-2021 updated 09-03-2021 updated
+:date: 27-02-2021 updated 09-03-2021 updated 29-03-2021
 :end:
 
 #+begin_comment
@@ -10,31 +11,29 @@ Modified by :Dr.S.Saraswathi on 27-02-2021 as per the suggestion given by BB,DT,
 #+end_comment
 
 
-#+begin_comment
-- 1. Suggestive experiments are changed
-- 2. For changes, see the individual units.
-- 3. Not Applicable
-- 4. Five Course outcomes specified and aligned with units
-- 5. Suggestive experiments are given since it is a integrated course
-#+end_comment
-
 #+startup: showall
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 2 | 4 |
 
+** R2021 CHANGES :noexport:
+1. Unit 1 suggested by BB: after Recognition of tokens added  "Conversion of Regular expression to DFA"
+2. Lab Program 4 rephrased to include CO6
+3. Books are updated to recent edition.
+
+
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
 |                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
 |                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K5 |   K3 |   K6 |
-| CO1            | K3 |   2 |   3 |   2 |   2 |   1 |   0 |   0 |   0 |   2 |    2 |    0 |    1 |    2 |    1 |    0 |
-| CO2            | K3 |   2 |   3 |   3 |   3 |   1 |   0 |   0 |   0 |   2 |    2 |    0 |    1 |    2 |    2 |    0 |
-| CO3            | K3 |   2 |   3 |   3 |   2 |   1 |   0 |   0 |   0 |   2 |    2 |    0 |    1 |    3 |    1 |    0 |
-| CO4            | K3 |   2 |   3 |   3 |   2 |   1 |   0 |   0 |   0 |   2 |    2 |    0 |    1 |    3 |    1 |    0 |
-| CO5            | K3 |   2 |   3 |   3 |   2 |   1 |   0 |   0 |   0 |   2 |    2 |    0 |    1 |    2 |    1 |    0 |
+| CO1            | K3 |   2 |   3 |   2 |   2 |   1 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    1 |    0 |
+| CO2            | K3 |   2 |   3 |   3 |   3 |   1 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    2 |    0 |
+| CO3            | K3 |   2 |   3 |   3 |   2 |   1 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    1 |    0 |
+| CO4            | K3 |   2 |   3 |   3 |   2 |   1 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    1 |    0 |
+| CO5            | K3 |   2 |   3 |   3 |   2 |   1 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    1 |    0 |
 | CO6            | K3 |   2 |   3 |   3 |   3 |   1 |   2 |   2 |   2 |   3 |    3 |    1 |    3 |    3 |    2 |    2 |
-| Score          |    |  12 |  18 |  17 |  14 |   6 |   2 |   2 |   2 |  13 |   13 |    1 |    8 |   15 |    8 |    2 |
-| Course Mapping |    |   3 |   3 |   3 |   3 |   2 |   1 |   1 |   1 |   3 |    3 |    1 |    2 |    3 |    2 |    1 |
+| Score          |    |  12 |  18 |  17 |  14 |   6 |   2 |   2 |   2 |   3 |    3 |    1 |    3 |   15 |    8 |    2 |
+| Course Mapping |    |   3 |   3 |   3 |   3 |   2 |   1 |   1 |   1 |   1 |    1 |    1 |    1 |    3 |    2 |    1 |
 
 ** COURSE OBJECTIVES
 - To learn various phases of a compiler
