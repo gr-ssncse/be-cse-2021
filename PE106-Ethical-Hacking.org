@@ -1,9 +1,10 @@
 * <<<PE106>>> ETHICAL HACKING
 :properties:
-:author: R Kanchana
-:date: 
+:author: Dr. V. Balasubramanian and Dr. N. Sujaudeen
+:date: 29.3.2021
 :end:
-
+** R2021 CHANGES :noexport:
+New Syllabus
 #+startup: showall
 {{{credits}}}
 | L | T | P | C |
