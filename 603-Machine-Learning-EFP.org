@@ -1,4 +1,4 @@
-* <<<203>>> DATABASE MANAGEMENT SYSTEMS FUNDAMENTALS
+* <<<203>>> MACHINE LEARNING
 :properties:
 :author: Dr R Kanchana, Mr B Senthilkumar
 :date: 16 March 2021
@@ -28,7 +28,7 @@
 
 ** LECTURES (30 hours)
 {{{unit}}}
-| UNIT I | INTRODUCTION TO MACHINE LEARNING| 6 |
+| UNIT I | INTRODUCTION | 6 |
 Examples of Machine Learning Applications: Learning
 associations -- Classification -- Regression -- Unsupervised
 learning -- Reinforcement learning; Preliminaries: Weight

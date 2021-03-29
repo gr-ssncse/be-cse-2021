@@ -1,7 +1,7 @@
 * <<<405>>> DESIGN AND ANALYSIS OF ALGORITHMS
 :properties:
-:author: Dr.S.Kavitha and Mr.V.Balasubramanian
-:date: 12-03-2021
+:author: Dr S Kavitha, Dr V Balasubramanian, Dr R S Milton
+:date: 29-03-2021
 :end:
 
 #+startup: showall
@@ -10,7 +10,22 @@
 | L | T | P | C |
 | 3 | 0 | 2 | 4 |
 
-** CO PO PSO MAPPING :noexport:
+** R2021 CHANGES :noexport:
+1. Brute force dropped
+2. Reordered topics
+   1. Divide-and-conquer
+   2. Backtracking
+   3. Dynamic programming
+   4. Greedy
+   5. Iterative improvement
+3. Under iterative improvement: Simplex dropped; Stable matching and
+   Maximum network flow added.
+4. Under DP: Ordering in matrix multiplication added
+5. Suggested programs slightly changed
+6. Jeff Erickson added as a textbook. Dasgupta book moved to
+   reference.
+
+** CO-PO-PSO MAPPING                                               :noexport:
 #+NAME: co-po-pso mapping
 |                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
 | CO1            | K3 |   2 |   2 |   1 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    1 |    0 |    0 |
@@ -29,36 +44,34 @@
 
 
 {{{unit}}}
-|UNIT I|INTRODUCTION AND ANALYSIS |10| 
-Introduction: Fundamentals of algorithmic Problem solving -- Important
+| UNIT I | INTRODUCTION AND ANALYSIS | 9 |
+Introduction: Fundamentals of algorithmic problem solving -- Important
 problem types; Fundamentals of the Analysis of Algorithm Efficiency:
 Analysis framework -- Asymptotic notations and basic efficiency
 classes -- Mathematical analysis for recursive and non-recursive
 algorithms.
 
 {{{unit}}}
-|UNIT II|BRUTE FORCE AND DIVIDE AND CONQUER |8| 
-Brute Force: String matching -- Closest-pair problem; 
-Exhaustive search: Traveling salesman problem -- Knapsack problem.
+| UNIT II | DIVIDE-AND-CONQUER, BACKTRACKING | 9 |
 Divide and Conquer: Mergesort -- Quicksort -- Multiplication of large
-integers and Strassen's matrix multiplication.
+integers -- Strassen's matrix multiplication; Backtracking: Subset sum
+-- N-queens problem -- Hamiltonian circuit problem.
 
 {{{unit}}}
-|UNIT III |DYNAMIC PROGRAMMING AND GREEDY TECHNIQUE |9| 
+| UNIT III | DYNAMIC PROGRAMMING, GREEDY | 9 |
 Dynamic Programming: Computing a binomial coefficient -- Knapsack
-problem and memory functions -- Warshall's and Floyd's algorithm --
-Greedy Technique: Prim's algorithm -- Kruskal's algorithm --
-Dijkstra's algorithm.
+problem and memory functions -- Ordering of matrix multiplications --
+Warshall's and Floyd's algorithm; Greedy Technique: Dijkstra's
+algorithm, Prim's algorithm -- Kruskal's algorithm.
 
 {{{unit}}}
-|UNIT IV | ITERATIVE IMPROVEMENT AND BACKTRACKING |9| 
-Iterative Improvement: The simplex method -- Maximum matching in
-bipartite graphs; Backtracking: N-queens problem -- Hamiltonian
-circuit problem.
+|UNIT IV | ITERATIVE IMPROVEMENT, BRANCH-AND-BOUND |9| 
+Iterative Improvement: Stable matching -- Maximum Network Flow --
+Maximum matching in bipartite graphs; Branch and Bound: Knapsack
+problem -- Traveling salesman problem.
 
 {{{unit}}}
 | UNIT V | LIMITATIONS OF ALGORITHM POWER | 9 |
-Branch and Bound: Knapsack problem -- Traveling salesman problem;
 Limitations of algorithm power: Lower-bound arguments -- P, NP and
 NP-complete problems; Coping with the Limitations of Algorithm Power:
 Approximation algorithms for NP-Hard problems -- Traveling salesman
@@ -67,44 +80,43 @@ problem -- Knapsack problem.
  *Theory Periods: 45*
 
 ** SUGGESTIVE EXPERIMENTS
-1. Implementation of non-recursive and recursive algothms for the given
-   problem
-2. Implementation of string matching using Brute Force technique
-3. Implementation of Knapsack problem using Exhaustive Search
-   technique
-4. Implementation of merge sort and quick sort using Divide and
-   Conquer technique
-5. Implementation of Knapsack Problem using Dynamic Programming
-6. Implementation of Prim's and Dijkstra's algorithms.
-8. Implementation of n-Queens problem using Backtracking technique
-9. Implementation of Knapsack using Branch and Bound technique
-10. Mini project
+1. Iterative and recursive algorithms using decrease-and-conquer
+2. Backtracking: subset sum, N-queeens
+3. Divide-and-conquer: Mergesort, Quicksort 
+4. Dynamic Programming: Longest Increasing Subsequene, Floyd-Warshall
+5. Greedy: Prim's, Dijkstra's
+6. Iterative improvement: Stable matching, Network flow
+7. Branch and Bound: Knapsack
+8. Mini project
 
- *Practical Periods: 30*
+*Practical Periods: 30*
 
- *Total Periods: 75*
+*Total Periods: 75*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Develop the analysis Asymptotic framework for various computing problems (K3)
-- Analyze the time and space complexity of Divide and Conquer algorithm strategy and compare with naïve approach (K4)
-- Distinguish the importance of Dynamic Programming and Greedy Technique (K4)
-- Identify suitable algorithm design technique for optimization problems (K4)
-- Understand the limitations of algorithmic power (K2).
-- Design and implement important algorithms with appropriate data structures (K6)
-
+- Analyse asymptotic complexity of iterative and recursive algorithmic
+  problems (K3)
+- Design and analyse divide-and-conquer algorithm strategy and compare
+  with naive approach (K3)
+- Design and analyse backtracking algorithms and where possible convert them to
+  Dynamic Programming algorithms (K4)
+- Design and prove Greedy and Iterative improvement algorithsm (K4)
+- Prove the hardness of computing problems (K3)
+- Choose appropriate algorithms for computing problems and implement
+  them using efficient data structures.
 
 ** TEXT BOOKS
 1. Anany Levitin, ``Introduction to the Design and Analysis of
    Algorithms'', 3rd Edition, Pearson Education, 2012.
-
+2. Jeff Erickson, ``Algorithms'', 1st Edition, 2019,
+   https://jeffe.cs.illinois.edu/teaching/algorithms/
 
 ** REFERENCES
-1. Thomas H Cormen, Charles E Leiserson, Ronald L Rivest, Clifford
+1. S Dasgupta, C H Papadimitriou, U V Vazirani,
+   ``Algorithms'',1st Edition,  McGraw Hill Education, 2017.
+2. Thomas H Cormen, Charles E Leiserson, Ronald L Rivest, Clifford
    Stein, ``Introduction to Algorithms'', 3rd Edition, PHI Learning
    Private Limited, 2012.
-2. Steven S Skiena, ``The Algorithm Design Manual'', 2nd Edition,
+3. Steven S Skiena, ``The Algorithm Design Manual'', 2nd Edition,
    Springer, 2008.
-3. S Dasgupta, C H Papadimitriou, U V Vazirani,
-   ``Algorithms'',1st Edition,  McGraw Hill Education, 2017.
-
