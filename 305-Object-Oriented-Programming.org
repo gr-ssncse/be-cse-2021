@@ -1,8 +1,8 @@
 
-*<<R2021>> Changes
-String handling included
-Hybrid Inheritance Dropped
-User defined algorithms changed to Collection algorithms
+*<<<R2021>>> Changes
+- String handling included
+- Hybrid Inheritance Dropped
+- User defined algorithms changed to Collection algorithms
 
 
 * <<<305>>> OBJECT ORIENTED PROGRAMMING
