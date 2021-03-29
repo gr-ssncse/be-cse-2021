@@ -5,15 +5,16 @@
 :end:
 
 #+startup: showall
-#+begin_comment
-- 1. Same as R2017 AU
-- 3. Not Applicable
-- 4. Five Course outcomes specified and aligned with units
-- 5. Not Applicable
-#+end_comment
+
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
+
+** R2021 CHANGES :noexport:
+1. Unit 3 of R2018 has been reordered as unit 5 in R2021.
+2. Unit 4 and 5 of R2018 has been reordered as unit 3 and 4 in R2021.  
+   
+
 
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
