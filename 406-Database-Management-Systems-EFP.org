@@ -41,7 +41,7 @@ Introduction to transaction processing – properties of transactions.
 Enhanced-ER (EER) model, EER in UML class diagrams. Object database extensions to SQL, ODL and OQL. 
 
 {{{unit}}}
-| UNIT V |  NO-SQL DATABASES | 6 |
+| UNIT V |  NO-SQL DATABASES | 7 |
 Characteristics and categories, Aggregate data models, Distribution models, CAP theorem, schema design and data modeling, CRUD operations.  	
 
 ** CLASS ACTIVITY - Lab work (15 hours)
