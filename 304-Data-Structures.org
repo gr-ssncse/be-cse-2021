@@ -54,10 +54,9 @@ expressions -- Function calls; Queue ADT: Queue model -- Array implementation of
 -- Applications of queues.
 
 {{{unit}}}
-| UNIT III | NON LINEAR DATA STRUCTURES – TREES   | 9 |
-Preliminaries: Implementation of trees -- Tree traversals with an
-application; Binary trees: Expression trees; Binary search tree ADT;
-AVL trees; B-Trees; Priority Queues: Binary heap.
+| UNIT III | NON LINEAR DATA STRUCTURES – TREES   | 10 |
+Preliminaries; Binary trees: Expression trees; Binary search tree ADT;
+AVL trees; Tree traversals; B-Trees; Priority Queues: Binary heap.
 
 {{{unit}}}
 | UNIT IV | NON LINEAR DATA STRUCTURES – GRAPHS | 9 |
@@ -68,7 +67,7 @@ All-pairs shortest path.
 
 {{{unit}}}
 | UNIT V | SORTING AND HASHING TECHNIQUES | 9 |
-Sorting: Selection sort -- Insertion -- Shell sort -- Merge sort; Hashing: Hash function -- Separate chaining -- Open
+Sorting: Insertion sort -- Shell sort -- External sorting; Hashing: Hash function -- Separate chaining -- Open
 addressing -- Rehashing -- Extendible hashing.
 
 \hfill *Total Periods: 45*
