@@ -31,30 +31,23 @@
 
 {{{unit}}}
 | UNIT I | INTRODUCTION TO BUSINESS ANALYTICS | 9 |
-Introduction - Types of Digital Data - OLAP & OLTP - Business View of
-Information Technology Application - Descriptive Analytics -
-Prescriptive Analytics - Application of Analytics
+Introduction - Types of Digital Data - OLAP & OLTP - Business View of Information Technology Application - Descriptive Analytics - Prescriptive Analytics - Application of Analytics
 
 {{{unit}}}
 | UNIT II | BUSINESS INTELLIEGENCE | 9 |
-Introduction - BI Definition and Concepts - Data Integration -
-Multidimensional Data Modeling
+Introduction - BI Definition and Concepts - Data Integration - Multidimensional Data Modeling
 
 {{{unit}}}
 | UNIT III |UNDERSTANDING PROBABLITY AND STATISTICS | 9 |
-Probability - Sampling and Estimation - Confidence Intervals -
-Hypothesis Testing - Analysis of Variance - Correlation Analysis -
-Understanding Statistics
+Probability - Sampling and Estimation - Confidence Intervals - Hypothesis Testing - Analysis of Variance - Correlation Analysis - Understanding Statistics
 
 {{{unit}}}
 |UNIT IV | DATA MINING ALGORITHMS | 9 |
-Simple Linear Regression - Multiple Linear Regression - Logistic
-Regression - Decision Tree - Forecasting Techniques - Clustering
+Simple Linear Regression - Multiple Linear Regression - Logistic Regression - Decision Tree - Forecasting Techniques - Clustering - Mining Frequent Patterns -- Associations and Correlations -- Mining Methods -- Pattern Evaluation Method
 
 {{{unit}}}
 | UNIT V | BUSINESS ANALYTICS TOOLS | 9 |
-SAP Business Intelligence - Zoho Analytics - Microsoft Power BI -
-Tableau - Oracle BI - IBM Cognos Analytics.
+SAP Business Intelligence - Zoho Analytics - Microsoft Power BI - Tableau - Oracle BI - IBM Cognos Analytics.
 
 \hfill *Total Periods: 45*
 
