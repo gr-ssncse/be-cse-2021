@@ -36,11 +36,12 @@
 | CO6            | K6 |   3 |   2 |   2 |   3 |   3 |   0 |   0 |   1 |   3 |    1 |    0 |    2 |    2 |    0 |    2 |
 
 ** COURSE OBJECTIVES
-- Learn the algorithm analysis techniques
-- Analyze the asymptotic performance of algorithms.
-- Understand the conceppt of different algorithm design techniques
-- Understand the limitations of algorithmic power.
-- Demonstrate the familiarity with important algorithms and data structures.
+- To learn algorithms analysis techniques.
+- To analyze the asymptotic performance of algorithms.
+- To apply different algorithm design strategies.
+- To prove the limitations of algorithmic power.
+- To demonstrate the familiarity with important algorithms and data
+  structures.
 
 
 {{{unit}}}

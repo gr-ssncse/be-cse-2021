@@ -49,7 +49,7 @@ n-step Bootstrapping: TD Prediction -- Sarsa -- Off-policy Learning;
 Planning and Learning with Tabular Methods.
 
 {{{unit}}}
-| UNIT IV |   | APPROXIMATE SOLUTION METHODS | 10 |
+| UNIT IV | APPROXIMATE SOLUTION METHODS | 10 |
 On-policy Prediction with Approximation; On-policy Control with
 Approximation; Eligibility Traces: The \lambda-return -- TD(\lambda)
 -- n-step Truncated \lambda-return Methods -- Online \lambda-return

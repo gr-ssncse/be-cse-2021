@@ -1,14 +1,13 @@
-
-* R2021 Changes
-- Order of the exercises has been revised
-- Exception handling exercise was added 
-- An Experiment using file operations was removed
-
 * <<<308>>> OBJECT ORIENTED PROGRAMMING LAB
 :properties:
 :author: Dr. B. Prabavathy and Dr. B. Bharathi
 :date: 09-03-2021
 :end:
+
+** R2021 CHANGES :noexport:
+- Order of the exercises has been revised
+- Exception handling exercise was added 
+- An Experiment using file operations was removed
 
 #+startup: showall
 #+begin_comment

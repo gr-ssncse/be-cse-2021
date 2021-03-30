@@ -1,4 +1,4 @@
-* <<<203>>> DATABASE MANAGEMENT SYSTEMS
+* <<<406>>> DATABASE MANAGEMENT SYSTEMS
 :properties:
 :author: Dr R Kanchana, Mr B Senthilkumar
 :date: 16 March 2021
@@ -27,6 +27,7 @@
 {{{unit}}} 
 | UNIT I | CONCEPTUAL MODELING | 4 |
 Database system development life cycle, Requirement analysis, Entity-Relationship (ER) model, Constraints.
+
 {{{unit}}}
 | UNIT II | RELATIONAL DATA MODEL  | 7 |
 Integrity constraints, SQL Data definition, Data retrieval, Complex queries, Views, Database programming.	
@@ -176,10 +177,10 @@ assessment only.*
 |-------------------------+--------+----|
 | Total                   |        | 100|
  
-#+BEGIN_COMMENT
-** Tentative Rubrics for Evaluation
 
-** Assessment Pattern
+** COMMENT Tentative Rubrics for Evaluation
+
+** COMMENT Assessment Pattern
 | Assessment Tool      | Weight |     |
 |----------------------+--------+-----|
 | End semester exam    |     50 |     |
@@ -220,7 +221,6 @@ assessment only.*
 | End Sem Review  |           | 30% |
 |-----------------+-----------+-----|
 | Total           |      100% |     |
-#+END_COMMENT
 
 ** TEXT BOOKS
 1. Ramez Elmasri, Shamkant B. Navathe, Fundamental of Database Systems, 7th Edition, Pearson, 2016.

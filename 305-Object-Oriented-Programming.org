@@ -1,15 +1,13 @@
-
-* R2021 Changes
-- String handling included
-- Hybrid Inheritance Dropped
-- User defined algorithms changed to Collection algorithms
-
-
 * <<<305>>> OBJECT ORIENTED PROGRAMMING
 :properties:
 :author: Dr. B. Prabavathy and Dr. B. Bharathi
 :date: 09-03-2021
 :end: 
+
+** R2021 CHANGES :noexport:
+- String handling included
+- Hybrid Inheritance Dropped
+- User defined algorithms changed to Collection algorithms
 
 #+startup: showall
 #+begin_comment

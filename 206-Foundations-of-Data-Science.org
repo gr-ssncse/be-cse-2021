@@ -85,7 +85,7 @@ After the completion of this course, students will be able to:
 1. Davy Cielen, Arno D B Meysman, Mohamed Ali, ``Introducing Data
    Science -- Big data, Machine Learning, and more using Python
    tools'', Manning Publications Co, 2016. 
-2. Laura Igual, Santi Segua­, ``Introduction to Data Science -- A
+2. Laura Igual, Santi Segua, ``Introduction to Data Science -- A
    Python Approach to Concepts, Techniques and Applications'',
    Springer Nature, 2017
    
