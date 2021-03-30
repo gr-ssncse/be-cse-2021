@@ -1,7 +1,15 @@
 * <<<PE102>>> ADVANCED DATABASE MANAGEMENT SYSTEMS
 :properties:
-:author: Ms. A. Beulah and Dr. P. Mirunalini
+:author: Mr.B.Senthil Kumar and Dr. P. Mirunalini
+:date: 30-03-2021
 :end:
+
+** R2021 CHANGES :noexport:
+1. Unit 4 is fully changed to Intelligent databases.
+2. Unit 5 is fully changed to Mobile and Spatial databases.
+3. NoSQL databases covered in DBMS core course (R2017-Unit4).
+4. Big data - a separate course is introduced (R2017-Unit 5).
+
 
 #+startup: showall
 {{{credits}}}
@@ -34,8 +42,8 @@ The student should be able to:
 - To acquire knowledge on parallel and distributed databases and their applications 
 - To study the usage and applications of Object and Object Relational Databases
 - To learn about XML Database
-- To acquire Knowledge in Unstructured Databases
-- To understand the concepts of HBase and HIVE.
+- To acquire knowledge in intelligent Databases
+- To learn the concepts of emerging technologies
 
 {{{unit}}}
 |UNIT I |PARALLEL AND DISTRIBUTED DATABASES| 9 |
@@ -59,26 +67,31 @@ Object relational features in SQL/Oracle -- Case studies.
 
 {{{unit}}}
 |UNIT III | XML DATABASES | 9 |
-XML Databases: XML-related technologies -- XMLSchema -- XML Query
+XML Databases: XML-Data model -- DTD -- XMLSchema -- XML Query
 Languages -- Storing XML in databases -- XML and SQL -- Native XML
 databases -- Web databases.
 
 {{{unit}}}
-|UNIT IV | NOSQL DATABASE | 9 |
-Why NoSQL: Aggregate datamodels -- The CAP theorem -- Key-value
-databases -- Document databases -- Column-Family stores -- Graph
-databases.
+|UNIT IV | INTELLIGENT DATABASES | 9 |
+Active  Databases:Syntax and Semantics(Oracle,DB2) -- Taxonomy -- 
+Applications -- Design Principles for Active Rules; Deductive 
+Databases: Logic of Query Languages -- Datalog -- Recursive Rules 
+-- Syntax and Semantics of Datalog Languages -- Implementation 
+of Rules and Recursion -- Recursive Queries in SQL.
 
 #+begin_comment
 Newly added to meet industry requirements
 #+end_comment
 
 {{{unit}}}
-|UNIT V | HBASE AND HIVE | 9 |
-Introduction to Hadoop and MapReduce; HBase Basic Features: CRUD
- operations -- Batch operations -- Row Locks; Advanced Features:
- Filters -- Counters -- Htablepool; HiveQL: Data definition -- Data
- manipulation -- Queries.
+|UNIT V | EMERGING TECHNOLOGIES | 9 |
+Mobile Databases: Location and Handoff Management -- Effect of 
+Mobility on Data Management -- Location  Dependent Data Distribution 
+-- Mobile Transaction Models -- Concurrency Control -- Transaction 
+Commit Protocols; Spatial  Databases: Spatial Data Types -- Spatial 
+Relationships -- Spatial Data Structures -- Spatial Access Methods 
+-- Spatial DB Implementation; Geographic Information Systems.
+ 
 
 #+begin_comment
 Newly added to meet industry requirements
@@ -88,20 +101,18 @@ Newly added to meet industry requirements
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Design Parallel and Distributed Databases (K3)
-- Understand Object and Object Relational Databases (K2)
-- Design an application using XML Database (K3)
-- Implement different NoSQL Databases (K3)
-- Design an application using the concepts of HBase and HIVE (K3).
+- Learn Parallel and Distributed Databases (K2)
+- Design and query in Object and Object Relational Databases (K3)
+- Design schema and query XML Databases (K3)
+- Apply rules to infer knowledge from databases. (K3)
+- Learn concepts in mobile and spatial databases (K2).
 
 ** TEXT BOOKS 
 1. Elmasri, Ramez, Shamkant Navathe, ``Fundamentals of database
-   systems'', Addison-Wesley Publishing Company, 2011 (Units I, II,
-   III)
-2. Fowler, Martin, Pramod Sadalage, ``NoSQL Distilled'' Addison
-   Wesely, 2013 (Unit IV).
-3. George, Lars, ``HBase: The Definitive Guide: Random Access to Your
-   Planet-Size Data'', O Reilly Media Inc, 2011 (Unit V).
+   systems'', 7th Edition, Pearson, 2016 
+2. Thomas Cannolly and Carolyn Begg, “Database  Systems,  
+   A Practical Approach to Design, Implementation and Management”, 
+   Third Edition, Pearson Education, 2007.
 
 ** REFERENCES
 1. Capriolo, Edward, Dean Wampler, Jason Rutherglen. ``Programming
