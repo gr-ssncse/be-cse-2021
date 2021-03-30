@@ -22,6 +22,10 @@
 | Score          |    |  12 |  11 |   7 |   7 |   6 |   0 |   0 |   0 |   1 |    1 |    0 |    1 |    7 |   12 |    6 |
 | Course Mapping |    |   3 |   3 |   2 |   2 |   2 |   0 |   0 |   0 |   1 |    1 |    0 |    1 |    2 |    3 |    2 |
 
+** R2021 CHANGES :noexport:
+1. Monitors in Unit II removed.
+2. I/O Systems in Unit IV removed.
+
 #+begin_comment
   1. As the course is focussed towards fundamental resource handling strategies, advanced techniques suggested like RELRO and ASLR are not included
   2. Since there exists a specific course on security in a higher semester, inclusion of security perspectives for operating systems theory and lab would be too early for second-year students
@@ -40,7 +44,7 @@
 - To learn about Processes, Threads and Scheduling algorithms
 - To understand the principles of concurrency and Deadlocks
 - To learn various memory management schemes
-- To study I/O management and File systems.
+- To study disk management and File systems.
 
 
 {{{unit}}}
@@ -58,7 +62,7 @@ system boot.
 Processes: Process concept -- Process scheduling -- Operations on
 processes -- Interprocess communication; Threads: Overview --
 Multithreading models -- Thread issues;  CPU Scheduling: FCFS, SJF, Priority, Roundrobin, Rate Monotonic and EDF
-scheduling; Process synchronization -- Critical section problem -- Mutex locks -- Semophores; Deadlocks -- Avoidance -- Prevention -- Detection and
+scheduling; Process synchronization -- Critical section problem -- Mutex locks -- Semaphores; Deadlocks -- Avoidance -- Prevention -- Detection and
 Recovery.
 
 {{{unit}}}
