@@ -1,15 +1,14 @@
 * <<<602>>> COMPILER DESIGN
-  # DESIGN AND IMPLEMENTATION OF COMPILERS
-  
 :properties:
 :author: Dr. S. Saraswathi 
 :date: 27-02-2021 updated 09-03-2021 updated 29-03-2021
 :end:
 
+# DESIGN AND IMPLEMENTATION OF COMPILERS
+
 #+begin_comment
 Modified by :Dr.S.Saraswathi on 27-02-2021 as per the suggestion given by BB,DT,BP
 #+end_comment
-
 
 #+startup: showall
 {{{credits}}}

@@ -1,21 +1,27 @@
-* R2021 Changes
-  - CSS Box Model and JSON were added
-  - Audio and video controls as they are not very important
-  - Topics of Unit 4 are changed based on the following book as the ReactJS moved to recent version
- -- Book Alex Banks, Eve Porcello, ``Learning React: Modern 
-   Patterns for Devloping React Apps'', June 2020, O'Reilly Media Inc.,
-  -  Topics of Unit 5 are changed based on the following book as the NodeJS moved to recent version
-   -- Book Shelly Powers, ``Learning Node 2nd Edition'', 1st
-   Edition, O'Reilly Media, June 2016. (Unit 5)
-  --Book Sitepoint Team, ``Your First Week With Node.js'', SitePoint, February 2018. (Unit 5)
-  
-
 * <<<601>>> INTERNET PROGRAMMING 
 :properties:
 :author: Dr. B. Prabavathy and Dr. V. S. Felix Enigo
 :Date: 24-03-2021
 :end:
 
+#+startup: showall
+{{{credits}}}
+| L | T | P | C | 
+| 3 | 0 | 0 | 3 |
+
+** R2021 Changes :noexport:
+  - CSS Box Model and JSON were added
+  - Audio and video controls as they are not very important
+  - Topics of Unit 4 are changed based on the following book as the ReactJS moved to recent version
+  - Book Alex Banks, Eve Porcello, ``Learning React: Modern Patterns
+    for Devloping React Apps'', June 2020, O'Reilly Media Inc.,
+  - Topics of Unit 5 are changed based on the following book as the
+    NodeJS moved to recent version -- Book Shelly Powers, ``Learning
+    Node 2nd Edition'', 1st Edition, O'Reilly Media,
+    June 2016. (Unit 5)
+  - Book Sitepoint Team, ``Your First Week With Node.js'', SitePoint,
+    February 2018. (Unit 5)
+  
 #+BEGIN_COMMENT
 1. Comments for the inclusion and removal of the contents in this syllabus with respect to AU R-2017 have been included along with the units
 2. The syllabi for UG and PG are different to a larger extent
@@ -23,11 +29,6 @@
 4. Suggestive experiments are specified in the separate lab course for this subject
 5. In Unit-I, Web server vulnerabilities and solutions has been added as suggested by Mr. Karthik
 #+END_COMMENT
-
-#+startup: showall
-{{{credits}}}
-| L | T | P | C | 
-| 3 | 0 | 0 | 3 |
 
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping

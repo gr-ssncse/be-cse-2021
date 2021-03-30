@@ -3,18 +3,15 @@
 :author: Ms. R. Priyadharsini and Ms. P. Mirunalini
 :date: 09.03.2021  
 :end:
+
 #+startup: showall
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
 
 ** R2021 CHANGES :noexport:
 1. Added case study in units 2,4 & 5
 2. Modified CO5 from K3 to K4
-
-
-
-
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
 
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping

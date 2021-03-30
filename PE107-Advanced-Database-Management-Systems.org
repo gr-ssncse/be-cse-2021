@@ -4,17 +4,16 @@
 :date: 30-03-2021
 :end:
 
+#+startup: showall
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+
 ** R2021 CHANGES :noexport:
 1. Unit 4 is fully changed to Intelligent databases.
 2. Unit 5 is fully changed to Mobile and Spatial databases.
 3. NoSQL databases covered in DBMS core course (R2017-Unit4).
 4. Big data - a separate course is introduced (R2017-Unit 5).
-
-
-#+startup: showall
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
 
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping

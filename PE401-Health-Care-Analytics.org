@@ -112,5 +112,5 @@ After the completion of this course, students will be able to:
    Science for Healthcare Methodologies and Applications'', Springer
    Nature Switzerland AG., 2019
 3. Joseph M. Woodside , ``Applied Health Analytics and Informatics
-   Using SAS '', SAS Institute, O'Reilly, 2018
+   Using SAS'', SAS Institute, O'Reilly, 2018
 

@@ -1,9 +1,9 @@
 * <<<604>>> ARTIFICIAL INTELLIGENCE
-# PRINCIPLES OF ARTIFICIAL INTELLIGENCE
 :properties:
 :author: Dr. T.T.Mirnalinee and Dr. S. Kavitha
 :date: 27-03-2021
 :end:
+# PRINCIPLES OF ARTIFICIAL INTELLIGENCE
 
 #+startup: showall
 {{{credits}}}

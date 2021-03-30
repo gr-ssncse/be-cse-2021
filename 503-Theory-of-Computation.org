@@ -79,8 +79,8 @@ Undecidablity: Language that is not Recursively Enumerable (RE) --
 Undecidable problem that is RE -- Undecidable problems about Turing
 machines -- Post's Correspondence Problem (PCP).
 
-\hfill *Tutorial: 15*
-\hfill *Total Periods: 60*
+# \hfill *Tutorial: 15*
+\hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 

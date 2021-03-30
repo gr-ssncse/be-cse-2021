@@ -3,18 +3,16 @@
 :author: Dr.S.Kavitha and Dr.P.Mirunalini
 :date: 29-03-2021  
 :end:
-** R2021 CHANGES :noexport:
- Few changes are done from AU 2013, 7th semester Elective course on Bioinformatics
-
 
 #+startup: showall
-
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
+** R2021 CHANGES :noexport:
+ Few changes are done from AU 2013, 7th semester Elective course on Bioinformatics
 
-** CO PO MAPPING :noexport:
+** CO PO MAPPING                                                   :noexport:
 #+NAME: co-po-mapping
 |                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
 | CO1            | K2 |   2 |   0 |   1 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    1 |    0 |    0 |
@@ -73,5 +71,7 @@ After the completion of this course, students will be able to:
 1. Yi-Ping Phoebe Chen (Ed), “BioInformatics Technologies”, First Indian Reprint, Springer Verlag, 2007.
 
 ** REFERENCES
-1. Arthur M Lesk, “Introduction to Bioinformatics”, Fourth Edition, Oxford University Press, 2008
-2. Rui Jiang • Xuegong Zhang • Michael Q. Zhang, "Basics of Bioinformatics", Tsinghua University Press, Springer, 2013   
+1. Arthur M Lesk, ``Introduction to Bioinformatics'', Fourth Edition,
+   Oxford University Press, 2008
+2. Rui Jiang, Xuegong Zhang, Michael Q Zhang, ``Basics of
+   Bioinformatics'', Tsinghua University Press, Springer, 2013
