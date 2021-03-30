@@ -44,13 +44,13 @@ CO5 was modified
       number, integer division, sum of digits of an integer,
       multiplication table, sum of a series, print patterns, square
       root using Newton's method).
-   5. Develop programs using function (sine and cosine series,
+   5. Develop programs using functions (sine and cosine series,
       Pythagorean triplets).
    6. Develop programs using recursion (efficient power of a number,
       factorial, Fibonacci number).
    7. Develop programs using strings (palindrome, finding substring)
       without using in-built functions.
-   8. Develop programs using list and tuples (linear search, binary
+   8. Develop programs using lists and tuples (linear search, binary
       search, selection sort, insertion sort, quicksort).
    9. Develop programs using nested lists (matrix manipulations).
    10. Develop simple programs using dictionaries (frequency
@@ -58,7 +58,7 @@ CO5 was modified
    11. Develop programs using Files (read and write files).
    12. Develop programs to perform any task by reading arguments from
        command line.
-   13. Implement simple application using appropriate datatypes and files
+   13. Implement a simple application using appropriate datatypes and files
 \hfill *Total Hours: 60*
 
 ** COURSE OUTCOMES
