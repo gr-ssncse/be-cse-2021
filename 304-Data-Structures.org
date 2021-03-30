@@ -25,7 +25,8 @@
 
 
 ** REVISION 2021                                                   :noexport:
-1. 
+1. In Unit 2, Function call is added in the application of stack.
+2. 
 
 {{{credits}}}
 | L | T | P | C |
@@ -34,7 +35,6 @@
 
 ** COURSE OBJECTIVES
 - To understand the concepts of ADT
-- To learn the concept of pointers and structures in C
 - To comprehend the notion of linear and non linear data structures
 - To apply the linear and non-linear data structures to various problems 
 - To design suitable data structures for different problems and implement them in C
@@ -47,10 +47,10 @@ Circular linked lists -- Doubly linked lists -- Applications of Lists:
 Polynomial manipulation.
 
 {{{unit}}}
-| UNIT II | LINEAR DATA STRUCTURES – STACKS AND QUEUES | 8 |
+| UNIT II | LINEAR DATA STRUCTURES – STACKS AND QUEUES | 7 |
 Stack ADT: Stack model -- Implementation of stacks -- Applications:
 Balancing symbols -- Infix to postfix conversion -- Evaluating postfix
-expressions; Queue ADT: Queue model -- Array implementation of queues
+expressions -- Function calls; Queue ADT: Queue model -- Array implementation of queues
 -- Applications of queues.
 
 {{{unit}}}
@@ -67,9 +67,8 @@ Topological sort -- Shortest-Path Algorithms: Dijkstra's algorithm --
 All-pairs shortest path.
 
 {{{unit}}}
-| UNIT V | SEARCHING, SORTING AND HASHING TECHNIQUES | 9 |
-Searching: Linear search -- Binary search; Sorting: Selection sort --
-Shell sort; Hashing: Hash function -- Separate chaining -- Open
+| UNIT V | SORTING AND HASHING TECHNIQUES | 9 |
+Sorting: Selection sort -- Insertion -- Shell sort -- Merge sort; Hashing: Hash function -- Separate chaining -- Open
 addressing -- Rehashing -- Extendible hashing.
 
 \hfill *Total Periods: 45*
