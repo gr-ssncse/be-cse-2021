@@ -9,7 +9,8 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
- ** R2021 CHANGES :noexport:
+
+** R2021 CHANGES :noexport:
  New course
  
 #+begin_comment
