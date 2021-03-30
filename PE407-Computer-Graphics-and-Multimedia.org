@@ -23,6 +23,9 @@
 | Score          |    |  17 |  18 |  14 |   9 |  11 |   0 |   0 |   0 |   3 |    5 |    1 |   10 |   18 |    8 |   14 |
 | Course Mapping |    |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   0 |   0 |    0 |    0 |    2 |    3 |    3 |    1 |
 
+** R2021 CHANGES :noexport:
+1. Bezier curves and surfaces removed to concentrate more on 3D trnasformations and projections
+
 #+begin_comment
 1. Unit IV & V differ from AU2017. 
 2. Unit I - Moved Topics on "Illumination and color Models" to Unit IV.Random and Raster scan systems are added as introductory topics.
