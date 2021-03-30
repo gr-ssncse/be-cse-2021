@@ -67,4 +67,4 @@ After the completion of this course, students will be able to:
 - Build Python programs with conditionals and loops  (K3).
 - Solve  a problem using functions in python programming (K3).
 - Construct python programs using compound data like lists, tuples, and dictionaries (K3).
-- Build a simple apllications in teams using files and appropriate datatypes by applying best programming practices (K3).
+- Build a simple application in teams using files and appropriate datatypes by applying the best programming practices (K3).
