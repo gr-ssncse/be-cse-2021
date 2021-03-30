@@ -53,8 +53,6 @@ Characteristics and categories, Aggregate data models, Distribution models, CAP 
 6. ODL and OQL in object-relational databases
 7. Data modelling and design, operations in NoSQL (Mongo/ HBase / Cassandra / Redis)
 
->>>>>>> 5543fbef0aedd57cddfc47445d76c357931cda9d
-
 ** STUDIO SESSIONS (15 sessions of 3 hours each)
 /Sample Case Study/: Online booking and service system
 
@@ -124,7 +122,6 @@ Requirements:
     limitations of their solution in terms of performance,
     security, user experience, reusability and extendibility.
 
-
 \hfill *Total Hours: 30 + 15 + 45 = 90*
 
 ** COURSE OUTCOMES
@@ -142,17 +139,12 @@ After the completion of this course, students will be able to:
     as well as underlying legal and ethical considerations
     wherever are applicable.
 
-<<<<<<< HEAD
 ** COMMENT EVALUATION
-=======
-** EVALUATION
-#+BEGIN_COMMENT
 EFP will be assessed by a committee of faculty members based
 on Studio Sessions, Reflections, Presentation and
 Documentation. *EFP will be evaluated based on continuous
 assessment only.*
 
->>>>>>> 5543fbef0aedd57cddfc47445d76c357931cda9d
 #+latex: \newcolumntype{Y}{>{\small\raggedright\arraybackslash}X}
 #+latex: \newcolumntype{A}{>{\small\raggedright\arraybackslash\hsize=.7\hsize}X}
 #+latex: \newcolumntype{B}{>{\small\raggedright\arraybackslash\hsize=1.2\hsize}X}
@@ -170,9 +162,8 @@ assessment only.*
 |------------+------------------------------------------+------------+------------+------------+------------|
 | End sem evaluation by a committee | Demo  (Innovation, emerging technologies, security, user interface): 40 |            |         10 |         10 |         20 |
 |------------+------------------------------------------+------------+------------+------------+------------|
-<<<<<<< HEAD
-#+END_COMMENT
-** ASSESSMENT PATTERN
+
+** ASSESSMENT
 | Assessment Tool         | Weight |    |
 |-------------------------+--------+----|
 | /Continous assessment/  |     50 |    |
@@ -203,9 +194,7 @@ assessment only.*
 | End semester review  |        | 25% |
 |----------------------+--------+-----|
 | Total                |    100 |     |
->>>>>>> 5543fbef0aedd57cddfc47445d76c357931cda9d
 
-#+BEGIN_COMMENT
 | Assessment Tool      | Weightage |     |
 |----------------------+-----------+-----|
 | End semester exam    |       25% |     |
@@ -232,6 +221,7 @@ assessment only.*
 |-----------------+-----------+-----|
 | Total           |      100% |     |
 #+END_COMMENT
+
 ** TEXT BOOKS
 1. Ramez Elmasri, Shamkant B. Navathe, Fundamental of Database Systems, 7th Edition, Pearson, 2016.
 2. Pramod J. Sadalage, Martin Fowler, NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence, Addison-Wesley, 2013
