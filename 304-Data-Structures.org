@@ -12,12 +12,12 @@
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping 
 |                | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
-| CO1            |   3 |   3 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |    1 |    0 |    2 |    3 |    2 |    1 |
-| CO2            |   3 |   3 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |    1 |    0 |    2 |    3 |    2 |    1 |
-| CO3            |   3 |   3 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |    1 |    0 |    2 |    3 |    2 |    1 |
-| CO4            |   3 |   3 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |    1 |    0 |    2 |    3 |    2 |    1 |
-| CO5            |   3 |   3 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |    1 |    0 |    2 |    3 |    2 |    1 |
-| Score          |  15 |  15 |  15 |  15 |   0 |   0 |   0 |   0 |   0 |    5 |    0 |   10 |   15 |   10 |    5 |
+| CO1            |   2 |   2 |   2 |   1 |   0 |   0 |   0 |   0 |   0 |    1 |    0 |    1 |    2 |    1 |    0 |
+| CO2            |   2 |   2 |   2 |   1 |   0 |   0 |   0 |   0 |   0 |    1 |    0 |    1 |    2 |    1 |    0 |
+| CO3            |   2 |   2 |   2 |   1 |   0 |   0 |   0 |   0 |   0 |    1 |    0 |    1 |    2 |    1 |    0 |
+| CO4            |   2 |   2 |   2 |   1 |   0 |   0 |   0 |   0 |   0 |    1 |    0 |    1 |    2 |    1 |    0 |
+| CO5            |   2 |   2 |   2 |   1 |   0 |   0 |   0 |   0 |   0 |    1 |    0 |    1 |    2 |    1 |    0 |
+| Score          |  10 |  10 |  10 |   5 |   0 |   0 |   0 |   0 |   0 |    5 |    0 |    5 |   10 |    5 |    0 |
 
 #+begin_comment
 | Course Mapping |   3 |   3 |   2 |   0 |   2 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    2 |
@@ -26,7 +26,7 @@
 
 ** REVISION 2021                                                   :noexport:
 1. In Unit 2, Function call is added in the application of stack.
-2. 
+2. In Unit 5, External sorting is added.
 
 {{{credits}}}
 | L | T | P | C |
@@ -34,10 +34,11 @@
 
 
 ** COURSE OBJECTIVES
-- To understand the concepts of ADT
 - To comprehend the notion of linear and non linear data structures
 - To apply the linear and non-linear data structures to various problems 
-- To design suitable data structures for different problems and implement them in C
+- To learn sorting and hashing techniques
+- To design suitable data structures for different problems and implement them in C.
+
 
 {{{unit}}}
 | UNIT I | LINEAR DATA STRUCTURES - LIST | 10 |
@@ -74,11 +75,11 @@ addressing -- Rehashing -- Extendible hashing.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-- Elucidate and implement various operations of List (K3)
+- Analyze the different types of list and their operations with suitable applications (K4)
 - Develop applications using stack and queue (K3)
-- Implement the operations of balanced and unbalanced trees (K3)
-- Develop applications using shortest path and traversal algorithms of graph  (K3)
-- Choose suitable searching and sorting algorithms to solve various computing problems (K4).
+- Apply the operations of unbalanced and balanced trees to develop solutions to various problems (K3)
+- Develop applications using traversal and shortest path algorithms of graph (K3)
+- Choose suitable sorting and hashing algorithms to solve various computing problems (K3).
    
       
 ** TEXT BOOKS
