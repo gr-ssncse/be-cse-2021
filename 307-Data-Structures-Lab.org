@@ -36,14 +36,14 @@
 ** SUGGESTIVE EXPERIMENTS
 1. Represent polynomial expression as linked list and write functions for polynomial manipulation
 2. Implement doubly linked list ADT (e.g Insert, delete, search, merge, reverse operations)
-3. Array implementation of Stack ADT (e.g Balancing paranthesis, infix to postfix conversion, evaluation of postfix expression)
-4. Array implementation of Queue ADT (e.g Simulating printer jobs)
+3. Implementation of Stack ADT (e.g Balancing paranthesis, infix to postfix conversion, evaluation of postfix expression)
+4. Implementation of Queue ADT (e.g Simulating printer jobs)
 5. Implement binary search tree and produce its pre-order, in-order, and post-order traversals
 6. Implement AVL trees (e.g Implement dictionary)  
 7. Implement priority queue using binary heaps (e.g Storing employee records based upon salary)
 8. Graph representation and implement graph traversal algorithms 
 9. Implement Dijkstra's algorithm using graph (e.g Find the shortest route to connect one city to another)
-10. Implement binary search and any two sorting algorithms 
+10. Implement any two sorting algorithms 
 11. Implement hashing using separate chaining technique 
 12. Mini Project
 
