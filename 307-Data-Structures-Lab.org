@@ -54,7 +54,7 @@ After the completion of this course, students will be able to:
 - Analyze and apply suitable linear data structures to solve a given problem (K4) 
 - Apply suitable trees for various applications and perform traversals (K3)
 - Make use of graphs to solve appropriate problems (K3)
-- Implement searching, sorting and hashing techniques (K3)
+- Develop programs using sorting and hashing techniques (K3)
 - Design and develop applications by choosing suitable data structure(s) for solving real world problems (K6).
 
 
