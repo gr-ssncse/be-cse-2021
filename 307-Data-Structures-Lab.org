@@ -25,8 +25,8 @@
 #+end_comment
 
 ** REVISION 2021                                                   :noexport:
-1. Array implementation of list ADT is removed as C programs are included
-2. One application of linked list and expression tree implementation are removed because the Mini project has been included.
+1. Array implementation of list ADT and construction of expression tree are removed.
+2. Mini project has been included.
 
 ** COURSE OBJECTIVES
 - Develop program solutions for various problems
