@@ -89,7 +89,7 @@ After the completion of this course, students will be able to:
 - Distinguish the type of grammar, relationship between language to confext free grammar and construction of PDA for the CFG (K4)
 - Constuct Turing machine for the given Language (K3)
 - Explain the Decidability or Undecidability of various problems and make use of it (K3).
-- Design a suitable model for the given application (K6)
+# - Design a suitable model for the given application (K6)
 
 ** TEXT BOOKS 
 1. Hopcroft J E, Motwani R, Ullman J D, ``Introduction to Automata    Theory, Languages and Computations'', Pearson Education, 3rd
