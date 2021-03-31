@@ -22,9 +22,10 @@ CO-PO mapping later
 | CO3            | K3 |   2 |   3 |   2 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    1 |    3 |    0 |    0 |
 | CO4            | K3 |   2 |   3 |   1 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    1 |    3 |    0 |    0 |
 | CO5            | K2 |   2 |   3 |   1 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    1 |    3 |    0 |    0 |
-#| Score          |    |  14 |  10 |   9 |   9 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    9 |   0 |    0 |
-#| Course Mapping |    |   3 |   2 |   2 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |   0 |    0 |
-
+#+begin_comment
+| Score          |    |  14 |  10 |   9 |   9 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    9 |   0 |    0 |
+| Course Mapping |    |   3 |   2 |   2 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |   0 |    0 |
+#+end_comment
 
 ** COURSE OBJECTIVES
 - To learn the mathematical notations and construct finite automata of the given laguage
