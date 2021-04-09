@@ -1,4 +1,4 @@
-* <<<602>>> DATA SECURITY AND PRIVACY
+* <<<602>>> SOFTWARE SYSTEM SECURITY
 :properties:
 :author: Dr. V. Balasubramanian and Dr. J. Bhuvana
 :date: 29-03-2021

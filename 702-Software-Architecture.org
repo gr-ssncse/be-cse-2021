@@ -65,7 +65,7 @@ ADLs -- Extensible ADLs -- Documenting Software Architectures --
 Architecture Evaluation -- ATAM;
 
 {{{unit}}}
-| UNIT IV | Achieving Architectural Qualities | 9 |
+| UNIT IV | ACHIEVING ARCHITECTURAL QUALITIES | 9 |
 Introducing Tactics -- Availability Tactics -- Modifiability Tactics
 -- Performance Tactics -- Security Tactics -- Testability Tactics --
 Usability Tactics -- Relationship of Tactics to Architectural Patterns
