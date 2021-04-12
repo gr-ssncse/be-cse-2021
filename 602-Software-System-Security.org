@@ -30,24 +30,17 @@ New Syllabus
 - To understand different security policies
 
 {{{unit}}}         
-| UNIT I | OVERVIEW OF SECURITY AND  ENCRYPTION TECHNIQUES | 11 |
-Overview: Computer Security Concepts -- Threats, Attacks, and Assets
--- Security Functional Requirements -- Fundamental Security Design
-Principles -- Attack Surfaces and Attack Trees -- Computer Security
-Strategy; Symmetric Encryption and Message Confidentiality: Symmetric
-Encryption Principles -- Data Encryption Standard -- Advanced
-Encryption Standard -- Stream Ciphers and RC4 -- Cipher Block Modes of
-Operation -- Key Distribution; Public-Key Cryptography and Message
-Authentication: Secure Hash Functions -- HMAC -- RSA -- Diffie-Hellman
-and Other Asymmetric Algorithms;
+| UNIT I | OVERVIEW OF SECURITY AND  ENCRYPTION TECHNIQUES | 9 |
+Computer Security Concepts --  Security Architecture -- Attacks, Services and Mechanisms -- Fundamental Security Design
+Principles -- Attack Surfaces and Attack Trees -- Algebraic structures – Modular arithmetic-Euclid‟s algorithm- 
+Congruence and matrices -Groups, Rings, Fields- Finite fieldsBlock Cipher -- Data Encryption Standard -- Advanced Encryption Standard 
+-- Stream Ciphers and RC4 -- Cipher Block Modes of Operation 
  
 {{{unit}}}      
-| UNIT II | INTERNET AUTHENTICATION APPLICATIONS | 9 |
-User Authentication: Electronic User Authentication Principles --
-Password-Based Authentication -- Token-Based Authentication --
-Biometric Authentication -- Remote User Authentication; Internet
-Authentication Applications: Kerberos -- X.509 -- Public-Key
-Infrastructure
+| UNIT II | PUBLIC KEY CRYPTOGRAPHY | 9 |
+Primes –- Primality Testing –Factorization –- Euler‘s totient function, Fermat‘s and Euler‘s Theorem –- Chinese Remainder Theorem – 
+Exponentiation and logarithm –- Public-Key Cryptography and Message Authentication: Secure Hash Functions -- HMAC -- RSA -- Diffie-Hellman -- 
+Elliptic curve arithmetic -- Elliptic curve cryptography
 
 {{{unit}}}      
 | UNIT III | SOFTWARE SECURITY AND CLOUD SECURITY | 9 |
