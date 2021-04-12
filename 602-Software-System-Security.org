@@ -60,6 +60,10 @@ Computing -- Cloud Security Concepts -- Cloud Security Approaches --
 The Internet of Things -- IoT Security
 
 {{{unit}}}
+| UNIT IV | Security Practice | 9 |
+Cloud and IoT security: Cloud Computing -- Cloud Security Concepts -- Cloud Security Approaches; Transport Layer Security: TLS -- HTTPS -- SSH;
+Electronic Mail security: PGP, S/MIME – IP security – Web Security; IP Security: IPSec
+{{{unit}}}
 | UNIT IV | ACCESS CONTROL MATRIX | 8 |
  Access Control Matrix: Protection State-- Access Control Matrix Model
 -- Protection State Transitions -- Copying, Owning, and the
