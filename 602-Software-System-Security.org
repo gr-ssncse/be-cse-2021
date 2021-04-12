@@ -42,6 +42,11 @@ Primes –- Primality Testing –Factorization –- Euler‘s totient function, 
 Exponentiation and logarithm –- Public-Key Cryptography and Message Authentication: Secure Hash Functions -- HMAC -- RSA -- Diffie-Hellman -- 
 Elliptic curve arithmetic -- Elliptic curve cryptography
 
+
+{{{unit}}}      
+| UNIT III | Network Protocols | 9 |
+User Authentication: Authentication applications – Kerberos -- X.509 -- Malicious Software -- Types -- Threat 
+-- Propagation -- Payload -- Countermeasue -- Intruder Detection -- Firewall -- Types -- Access Policy
 {{{unit}}}      
 | UNIT III | SOFTWARE SECURITY AND CLOUD SECURITY | 9 |
 Software Security: Software Security Issues -- Handling Program Input
@@ -83,7 +88,8 @@ After the completion of this course, students will be able to:
 
 ** TEXT BOOKS
 
-1. William Stallings, Lawrie Brown, ``Computer Security  Principles and Practice'', Fourth Edition, Pearson, 2019 (Unit I--III).
+1. William Stallings, Lawrie Brown, ``Computer Security  Principles and Practice'', Seventh Edition, Pearson, 2019.
+2. William Stallings, "Network Security Essentials: Applications and Standards", Sixth edition, Pearson, 2017 
 2. Matt Bishop, ``Computer Security: Art and Science'', Second edition, Addison Wesley, 2019 (Unit IV, V).
 
 
