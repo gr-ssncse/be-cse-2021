@@ -45,44 +45,16 @@ Elliptic curve arithmetic -- Elliptic curve cryptography
 {{{unit}}}      
 | UNIT III | Network Protocols | 9 |
 Protocols Using Shared Key Cryptography: Entity Authentication Protocols -- Server-Less Key Establishment -- Server-Based Key Establishment; Authentication and Key Transport Using Public Key Cryptography: Entity Authentication Protocols -- Key Transport Protocols; Key Agreement Protocols:Diffie–Hellman Key Agreement -- Diffie–Hellman Protocols with Explicit Authentication
-Protocols using shared key cryptography: Entity Authentication Protocols -- Server-Less key establishment -- Server Based Key Establihment 
--- Ket Establishment using Multiple Servers; Malicious Software -- Types -- Threat 
--- Propagation -- Payload -- Countermeasue; Intruder Detection -- Firewall -- Types -- Access Policy
-{{{unit}}}      
-| UNIT III | Network Protocols | 9 |
-User Authentication: Authentication applications – Kerberos -- X.509 -- Malicious Software -- Types -- Threat 
--- Propagation -- Payload -- Countermeasue -- Intruder Detection -- Firewall -- Types -- Access Policy
-{{{unit}}}      
-| UNIT III | SOFTWARE SECURITY AND CLOUD SECURITY | 9 |
-Software Security: Software Security Issues -- Handling Program Input
--- Writing Safe Program Code -- Interacting with the Operating System
-and Other Programs -- Handling Program Output; Operating System
-Security : Introduction to Operating System Security -- System
-Security Planning -- Operating Systems Hardening -- Application
-Security -- Security Maintenance -- Linux/Unix Security -- Windows
-Security -- Virtualization Security; Cloud and IoT security: Cloud
-Computing -- Cloud Security Concepts -- Cloud Security Approaches --
-The Internet of Things -- IoT Security
 
 {{{unit}}}
 | UNIT IV | Security Practice | 9 |
 Cloud and IoT security: Cloud Computing -- Cloud Security Concepts -- Cloud Security Approaches; Transport Layer Security: TLS -- HTTPS -- SSH;
 Electronic Mail security: PGP, S/MIME – IP security – Web Security; IP Security: IPSec
-{{{unit}}}
-| UNIT IV | ACCESS CONTROL MATRIX | 8 |
- Access Control Matrix: Protection State-- Access Control Matrix Model
--- Protection State Transitions -- Copying, Owning, and the
-Attenuation of Privilege; Security Policies: The Nature of Security
-Policies -- Types of Security Policies -- The Role of Trust -- Types
-of Access Control -- Policy Languages -- Example: Academic Computer
-Security Policy -- Security and Precision
+
 
 {{{unit}}}
-| UNIT V |  SECURITY POLICIES             | 8 |
-The Nature of Security Policies -- Types of Security Policies -- The
-Role of Trust; Confidentiality policy:The Bell-LaPadula Model;
-Integrity policy: Clark-Wilson Integrity Model; Availability policy:
-Denial of Service Models; Hybrid policy: Chinese Wall Model.
+| UNIT V |  SECURITY POLICIES             | 9 |
+The Nature of Security Policies -- Types of Security Policies -- The Role of Trust; Confidentiality policy:The Bell-LaPadula Model; Integrity policy: Clark-Wilson Integrity Model; Availability policy: Denial of Service Models; Hybrid policy: Chinese Wall Model
 
 
 \hfill *Total Periods: 45*
