@@ -1,7 +1,7 @@
 * <<<602>>> SOFTWARE SYSTEM SECURITY
 :properties:
 :author: Dr. V. Balasubramanian and Dr. J. Bhuvana
-:date: 29-03-2021
+:date: 12-04-2021
 :end:
 
 #+startup: showall
@@ -30,52 +30,31 @@ New Syllabus
 - To understand different security policies
 
 {{{unit}}}         
-| UNIT I | OVERVIEW OF SECURITY AND  ENCRYPTION TECHNIQUES | 11 |
-Overview: Computer Security Concepts -- Threats, Attacks, and Assets
--- Security Functional Requirements -- Fundamental Security Design
-Principles -- Attack Surfaces and Attack Trees -- Computer Security
-Strategy; Symmetric Encryption and Message Confidentiality: Symmetric
-Encryption Principles -- Data Encryption Standard -- Advanced
-Encryption Standard -- Stream Ciphers and RC4 -- Cipher Block Modes of
-Operation -- Key Distribution; Public-Key Cryptography and Message
-Authentication: Secure Hash Functions -- HMAC -- RSA -- Diffie-Hellman
-and Other Asymmetric Algorithms;
+| UNIT I | OVERVIEW OF SECURITY AND  ENCRYPTION TECHNIQUES | 9 |
+Computer Security Concepts --  Security Architecture -- Attacks, Services and Mechanisms -- Fundamental Security Design
+Principles -- Attack Surfaces and Attack Trees -- Algebraic structures – Modular arithmetic-Euclid‟s algorithm- 
+Congruence and matrices -Groups, Rings, Fields- Finite fieldsBlock Cipher -- Data Encryption Standard -- Advanced Encryption Standard 
+-- Stream Ciphers and RC4 -- Cipher Block Modes of Operation 
  
 {{{unit}}}      
-| UNIT II | INTERNET AUTHENTICATION APPLICATIONS | 9 |
-User Authentication: Electronic User Authentication Principles --
-Password-Based Authentication -- Token-Based Authentication --
-Biometric Authentication -- Remote User Authentication; Internet
-Authentication Applications: Kerberos -- X.509 -- Public-Key
-Infrastructure
+| UNIT II | PUBLIC KEY CRYPTOGRAPHY | 9 |
+Primes –- Primality Testing –Factorization –- Euler‘s totient function, Fermat‘s and Euler‘s Theorem –- Chinese Remainder Theorem – 
+Exponentiation and logarithm –- Public-Key Cryptography and Message Authentication: Secure Hash Functions -- HMAC -- RSA -- Diffie-Hellman -- 
+Elliptic curve arithmetic -- Elliptic curve cryptography
 
 {{{unit}}}      
-| UNIT III | SOFTWARE SECURITY AND CLOUD SECURITY | 9 |
-Software Security: Software Security Issues -- Handling Program Input
--- Writing Safe Program Code -- Interacting with the Operating System
-and Other Programs -- Handling Program Output; Operating System
-Security : Introduction to Operating System Security -- System
-Security Planning -- Operating Systems Hardening -- Application
-Security -- Security Maintenance -- Linux/Unix Security -- Windows
-Security -- Virtualization Security; Cloud and IoT security: Cloud
-Computing -- Cloud Security Concepts -- Cloud Security Approaches --
-The Internet of Things -- IoT Security
+| UNIT III | Network Protocols | 9 |
+Protocols Using Shared Key Cryptography: Entity Authentication Protocols -- Server-Less Key Establishment -- Server-Based Key Establishment; Authentication and Key Transport Using Public Key Cryptography: Entity Authentication Protocols -- Key Transport Protocols; Key Agreement Protocols:Diffie–Hellman Key Agreement -- Diffie–Hellman Protocols with Explicit Authentication
 
 {{{unit}}}
-| UNIT IV | ACCESS CONTROL MATRIX | 8 |
- Access Control Matrix: Protection State-- Access Control Matrix Model
--- Protection State Transitions -- Copying, Owning, and the
-Attenuation of Privilege; Security Policies: The Nature of Security
-Policies -- Types of Security Policies -- The Role of Trust -- Types
-of Access Control -- Policy Languages -- Example: Academic Computer
-Security Policy -- Security and Precision
+| UNIT IV | Security Practice | 9 |
+Cloud and IoT security: Cloud Computing -- Cloud Security Concepts -- Cloud Security Approaches; Transport Layer Security: TLS -- HTTPS -- SSH;
+Electronic Mail security: PGP, S/MIME – IP security – Web Security; IP Security: IPSec
+
 
 {{{unit}}}
-| UNIT V |  SECURITY POLICIES             | 8 |
-The Nature of Security Policies -- Types of Security Policies -- The
-Role of Trust; Confidentiality policy:The Bell-LaPadula Model;
-Integrity policy: Clark-Wilson Integrity Model; Availability policy:
-Denial of Service Models; Hybrid policy: Chinese Wall Model.
+| UNIT V |  SECURITY POLICIES             | 9 |
+The Nature of Security Policies -- Types of Security Policies -- The Role of Trust; Confidentiality policy:The Bell-LaPadula Model; Integrity policy: Clark-Wilson Integrity Model; Availability policy: Denial of Service Models; Hybrid policy: Chinese Wall Model
 
 
 \hfill *Total Periods: 45*
@@ -90,7 +69,9 @@ After the completion of this course, students will be able to:
 
 ** TEXT BOOKS
 
-1. William Stallings, Lawrie Brown, ``Computer Security  Principles and Practice'', Fourth Edition, Pearson, 2019 (Unit I--III).
+1. William Stallings, Lawrie Brown, ``Computer Security  Principles and Practice'', Seventh Edition, Pearson, 2019.
+2. William Stallings, "Network Security Essentials: Applications and Standards", Sixth edition, Pearson, 2017 
+3. Colin Boyd, Anish Mathuria, Douglas Stebila, "Protocols For Authentication And Key Establishment", Springer, 2020.
 2. Matt Bishop, ``Computer Security: Art and Science'', Second edition, Addison Wesley, 2019 (Unit IV, V).
 
 
