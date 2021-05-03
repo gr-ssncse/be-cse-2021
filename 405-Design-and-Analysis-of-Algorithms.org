@@ -34,6 +34,8 @@
 | CO4            | K4 |   3 |   3 |   2 |   3 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    1 |    0 |    2 |
 | CO5            | K2 |   3 |   3 |   1 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    1 |    0 |    0 |
 | CO6            | K6 |   3 |   2 |   2 |   3 |   3 |   0 |   0 |   1 |   3 |    1 |    0 |    2 |    2 |    0 |    2 |
+| Course mapping |    |   3 |   3 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    0 |    1 |
+#+tblfm: @>$3..@>$>='(ceiling (/ (* 1.0 (apply '+ '(@<<..@>>)))(length '(@<<..@>>))));N
 
 ** COURSE OBJECTIVES
 - To learn algorithms analysis techniques.
@@ -121,3 +123,14 @@ After the completion of this course, students will be able to:
    Private Limited, 2012.
 3. Steven S Skiena, ``The Algorithm Design Manual'', 2nd Edition,
    Springer, 2008.
+
+** CO-PO-PSO MAPPING     
+|         | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
+| CO1     |   2 |   2 |   1 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    1 |    0 |    0 |
+| CO2     |   3 |   3 |   2 |   3 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    0 |    0 |
+| CO3     |   3 |   3 |   3 |   2 |   3 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    0 |    2 |
+| CO4     |   3 |   3 |   2 |   3 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    1 |    0 |    2 |
+| CO5     |   3 |   3 |   1 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    1 |    0 |    0 |
+| CO6     |   3 |   2 |   2 |   3 |   3 |   0 |   0 |   1 |   3 |    1 |    0 |    2 |    2 |    0 |    2 |
+| Mapping |   3 |   3 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    0 |    1 |
+
