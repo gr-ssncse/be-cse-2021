@@ -1,0 +1,89 @@
+* <<<PE105>>> UNIX INTERNALS 
+:properties:
+:author: S Lakshmi Priya
+:date: 13 April 2021
+
+#+startup: showall
+{{{credits}}}
+|L|T|P|C|
+|3|0|0|3|
+
+** COURSE OBJECTIVES
+- To understand the Unix kernel and the various subsystems.
+- To understand file organization and management.
+- To learn about implementation of various system calls.
+- To have a thorough understanding of process architecture, process
+  control, scheduling and interprocess communication
+- To understand the different memory management policies.
+
+{{{unit}}}  
+| UNIT I | FILE SYSTEM REPRESENTATION AND CACHE | 9 |
+Introduction to the Kernel -- Architecture of Unix OS.The Buffer
+Cache: Buffer Headers -- Buffer Pool -- Buffer Retrieval -- Reading
+and Writing Disk Blocks -- Advantages and Disadvantages. Internal
+Representation of Files -- Inodes -- Structure of a File --
+Directories -- Conversion of Path Name to Inode -- Super Block --
+Inode Assignment to a new file -- Allocation of Disk Blocks -- Other
+File Types.
+
+{{{unit}}}
+|UNIT II| SYSTEM CALLS FOR THE FILE SYSTEM|		10|
+Open -- Read -- Write -- Lseek -- Close -- Create -- Creation of
+Special files -- Change Directory and Change Root -- Change Owner and
+Change Mode -- Stat -- Fstat -- Pipes -- Dup -- Mount -- Unmount --
+Link -- Unlink -- File System Abstraction -- Maintenance.
+
+{{{unit}}}
+|UNIT III| PROCESS MANAGEMENT|				9|
+Structure of Processes: Process States -- Transitions -- Layout of
+System Memory -- Context of a Process -- Saving the Context --
+Manipulation of a Process Address Space -- Sleep. Process Control:
+Process creation -- Signals -- Process Termination -- System Boot and
+the INIT Process.
+
+{{{unit}}}
+|UNIT IV| MEMORY MANAGEMENT AND I/O|			9|
+Memory Management Policies: Swapping -- Demand Paging -- A Hybrid
+System with swapping and Demand paging; I/O Subsystem -- Driver
+Interfaces -- Disk Drivers -- Terminal Drivers.
+
+{{{unit}}}
+|UNIT V| SCHEDULING AND IPC|				8|
+Process Scheduling and Time: Process Scheduling -- System calls for
+Time -- Clock. Interprocess Communication: Process Tracing – System V
+IPC
+
+|Total:|45|
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to: 
+- Demonstrate the different scenarios of buffer usage and Inode manipulation (K2)
+- Interpret the working of file subsystem and its system calls.(K2)
+- Illustrate the various aspects of Process Control and management (K2)
+- Interpret the memory management and I/O policies (K2)
+- Apply various process scheduling algorithms and IPC techniques (K3)
+
+** TEXT BOOK
+1. Maurice J. Bach, "The Design of the Unix Operating System", Pearson Education, 2002.
+
+** REFERENCES
+1. Daniel P Bovet, Marco Cesati, ``Understanding the Linux Kernel'',
+   3rd Edition, O'Reilly,Shroff Publishers & Distributors
+   Pvt. Ltd, 2005.
+2. John Lion, ``Lion's Commentary on UNIX'', 6th edition, Peer-to-Peer
+   Communications, 2004.
+3. M Beck et al, ``Linux Kernel Programming'', 3rd Edition, Pearson
+   Education Asia, 2015
+4. Steve D Pate, ``Unix Internals: A Practical Approach'',
+   Addison-Wesley,1996
+
+** CO-PO MAPPING                                                   :noexport:
+#+NAME: co-po-mapping
+|                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
+|                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K5 |   K3 |   K6 |
+| CO1            | K2 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |  0  |   0 |    0 |    0 |    0 |    2 |    0 |    1 |
+| CO2            | K2 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |  0  |   0 |    0 |    0 |    0 |    2 |    0 |    1 |
+| CO3            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |  0  |   0 |    0 |    0 |    0 |    2 |    0 |    1 |
+| CO4            | K3 |   3 |   2 |   0 |   1 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    0 |    0 |
+| CO5            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    0 |    1 |
+
