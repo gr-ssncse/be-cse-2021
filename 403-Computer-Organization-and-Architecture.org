@@ -83,10 +83,11 @@ predictive branching: Spectre and Meltdown.
 
 {{{unit}}}
 | UNIT IV | MEMORY & I/O SYSTEMS | 9 |
-Memory Hierarchy; Memory technologies; Cache Memory: Basics and cache mapping techniques; Measuring and
-improving cache performance; Virtual Memory: TLBs; Accessing I/O
-devices -- Interrupts; Direct memory access; Bus structure -- Bus
-operation -- Arbitration; Interface circuits; USB.
+Memory Hierarchy; Memory technologies; Cache Memory: Basics and cache
+mapping techniques; Measuring and improving cache performance; Virtual
+Memory: TLBs; Accessing I/O devices -- Interrupts; Direct memory
+access; Bus structure -- Bus operation -- Arbitration; Interface
+circuits; USB.
 
 {{{unit}}}
 | UNIT V | PARALLEL PROCESSORS | 9 |

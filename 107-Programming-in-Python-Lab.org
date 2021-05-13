@@ -4,13 +4,12 @@
 :date: 27 March 2021
 :end:
 
-** R2021 CHANGES :noexport:
-CO5 was modified
-
-
 {{{credits}}}
 | L | T | P | C |
 | 0 | 0 | 4 | 2 |
+
+** R2021 CHANGES :noexport:
+CO5 was modified
 
 
 ** CO PO MAPPING :noexport:
