@@ -33,16 +33,19 @@ New Syllabus
 
 {{{unit}}}         
 | UNIT I | OVERVIEW OF SECURITY AND  ENCRYPTION TECHNIQUES | 9 |
-Computer Security Concepts --  Security Architecture -- Attacks, Services and Mechanisms -- Fundamental Security Design
-Principles -- Attack Surfaces and Attack Trees -- Algebraic structures – Modular arithmetic-Euclid‟s algorithm- 
-Congruence and matrices -Groups, Rings, Fields- Finite fieldsBlock Cipher -- Data Encryption Standard -- Advanced Encryption Standard 
--- Stream Ciphers and RC4 -- Cipher Block Modes of Operation 
+Computer Security Concepts -- Security Architecture -- Attacks,
+Services and Mechanisms -- Fundamental Security Design Principles --
+Attack Surfaces and Attack Trees -- Algebraic structures -- Modular
+arithmetic -- Euclid's algorithm -- Congruence and matrices -Groups,
+Rings, Fields- Finite fieldsBlock Cipher -- Data Encryption Standard
+-- Advanced Encryption Standard -- Stream Ciphers and RC4 -- Cipher
+Block Modes of Operation
  
 {{{unit}}}      
 | UNIT II | PUBLIC KEY CRYPTOGRAPHY | 9 |
-Primes –- Primality Testing –Factorization –- Euler's totient
-function, Fermat's and Euler's Theorem –- Chinese Remainder Theorem –
-Exponentiation and logarithm –- Public-Key Cryptography and Message
+Primes -- Primality Testing --Factorization -- Euler's totient
+function, Fermat's and Euler's Theorem -- Chinese Remainder Theorem --
+Exponentiation and logarithm -- Public-Key Cryptography and Message
 Authentication: Secure Hash Functions -- HMAC -- RSA -- Diffie-Hellman
 -- Elliptic curve arithmetic -- Elliptic curve cryptography
 
@@ -52,14 +55,14 @@ Protocols Using Shared Key Cryptography: Entity Authentication
 Protocols -- Server-Less Key Establishment -- Server-Based Key
 Establishment; Authentication and Key Transport Using Public Key
 Cryptography: Entity Authentication Protocols -- Key Transport
-Protocols; Key Agreement Protocols:Diffie–Hellman Key Agreement --
-Diffie–Hellman Protocols with Explicit Authentication
+Protocols; Key Agreement Protocols: Diffie-Hellman Key Agreement --
+Diffie-Hellman Protocols with Explicit Authentication
 
 {{{unit}}}
 | UNIT IV | Security Practice | 9 |
 Cloud and IoT security: Cloud Computing -- Cloud Security Concepts --
 Cloud Security Approaches; Transport Layer Security: TLS -- HTTPS --
-SSH; Electronic Mail security: PGP, S/MIME – IP security – Web
+SSH; Electronic Mail security: PGP, S/MIME -- IP security -- Web
 Security; IP Security: IPSec
 
 
