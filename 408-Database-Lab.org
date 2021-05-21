@@ -29,7 +29,7 @@
 - To learn about the use of nested and join queries
 - To understand procedural extensions of databases
 - To design a database schema for an application using ER model, Normalization
-- To implement typical database application using Front-end tools
+- To implement a database application using Front-end tools
 
 
 ** SUGGESTIVE EXPERIMENTS
