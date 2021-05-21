@@ -39,7 +39,7 @@
 - To learn database programming and relational database design
 - To explore the fundamental concepts of transaction processing,
   concurrency control and recovery techniques
-- To explain Object-relational and NOSQL databases.
+- To explain Distributed and NOSQL databases.
 
 {{{unit}}}
 |UNIT I | DATABASE SYSTEM CONCEPTS AND CONCEPTUAL MODELING | 8 |
@@ -78,14 +78,14 @@ Timestamp Ordering; Recovery: Concepts -- Deferred update -- Immediate
 update.
 
 {{{unit}}}
-| UNIT V | OBJECT-RELATIONAL AND NOSQL DATABASES | 8 |
-Overview of Object Database concepts -- Object database extensions 
-to SQL; Introduction to NOSQL Systems -- The CAP Theorem -- Document-Based
-NOSQL Systems and MongoDB.
+| UNIT V | DISTRIBUTED AND NOSQL DATABASES | 8 |
+Distributed Database Concepts -- Data fragmentation and Replication -- 
+Allocation techniques; Introduction to NOSQL Systems -- The CAP Theorem 
+-- Document-Based NOSQL Systems and MongoDB -- Column-based NOSQL systems.
 
 #+begin_comment
-Added a new topic, Object-relational databases and removed the NOSQL
-databases other than MongoDB.
+Added a new topic, distributed databases and removed the key-value and graph-based NOSQL
+databases.
 #+end_comment
 
 \hfill *Total Periods: 45*
@@ -99,13 +99,15 @@ After the completion of this course, students will be able to:
   various real-time applications (K3)
 - Apply transaction processing, concurrency control and recovery
   mechanisms for practical problems (K3)
-- Explain the concepts of Object-relational and NOSQL databases (K2).
+- Explain the concepts of Distributed and NOSQL databases (K2).
 
 ** TEXT BOOKS 
 1. Ramez Elmasri, Shamkant B Navathe, ``Fundamentals of Database
    Systems'', 7th Edition, Pearson, 2016.
-2. Abraham Silberschatz, Henry F Korth, S Sudharshan, ``Database
-   System Concepts'', 6th Edition, Tata Mc Graw Hill, 2011.
+2. Raghu Ramakrishnan, `` Database Management Systems'', 4th Edition, Tata Mc Graw
+   Hill,2010.
+
+
 
 ** REFERENCES
 1. Jeffrey D Ullman, Jennifer Widom, ``A First Course in Database
@@ -113,9 +115,10 @@ After the completion of this course, students will be able to:
 2. S Sumathi, S Esakkirajan, `` Fundamentals of Relational Database
    Management Systems '', (Studies in Computational Intelligence),
    Springer-Verlag, 2007.
-3. Raghu Ramakrishnan, `` Database Management Systems'', 4th Edition, Tata Mc Graw
-   Hill,2010.
-4. C J Date, A Kannan, S Swamynathan, "An Introduction to Database
-   Systems", 8th Edition, Pearson Education, 2006.
+3. Abraham Silberschatz, Henry F Korth, S Sudharshan, ``Database
+   System Concepts'', 6th Edition, Tata Mc Graw Hill, 2011.
+4. Thomas M. Connolly, Carolyn E. Begg, "Database Systems - A Practical Approach 
+   to Design, Implementation and Management", 6th edition, 2015, Global 
+   Edition, Pearson. 
 5. Hector Garcia-Molina, Jeffrey D Ullman, Jennifer Widom, "Database
    Systems:The Complete Book", 2e, Pearson.
