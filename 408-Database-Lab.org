@@ -56,13 +56,13 @@
 8. Implement a database application by applying database design and 
    database programming using library class.
   
-  Example:
-  a) Timetable Management System
-  b) Hospital Management System
-  c) Library Management System
-  d) Railway Reservation System
-  e) Inventory Control System
-  f) Online Commerce System
+Example:
+a) Timetable Management System
+b) Hospital Management System
+c) Library Management System
+d) Railway Reservation System
+e) Inventory Control System
+f) Online Commerce System
 
 \hfill *Total Periods: 45*
 
