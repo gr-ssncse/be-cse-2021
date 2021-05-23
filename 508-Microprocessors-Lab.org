@@ -1,4 +1,4 @@
-* <<<508>>> MICROPROCESSORS LAB 
+* 508 <<<MICROPROCESSORS LAB>>>
 :properties:
 :author: Dr. K. R. Sarath Chandran and Ms.S.Angel Deborah
 :date: 9.03.2021(Revision1 with COs)/29.3.2021 (Changes highlighted)

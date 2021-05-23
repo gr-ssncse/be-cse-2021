@@ -1,4 +1,4 @@
-* <<<PE304>>> SOFT COMPUTING 
+* PE304 <<<SOFT COMPUTING>>>
 :properties:
 :author: Dr. T.T. Mirnalinee  and Dr. K. Lekshmi
 :date: 26/03/2021

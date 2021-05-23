@@ -1,4 +1,4 @@
-* <<<PE502>>> AGILE METHODOLOGIES
+* PE502 <<<AGILE METHODOLOGIES>>>
 :properties:
 :author: Dr. S. Saraswathi and Dr. K. Madheswari
 :date: 29-03-2021

@@ -1,4 +1,4 @@
-* <<<504>>> SOFTWARE ENGINEERING
+* 504 <<<SOFTWARE ENGINEERING>>>
 :properties:
 :author: Dr. A. Chamundeswari and Ms. S. Angel Deborah
 :date: 13.3.2021(Revision1)/ 24..3.2021(Revision based on review)/29.3.2021(Changes highlighted)

@@ -1,4 +1,4 @@
-* <<<403>>> COMPUTER ORGANIZATION AND ARCHITECTURE
+* 403 <<<COMPUTER ORGANIZATION AND ARCHITECTURE>>>
 :properties:
 :author: Dr. K. Lekshmi, Dr. D. Venkatavara Prasad, Dr. K. R. Sarath Chandran
 :date: 23-03-2021

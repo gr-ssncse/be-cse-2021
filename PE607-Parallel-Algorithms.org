@@ -1,4 +1,4 @@
-* <<<PE607>>> PARALLEL ALGORITHMS
+* PE607 <<<PARALLEL ALGORITHMS>>>
 :properties:
 :author: Dr. Venkata Vara Prasad and Mr. V. Balasubramanian 
 :date: 

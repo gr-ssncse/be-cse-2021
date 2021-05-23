@@ -1,4 +1,4 @@
-* <<<PE102>>> ADVANCED DATABASE MANAGEMENT SYSTEMS
+* PE102 <<<ADVANCED DATABASE MANAGEMENT SYSTEMS>>>
 :properties:
 :author: Mr.B.Senthil Kumar and Dr. P. Mirunalini
 :date: 30-03-2021

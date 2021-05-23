@@ -1,4 +1,4 @@
-* <<<PE201>>> CLOUD COMPUTING
+* PE201 <<<CLOUD COMPUTING>>>
 :properties:
 :author: Dr. N. Sujaudeen and Dr. Y. V. Lokeswari 
 :date: 29 Mar 2021.

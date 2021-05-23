@@ -1,4 +1,4 @@
-﻿* <<<PE102>>> SOFTWARE TESTING
+﻿* PE102 <<<SOFTWARE TESTING>>>
 :properties:
 :author: Dr. K. Madheswari and Dr. A. Chamundeswari
 :date: 29.03.2021

@@ -1,4 +1,4 @@
-* <<<PE202>>> BIG DATA MANAGEMENT
+* PE202 <<<BIG DATA MANAGEMENT>>>
 :properties:
 :author: Dr. J Suresh and Dr. Y. V. Lokeswari
 :date: 27-03-2021

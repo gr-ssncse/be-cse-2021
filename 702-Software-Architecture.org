@@ -1,4 +1,4 @@
-* <<<702>>> SOFTWARE ARCHITECTURE
+* 702 <<<SOFTWARE ARCHITECTURE>>>
 :properties:
 :author: Dr. K. Vallidevi
 :date: 29 March 2021

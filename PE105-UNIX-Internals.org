@@ -1,4 +1,4 @@
-* <<<PE105>>> UNIX INTERNALS 
+* PE105 <<<UNIX INTERNALS>>>
 :properties:
 :author: S Lakshmi Priya
 :date: 13 April 2021

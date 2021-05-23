@@ -1,4 +1,4 @@
-* <<<501>>> COMPUTER NETWORKS
+* 501 <<<COMPUTER NETWORKS>>>
 :properties:
 :author:  Ms. S. V. Jansi Rani and Mr. N. Sujaudeen
 :date: 09-03-2021, 20-06-2019

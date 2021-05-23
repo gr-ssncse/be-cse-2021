@@ -1,4 +1,4 @@
-* <<<PE402>>> USER EXPERIENCE DESIGN
+* PE402 <<<USER EXPERIENCE DESIGN>>>
 :properties:
 :author: Dr. S. Manisha and Dr. Y.V. Lokeswari
 :date: 29.3.2021

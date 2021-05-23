@@ -1,4 +1,4 @@
-* <<<PE106>>> ETHICAL HACKING
+* PE106 <<<ETHICAL HACKING>>>
 :properties:
 :author: Dr. V. Balasubramanian and Dr. N. Sujaudeen
 :date: 29.3.2021

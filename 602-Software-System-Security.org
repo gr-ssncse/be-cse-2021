@@ -1,4 +1,4 @@
-* <<<602>>> SOFTWARE SYSTEM SECURITY
+* 602 <<<SOFTWARE SYSTEM SECURITY>>>
 :properties:
 :author: Dr. V. Balasubramanian and Dr. J. Bhuvana
 :date: 12-04-2021

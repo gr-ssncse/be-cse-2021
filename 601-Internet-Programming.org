@@ -1,4 +1,4 @@
-* <<<601>>> INTERNET PROGRAMMING 
+* 601 <<<INTERNET PROGRAMMING>>>
 :properties:
 :author: Dr. B. Prabavathy and Dr. V. S. Felix Enigo
 :Date: 24-03-2021

@@ -1,4 +1,4 @@
-* <<<PE103>>> IMAGE PROCESSING AND ANALYSIS
+* PE103 <<<IMAGE PROCESSING AND ANALYSIS>>>
 :properties:
 :author: Ms. R. Priyadharsini and Ms. P. Mirunalini
 :date: 09.03.2021  

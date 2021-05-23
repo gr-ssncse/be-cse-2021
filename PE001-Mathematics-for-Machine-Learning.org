@@ -1,4 +1,4 @@
-* <<<PE001>>> MATHEMATICS FOR MACHINE LEARNING
+* PE001 <<<MATHEMATICS FOR MACHINE LEARNING>>>
 :properties:
 :author: R S Milton, T T Mirnalinee
 :date:

@@ -1,4 +1,4 @@
-* <<<PE303>>> OBJECT ORIENTED ANALYSIS AND DESIGN
+* PE303 <<<OBJECT ORIENTED ANALYSIS AND DESIGN>>>
 :properties:
 :author: Dr. K. Vallidevi and Dr. S. Manisha
 :date: 29.03.2021

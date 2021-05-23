@@ -1,4 +1,4 @@
-* <<<407>>> OPERATING SYSTEMS LAB
+* 407 <<<OPERATING SYSTEMS LAB>>>
 :properties:
 :author: Dr.J.Bhuvana and Ms. S. Lakshmi Priya
 :date: 09-03-2021

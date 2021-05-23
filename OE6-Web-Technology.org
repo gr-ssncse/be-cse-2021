@@ -1,4 +1,4 @@
-* <<<OE6>>> WEB TECHNOLOGY
+* OE6 <<<WEB TECHNOLOGY>>>
 :properties:
 :author: Dr. V. S. Felix Enigo 
 :start: 17-03-2021

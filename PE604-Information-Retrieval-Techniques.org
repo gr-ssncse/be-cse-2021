@@ -1,4 +1,4 @@
-* <<<PE604>>> INFORMATION RETRIEVAL TECHNIQUES
+* PE604 <<<INFORMATION RETRIEVAL TECHNIQUES>>>
 :properties:
 :author: Dr. G. Raghuraman and Dr. D. Thenmozhi
 :date: 

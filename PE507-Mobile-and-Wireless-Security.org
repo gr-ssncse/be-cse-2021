@@ -1,4 +1,4 @@
-* <<<PE507>>> MOBILE AND WIRELESS SECURITY
+* PE507 <<<MOBILE AND WIRELESS SECURITY>>>
 :properties:
 :author: Dr. A. Beulah and Dr. J. Bhuvana
 :date: 29-03-2021

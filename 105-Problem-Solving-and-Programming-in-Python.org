@@ -1,4 +1,4 @@
-* <<<105>>> PROBLEM SOLVING AND PROGRAMMING IN PYTHON
+* 105 <<<PROBLEM SOLVING AND PROGRAMMING IN PYTHON>>>
 :properties:
 :author: R S Milton, P Mirunalini, H Shahul Hamead
 :date: 27 March 2021

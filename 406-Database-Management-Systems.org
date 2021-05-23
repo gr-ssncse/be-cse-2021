@@ -1,4 +1,4 @@
-* <<<406>>> DATABASE MANAGEMENT SYSTEMS
+* 406 <<<DATABASE MANAGEMENT SYSTEMS>>>
 :properties:
 :author: Mr. B. Senthil Kumar and Dr. P. Mirunalini
 :date: 

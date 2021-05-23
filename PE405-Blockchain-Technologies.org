@@ -1,4 +1,4 @@
-* <<<PE405>>> BLOCKCHAIN TECHNOLOGIES
+* PE405 <<<BLOCKCHAIN TECHNOLOGIES>>>
 :properties:
 :author: Dr. Suresh J and Dr. N Sujaudeen
 :date: 10/03/2021

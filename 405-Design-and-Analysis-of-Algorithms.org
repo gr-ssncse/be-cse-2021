@@ -1,4 +1,4 @@
-* <<<405>>> DESIGN AND ANALYSIS OF ALGORITHMS
+* 405 <<<DESIGN AND ANALYSIS OF ALGORITHMS>>>
 :properties:
 :author: Dr S Kavitha, Dr V Balasubramanian, Dr R S Milton
 :date: 29-03-2021

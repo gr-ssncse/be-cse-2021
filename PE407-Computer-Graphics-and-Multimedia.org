@@ -1,4 +1,4 @@
-* <<<PE407>>> COMPUTER GRAPHICS AND MULTIMEDIA
+* PE407 <<<COMPUTER GRAPHICS AND MULTIMEDIA>>>
 :properties:
 :author: Ms. S. Lakshmi Priya and Dr. N. Sujaudeen
 :date: 24-03-21

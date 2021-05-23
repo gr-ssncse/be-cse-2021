@@ -1,4 +1,4 @@
-* <<<OE5>>> MACHINE LEARNING APPLICATIONS
+* OE5 <<<MACHINE LEARNING APPLICATIONS>>>
 :properties:
 :author: S. Rajalakshmi and M.Saritha
 :date: 6.03.2021

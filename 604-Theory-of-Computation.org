@@ -1,4 +1,4 @@
-* <<<503>>> THEORY OF COMPUTATION
+* 604 <<<THEORY OF COMPUTATION>>>
 :properties:
 :author: Dr. A. Beulah and Dr. S.Kavitha
 :date: 15-03-2021

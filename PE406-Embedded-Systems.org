@@ -1,4 +1,4 @@
-* <<<PE406>>> EMBEDDED SYSTEMS
+* PE406 <<<EMBEDDED SYSTEMS>>>
 :properties:
 :author: Dr. K. R. Sarath Chandran ,Ms. S. Angel Deborah and Mr. H. Shahul Hamead 
 :date: 10-03-2021

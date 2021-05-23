@@ -1,4 +1,4 @@
-* <<<607>>> INTERNET PROGRAMMING LAB
+* 607 <<<INTERNET PROGRAMMING LAB>>>
 :properties:
 :author: Dr. B. Prabavathy and Dr. V. S. Felix Enigo
 :start: 17-03-2021

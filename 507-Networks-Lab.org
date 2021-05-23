@@ -1,4 +1,4 @@
-* <<<507>>> NETWORKS LAB
+* 507 <<<NETWORKS LAB>>>
 :properties:
 :author: Dr. N. Sujaudeen and Dr. S. V. Jansi Rani
 :date: 09-03-2021

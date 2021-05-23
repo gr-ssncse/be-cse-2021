@@ -1,4 +1,4 @@
-* <<<107>>> PROGRAMMING IN PYTHON LAB
+* 107 <<<PROGRAMMING IN PYTHON LAB>>>
 :properties:
 :author: R.S.Milton, P.Mirunalini, H.Shaul Hamaed
 :date: 27 March 2021

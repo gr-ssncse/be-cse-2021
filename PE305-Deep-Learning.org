@@ -1,4 +1,4 @@
-* <<<PE305>>> DEEP LEARNING
+* PE305 <<<DEEP LEARNING>>>
 :properties:
 :author: Mr. B. Senthil Kumar and Dr. D. Thenmozhi
 :date: 10-3-21

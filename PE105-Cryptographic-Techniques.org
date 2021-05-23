@@ -1,4 +1,4 @@
-* <<<PE105>>> INTRODUCTION TO CRYPTOGRAPHIC TECHNIQUES
+* PE105 <<<INTRODUCTION TO CRYPTOGRAPHIC TECHNIQUES>>>
 :properties:
 :author:   Dr. V. Balasubramanian and Dr. J. Bhuvana
 :date: 29-03-2021

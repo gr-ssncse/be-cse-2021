@@ -1,4 +1,4 @@
-* <<<408>>> DATABASE LAB
+* 408 <<<DATABASE LAB>>>
 :properties:
 :author: Mr. B. Senthil Kumar and Dr. P. Mirunalini
 :date: 

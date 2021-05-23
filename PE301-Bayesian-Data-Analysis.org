@@ -1,4 +1,4 @@
-* <<<PE301>>> BAYESIAN DATA ANALYSIS
+* PE301 <<<BAYESIAN DATA ANALYSIS>>>
 :properties:
 :author: Dr. R.S.Milton and Ms. S. Angel Deborah
 :date: 18-03-2021

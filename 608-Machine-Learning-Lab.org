@@ -1,4 +1,4 @@
-* <<<608>>> MACHINE LEARNING LAB
+* 608 <<<MACHINE LEARNING LAB>>>
 :properties:
 :author: Ms. S. Rajalakshmi and Ms. M. Saritha
 :date:9.03.2021

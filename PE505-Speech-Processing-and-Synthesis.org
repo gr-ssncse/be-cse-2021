@@ -1,4 +1,4 @@
-* <<<PE505>>> SPEECH PROCESSING AND SYNTHESIS
+* PE505 <<<SPEECH PROCESSING AND SYNTHESIS>>>
 :properties:
 :author: Dr. B. Bharathi 
 :date: 15.03.2021
