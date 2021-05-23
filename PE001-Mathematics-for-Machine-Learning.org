@@ -1,0 +1,80 @@
+* <<<PE001>>> MATHEMATICS FOR MACHINE LEARNING
+:properties:
+:author: R S Milton, T T Mirnalinee
+:date:
+:end:
+
+#+startup: showall
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+
+** COURSE OBJECTIVES
+   - To learn the use of linear algebra for framing learning problems
+   - To understand matrix decompositions
+   - To apply analytic geometry and vector calculus
+   - To use probability distributions
+   - To apply continuous optimization
+
+{{{unit}}}
+|UNIT I |  LINEAR ALGEBRA | 9  |
+Linear Algebra: Systems of Linear Equations Matrices --
+Solving Systems of Linear Equations -- Vector Spaces --
+Linear Independence -- Basis and Rank -- Linear Mappings --
+Affine Spaces.
+
+{{{unit}}}
+| UNIT II | ANALYTIC GEOMETRY | 9  |
+Analytic Geometry: Norms -- Inner Products -- Lengths and
+Distances -- Angles and Orthogonality -- Orthonormal Basis --
+Orthogonal Complement -- Inner Product of Functions --
+Orthogonal Projections -- Rotations
+
+{{{unit}}}
+| UNIT III | MATRIX DECOMPOSITIONS | 9  |
+Matrix Decompositions: Determinant and Trace -- Eigenvalues
+and Eigenvectors -- Cholesky Decomposition --
+Eigendecomposition and Diagonalization -- Singular Value
+Decomposition -- Matrix Approximation -- Matrix Phylogeny
+
+{{{unit}}}
+| UNIT IV | VECTOR CALCULUS | 9  |
+Vector Calculus: Differentiation of Univariate Functions --
+Partial Differentiation and Gradients -- Gradients of
+Vector-Valued Functions -- Gradients of Matrices -- Useful
+Identities for Computing Gradients -- Backpropagation and
+Automatic Differentiation -- Higher-Order Derivatives --
+Linearization and Multivariate Taylor Series
+
+{{{unit}}}
+| UNIT V | PROBABILITY AND DISTRIBUTIONS, CONTINUOUS OPTIMIZATION | 9  |
+Probability and Distributions: Construction of a Probability
+Space -- Discrete and Continuous Probabilities -- Sum Rule,
+Product Rule, and Bayes' Theorem -- Summary Statistics and
+Independence -- Gaussian Distribution -- Conjugacy and the
+Exponential Family -- Change of Variables/Inverse Transform;
+Continuous Optimization: Optimization Using Gradient Descent
+-- Constrained Optimization and Lagrange Multipliers --
+Convex Optimization
+
+\hfill *Total Periods: 45*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to:
+- Use linear algebra for framing learning problems
+- Do matrix decompositions
+- Apply analytic geometry and vector calculus
+- Use probability distributions
+- Apply continuous optimization
+
+** TEXT BOOKS
+1. Marc Peter Deisenroth, A Aldo Faisal, Cheng Soon Ong,
+   ``Mathematics for Machine Learning'', Cambridge University
+   Press, 2020
+
+** REFERENCES
+1. David J C MacKay, ``InformationTheory, Inference,and
+   Learning Algorithms'', Cambridge University Press, 2003.
+2. Christopher Bishop, ``Pattern Recognition and Machine
+   Learning'', Springer,2006

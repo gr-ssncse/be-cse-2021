@@ -1,8 +1,9 @@
-#+STARTUP: showall
+# +STARTUP: showall
+# {{{curriculum-table}}}
 
-* CURRICULUM
+* R2021 CURRICULUM
 #+name: curriculum
-#+attr_odt: :rel-width 100%
+#+attr_latex: :environment longtable :font \small :align @{}p{.04\textwidth}p{.06\textwidth}p{.5\textwidth}p{.04\textwidth}p{.04\textwidth}p{.04\textwidth}p{.04\textwidth}p{.04\textwidth}p{.04\textwidth}
 | <5> | <9>  | <50>                                              | <6> | <6> | <6> | <6> | <6> | <6> |
 |  No | Code | Title                                             | Cat | Hrs |   L |   T |   P |   C |
 |-----+------+---------------------------------------------------+-----+-----+-----+-----+-----+-----|
@@ -65,7 +66,7 @@
 |     |      | /Theory/                                          |     |     |     |     |     |     |
 |   1 |      | Computer Networks                                 | PC  |   3 |   3 |   0 |   0 |   3 |
 |   2 |      | Microprocessors and Interfacing                   | PC  |   3 |   3 |   0 |   0 |   3 |
-|   3 |      | Theory of Computation                             | PC  |   3 |   3 |   0 |   0 |   3 |
+|   3 |      | Artificial Intelligence (TCP)                     | PC  |   5 |   3 |   0 |   2 |   4 |
 |   4 |      | Software Engineering                              | PC  |   3 |   3 |   0 |   0 |   3 |
 |   5 |      | Professional Elective 1                           | PE  |   3 |   3 |   0 |   0 |   3 |
 |   6 |      | Management Elective                               | HS  |   3 |   3 |   0 |   0 |   3 |
@@ -73,27 +74,27 @@
 |   7 |      | Networks Lab                                      | PC  |   3 |   0 |   0 |   3 | 1.5 |
 |   8 |      | Microprocessors Lab                               | PC  |   3 |   0 |   0 |   3 | 1.5 |
 |-----+------+---------------------------------------------------+-----+-----+-----+-----+-----+-----|
-|     |      | /Total/                                           |     |  24 |  18 |   0 |   6 | 21. |
+|     |      | /Total/                                           |     |  26 |  18 |   0 |   8 | 22. |
 |-----+------+---------------------------------------------------+-----+-----+-----+-----+-----+-----|
 |     |      | *Semester VI*                                     |     |     |     |     |     |     |
 |     |      | /Theory/                                          |     |     |     |     |     |     |
 |   1 |      | Internet Programming                              | PC  |   3 |   3 |   0 |   0 |   3 |
 |   2 |      | Software System Security                          | PC  |   3 |   3 |   0 |   0 |   3 |
 |   3 |      | Machine Learning                                  | PC  |   3 |   3 |   0 |   0 |   3 |
-|   4 |      | Artificial Intelligence (TCP)                     | PC  |   5 |   3 |   0 |   2 |   4 |
+|   4 |      | Theory of Computation                             | PC  |   3 |   3 |   0 |   0 |   3 |
 |   5 |      | Professional Elective 2                           | PE  |   3 |   3 |   0 |   0 |   3 |
 |   6 |      | Open Elective 1                                   | OE  |   3 |   3 |   0 |   0 |   3 |
 |     |      | /Practical/                                       |     |     |     |     |     |     |
 |   7 |      | Internet Programming Lab                          | PC  |   3 |   0 |   0 |   3 | 1.5 |
 |   8 |      | Machine Learning Lab                              | PC  |   3 |   0 |   0 |   3 | 1.5 |
 |-----+------+---------------------------------------------------+-----+-----+-----+-----+-----+-----|
-|     |      | /Total/                                           |     |  26 |  18 |   0 |   8 | 22. |
+|     |      | /Total/                                           |     |  24 |  18 |   0 |   6 | 21. |
 |-----+------+---------------------------------------------------+-----+-----+-----+-----+-----+-----|
 |     |      | *Semester VII*                                    |     |     |     |     |     |     |
 |     |      | /Theory/                                          |     |     |     |     |     |     |
 |   1 |      | Distributed Systems                               | PC  |   3 |   3 |   0 |   0 |   3 |
 |   2 |      | Software Architecture                             | PC  |   3 |   3 |   0 |   0 |   3 |
-|   3 |      | Compiler Design                                   | PC  |   5 |   3 |   0 |   2 |   4 |
+|   3 |      | Compiler Design (TCP)                             | PC  |   5 |   3 |   0 |   2 |   4 |
 |   4 |      | Professional Elective 3                           | PE  |   3 |   3 |   0 |   0 |   3 |
 |   5 |      | Professional Elective 4                           | PE  |   3 |   3 |   0 |   0 |   3 |
 |   6 |      | Professional Elective 5                           | PE  |   3 |   3 |   0 |   0 |   3 |
@@ -117,27 +118,28 @@
 #+TBLFM: @14$5..@14$>=vsum(@-II+3..@-4)+vsum(@-2..@-1)
 #+TBLFM: @25$5..@25$>=vsum(@-II+3..@-3)+vsum(@-1..@-1)
 #+TBLFM: @37$5..@37$>=vsum(@-II+3..@-5)+vsum(@-3..@-1)
-#+TBLFM: @48$5..@48$>=vsum(@-II+3..@-4)+vsum(@-2..@-1)
-#+TBLFM: @60$5..@60$>=vsum(@-II+3..@-4)+vsum(@-2..@-1)
-#+TBLFM: @72$5..@72$>=vsum(@-II+3..@-4)+vsum(@-2..@-1)
-#+TBLFM: @84$5..@84$>=vsum(@-II+3..@-4)+vsum(@-2..@-1)
-#+TBLFM: @91$5..@91$>=vsum(@-II+3..@-3)+vsum(@-1..@-1)
-#+TBLFM: @92$9=@III+1+@IIIII+1+@IIIIIII+1+@IIIIIIIII+1+@IIIIIIIIIII+1+@IIIIIIIIIIIII+1+@IIIIIIIIIIIIIII+1+@IIIIIIIIIIIIIIIII+1;%3d
+#+TBLFM: @49$5..@49$>=vsum(@-II+3..@-4)+vsum(@-2..@-1)
+#+TBLFM: @61$5..@61$>=vsum(@-II+3..@-4)+vsum(@-2..@-1)
+#+TBLFM: @73$5..@73$>=vsum(@-II+3..@-4)+vsum(@-2..@-1)
+#+TBLFM: @85$5..@85$>=vsum(@-II+3..@-4)+vsum(@-2..@-1)
+#+TBLFM: @92$5..@92$>=vsum(@-II+3..@-3)+vsum(@-1..@-1)
+#+TBLFM: @93$9=@III+1+@IIIII+1+@IIIIIII+1+@IIIIIIIII+1+@IIIIIIIIIII+1+@IIIIIIIIIIIII+1+@IIIIIIIIIIIIIII+1+@IIIIIIIIIIIIIIIII+1;%3d
 
-#+ODT: <text:p text:style-name="PageBreak"/>
-#+attr_odt: :rel-width 100%
+{{{clrpage}}}
+{{{curriculum-table}}}
 | <5> | <9>   | <50>                                      | <6> | <6> | <6> | <6> | <6> | <6> |
 |-----+-------+-------------------------------------------+-----+-----+-----+-----+-----+-----|
 |  No | Code  | Title                                     | Cat | Hrs |   L |   T |   P |   C |
 |-----+-------+-------------------------------------------+-----+-----+-----+-----+-----+-----|
 |     |       | *Professional Elective 1*                 |     |     |     |     |     |     |
-|   1 | PE101 | Big Data Technologies                     | PE  |   3 |   3 |   0 |   0 |   3 |
-|   2 | PE102 | Software Testing                          | PE  |   3 |   3 |   0 |   0 |   3 |
-|   3 | PE103 | Image Processing and Analysis             | PE  |   3 |   3 |   0 |   0 |   3 |
-|   4 | PE104 | Logic Programming                         | PE  |   3 |   3 |   0 |   0 |   3 |
-|   5 | PE105 | UNIX Internals                            | PE  |   3 |   3 |   0 |   0 |   3 |
-|   6 | PE106 | Ethical Hacking                           | PE  |   3 |   3 |   0 |   0 |   3 |
-|   7 | PE107 | Advanced Database Management Systems      | PE  |   3 |   3 |   0 |   0 |   3 |
+|   1 | PE001 | Mathematics for Machine Learning [fn:1]   | PE  |   3 |   3 |   0 |   0 |   3 |
+|   2 | PE101 | Big Data Technologies                     | PE  |   3 |   3 |   0 |   0 |   3 |
+|   3 | PE102 | Software Testing                          | PE  |   3 |   3 |   0 |   0 |   3 |
+|   4 | PE103 | Image Processing and Analysis             | PE  |   3 |   3 |   0 |   0 |   3 |
+|   5 | PE104 | Logic Programming                         | PE  |   3 |   3 |   0 |   0 |   3 |
+|   6 | PE105 | UNIX Internals                            | PE  |   3 |   3 |   0 |   0 |   3 |
+|   7 | PE106 | Ethical Hacking                           | PE  |   3 |   3 |   0 |   0 |   3 |
+|   8 | PE107 | Advanced Database Management Systems      | PE  |   3 |   3 |   0 |   0 |   3 |
 |-----+-------+-------------------------------------------+-----+-----+-----+-----+-----+-----|
 |     |       | *Professional Elective 2*                 |     |     |     |     |     |     |
 |   1 | PE201 | Cloud Computing                           | PE  |   3 |   3 |   0 |   0 |   3 |
@@ -184,9 +186,11 @@
 |   6 | PE606 | Software Defined Networks                 | PE  |   3 |   3 |   0 |   0 |   3 |
 |   7 | PE607 | Parallel Algorithms                       | PE  |   3 |   3 |   0 |   0 |   3 |
 |-----+-------+-------------------------------------------+-----+-----+-----+-----+-----+-----|
+[fn:1] Only for students of Honours degree
 
-#+ODT: <text:p text:style-name="PageBreak"/>
-#+attr_odt: :rel-width 100%
+
+{{{clrpage}}}
+{{{curriculum-table}}}
 |   <5> | <9>    | <50>                                                  | <6>    |    <6> |    <6> |    <6> |    <6> |    <6> |
 |-------+--------+-------------------------------------------------------+--------+--------+--------+--------+--------+--------|
 |    No | Code   | Title                                                 | Cat    |    Hrs |      L |      T |      P |      C |
@@ -203,11 +207,11 @@
 |-------+--------+-------------------------------------------------------+--------+--------+--------+--------+--------+--------|
 
 * SPECIALIZATION
-#+attr_odt: :rel-width 100%
+{{{specialization-table}}}
 | <10> | <30>                                                      | <30>                                                                  | <30>                                                                                   |
 |   PE | /Software Engineering/                                    | /Systems and Security/                                                | /AI and Machine Learning/                                                              |
 |------+-----------------------------------------------------------+-----------------------------------------------------------------------+----------------------------------------------------------------------------------------|
-|    1 | Big Data Technologies, Software Testing                   | UNIX Internals, Ethical Hacking                                       | Image Processing and Analysis, Logic Programming                                       |
+|    1 | Big Data Technologies, Software Testing                   | UNIX Internals, Ethical Hacking                                       | Mathematics for Machine Learning, Image Processing and Analysis, Logic Programming     |
 |------+-----------------------------------------------------------+-----------------------------------------------------------------------+----------------------------------------------------------------------------------------|
 |    2 | Big Data Management, Software Configuration Management    | Cloud Computing, Cyber Forensics, Internet of Things                  | Probablistic Graphical Models, Natural Language Processing                             |
 |------+-----------------------------------------------------------+-----------------------------------------------------------------------+----------------------------------------------------------------------------------------|
