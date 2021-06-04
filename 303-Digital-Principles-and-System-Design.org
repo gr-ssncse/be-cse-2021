@@ -1,7 +1,7 @@
 * 303 <<<DIGITAL PRINCIPLES AND SYSTEM DESIGN>>>
 :properties:
 :author: Dr.D. Venkatavara Prasad and Ms. S. Angel Deborah 
-:date: 6.03.2021 (Revision1) /29.03.2021 (Changes highlighted)
+:date: 6.03.2021 (Revision1) /29.03.2021 (Changes highlighted)/4.06.2021(Checked)
 :end:
 
 #+startup: showall
