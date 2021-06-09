@@ -1,7 +1,7 @@
 * 306 <<<DIGITAL DESIGN LAB>>>
 :properties:
 :author: Ms. S. Angel Deborah and Dr.D.Venkatavara Prasad
-:date: 9.03.2021(Revision1 with COs)/29.3.2021 (R2021 changes)
+:date: 9.03.2021(Revision1 with COs)/29.3.2021 (R2021 changes)/6.06.2021(Checked)
 :end:
 
 #+startup: showall
