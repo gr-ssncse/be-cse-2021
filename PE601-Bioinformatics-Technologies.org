@@ -1,4 +1,4 @@
-* PE601 <<<BIOINFORMATICS>>>
+* PE601 <<<BIOINFORMATICS TECHNOLOGIES>>>
 :properties:
 :author: Dr.S.Kavitha and Dr.P.Mirunalini
 :date: 29-03-2021  
@@ -39,23 +39,35 @@ The student should be made to:
 
 {{{unit}}}
 |UNIT I | INTRODUCTION | 9 |
-Introduction to Bioinformatics: Need for Bioinformatics technologies -- Overview of Bioinformatics technologies; Overview of structural bioinformatics: Organization of Structural bioinformatics -– Primary resource: protein data bank -- Secondary resources and applications.
+Introduction to Bioinformatics: Need for Bioinformatics technologies
+-- Overview of Bioinformatics technologies; Overview of structural
+bioinformatics: Organization of Structural bioinformatics -– Primary
+resource: protein data bank -- Secondary resources and applications.
 
 {{{unit}}}
-|UNIT II | DATAWAREHOUSING AND DATAMINING IN BIOINFORMATICS | 9 |
-Data warehousing in Bioinformatics: Bioinformatics data -- Transforming data to knowledge -- Data warehousing architecture -- Data quality; Data mining for Bioinformatics: Biomedical data analysis -- DNA data analysis -- Protein data analysis.
+| UNIT II | DATAWAREHOUSING AND DATAMINING IN BIOINFORMATICS | 9 |
+Data warehousing in Bioinformatics: Bioinformatics data --
+Transforming data to knowledge -- Data warehousing architecture --
+Data quality; Data mining for Bioinformatics: Biomedical data analysis
+-- DNA data analysis -- Protein data analysis.
 
 {{{unit}}}
 |UNIT III | MACHINE LEARNING IN BIOINFORMATICS | 9 |
-Machine learning in Bioinformatics: Artificia Neural network -- Neural network architecture and applications -- Genetic algorithm -- Fuzzy system.
+Machine learning in Bioinformatics: Artificia Neural network -- Neural
+network architecture and applications -- Genetic algorithm -- Fuzzy
+system.
  
 {{{unit}}}
 |UNIT IV | MODELING FOR BIOINFORMATICS | 9 |
-Modeling for Bioinformatics: Hidden Markov modeling for biological data analysis --  Comparative modeling -- Probabilistic modeling -- Molecular modeling. 
+Modeling for Bioinformatics: Hidden Markov modeling for biological
+data analysis -- Comparative modeling -- Probabilistic modeling --
+Molecular modeling.
 
 {{{unit}}}
 |UNIT V | MICROARRAY DATA ANALYSIS | 9 |
-Microarray Data Analysis: Microarray technology for genome expression study -- Image analysis for data extraction -- Data Analysis for Pattern Discovery.
+Microarray Data Analysis: Microarray technology for genome expression
+study -- Image analysis for data extraction -- Data Analysis for
+Pattern Discovery.
 
 \hfill *Total Periods: 45*
 
@@ -68,7 +80,8 @@ After the completion of this course, students will be able to:
 - Infer the importance of microarray data analysis (K2)
    
 ** TEXT BOOKS
-1. Yi-Ping Phoebe Chen (Ed), “BioInformatics Technologies”, First Indian Reprint, Springer Verlag, 2007.
+1. Yi-Ping Phoebe Chen (Ed), ``BioInformatics Technologies'', First
+   Indian Reprint, Springer Verlag, 2007.
 
 ** REFERENCES
 1. Arthur M Lesk, ``Introduction to Bioinformatics'', Fourth Edition,

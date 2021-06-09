@@ -1,7 +1,7 @@
-* 502 <<<MICROPROCESSORS AND INTERFACING>>>
+* 502 <<<MICROPROCESSORS, MICROCONTROLLERS, AND INTERFACING>>>
 :properties:
-:author: Dr. K. R. Sarath Chandran and Ms.S.Angel Deborah
-:date: 6.03.2021/ revised 15.3.2021(CO6 added)/ 29.03.2021(Changes highlighted)
+:author: Dr. K. R. Sarath Chandran and Ms. S. Angel Deborah
+:date: 6.03.2021/ revised 15.3.2021 (CO6 added)/ 29.03.2021(Changes highlighted)
 :end:
 
 #+startup: showall
@@ -33,7 +33,7 @@
 | CO5            | K3 |   2 |   3 |   3 |   2 |   0 |   0 |   0 |   0 |   1 |    1 |    0 |    1 |    3 |    3 |    3 |
 | CO6            | K3 |   2 |   3 |   3 |   3 |   1 |   2 |   2 |   2 |   3 |    3 |    1 |    3 |    3 |    2 |    2 |
 | Score          |    |  15 |  18 |  15 |  16 |   1 |   2 |   2 |   2 |   8 |    5 |    1 |    8 |   18 |   11 |   11 |
-| Course Mapping |    |  3  |   3 |   3 |   3 |   1 |   1 |   1 |   1 |   2 |    1 |    1 |    2 |    3 |    2 |    2 |
+| Course Mapping |    |   3 |   3 |   3 |   3 |   1 |   1 |   1 |   1 |   2 |    1 |    1 |    2 |    3 |    2 |    2 |
 
 ** COURSE OBJECTIVES
 - To understand the Architecture of 8086 microprocessor

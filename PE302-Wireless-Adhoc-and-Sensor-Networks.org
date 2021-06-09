@@ -1,4 +1,4 @@
-* PE207 <<<WIRELESS AD HOC AND SENSOR NETWORKS>>>
+* PE302 <<<WIRELESS ADHOC AND SENSOR NETWORKS>>>
 :properties:
 :author: Dr. S. V. Jansi Rani and Dr. V. S. Felix Enigo
 :date: 10-03-2021

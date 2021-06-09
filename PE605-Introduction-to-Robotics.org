@@ -1,4 +1,4 @@
-* PE604 <<<ROBOTICS>>>
+* PE604 <<<INTRODUCTION TO ROBOTICS>>>
 :properties:
 :author: Dr. K. R. Sarath Chandran and Ms. S. Angel Deborah
 :date: 09/03/2021(Revison)/ 29/03/2021(Changes highlighted)
