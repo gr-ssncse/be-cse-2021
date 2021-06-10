@@ -105,13 +105,13 @@ Exploitation and exploration.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Explain the basic concepts of machine learning (K2)
+- Demonstrate the basic concepts of machine learning (K2)
 - Apply supervised algorithms for different classification problems (K3)
-- Understand the need of ensemble methods (K2) 
+- Interpret the need of ensemble methods (K2) 
 - Apply unsupervised and reinforcement learning techniques to various
   problems (K3)
-- Outline the requirement of dimensionality reduction and
-  optimisation techniques (K2)
+- Develop applications using dimensionality reduction and
+  optimisation techniques (K3)
       
 ** TEXT BOOKS
 1. Stephen Marsland, ``Machine Learning – An Algorithmic
