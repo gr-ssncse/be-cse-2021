@@ -187,21 +187,21 @@
 [fn:1] Only for students of Honours degree
 
 
-{{{clrpage}}}
+** Open Electives Offered by CSE
 {{{curriculum-table}}}
-| <5> | <9>  | <50>                                   | <6> | <5> | <5> | <5> | <5> | <5> | <5> |
-|  No | Code | Title                                  | Cat | Hrs |   L |   T |   P | E   |   C |
-|-----+------+----------------------------------------+-----+-----+-----+-----+-----+-----+-----|
-|     |      | *Open Electives 1*                     |     |     |     |     |     |     |     |
-|   1 | OE1  | Introduction to Data Structures        | OE  |   4 |   2 |   0 |   2 |     |   3 |
-|   2 | OE2  | Object Oriented Programming Techniques | OE  |   4 |   2 |   0 |   2 |     |   3 |
-|   3 | OE3  | Problem Solving and Programming in C   | OE  |   4 |   2 |   0 |   2 |     |   3 |
-|-----+------+----------------------------------------+-----+-----+-----+-----+-----+-----+-----|
-|     |      | *Open Electives 2*                     |     |     |     |     |     |     |     |
-|   4 | OE4  | Introduction to Big Data Analytics     | OE  |   4 |   2 |   0 |   2 |     |   3 |
-|   5 | OE5  | Machine Learning Applications          | OE  |   4 |   2 |   0 |   2 |     |   3 |
-|   6 | OE6  | Web Technology                         | OE  |   4 |   2 |   0 |   2 |     |   3 |
-|-----+------+----------------------------------------+-----+-----+-----+-----+-----+-----+-----|
+| <5> | <9>  | <50>                                           | <6> | <5> | <5> | <5> | <5> | <5> | <5> |
+|  No | Code | Title                                          | Cat | Hrs |   L |   T |   P | E   |   C |
+|-----+------+------------------------------------------------+-----+-----+-----+-----+-----+-----+-----|
+|     |      | *Open Electives 1*                             |     |     |     |     |     |     |     |
+|   1 | OE1  | Introduction to Data Structures (TCP a)        | OE  |   4 |   2 |   0 |   2 |     |   3 |
+|   2 | OE2  | Object Oriented Programming Techniques (TCP a) | OE  |   4 |   2 |   0 |   2 |     |   3 |
+|   3 | OE3  | Problem Solving and Programming in C (TCP a)   | OE  |   4 |   2 |   0 |   2 |     |   3 |
+|-----+------+------------------------------------------------+-----+-----+-----+-----+-----+-----+-----|
+|     |      | *Open Electives 2*                             |     |     |     |     |     |     |     |
+|   4 | OE4  | Introduction to Big Data Analytics (TCP a)     | OE  |   4 |   2 |   0 |   2 |     |   3 |
+|   5 | OE5  | Machine Learning Applications (TCP a)          | OE  |   4 |   2 |   0 |   2 |     |   3 |
+|   6 | OE6  | Web Technology (TCP a)                         | OE  |   4 |   2 |   0 |   2 |     |   3 |
+|-----+------+------------------------------------------------+-----+-----+-----+-----+-----+-----+-----|
 
 * SPECIALIZATION
 {{{specialization-table}}}
