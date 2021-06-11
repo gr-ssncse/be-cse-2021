@@ -12,6 +12,7 @@
 ** R2021 CHANGES :noexport:
 1. Added case study in units 2,4 & 5
 2. Modified CO5 from K3 to K4
+3. CO6 is added to map the soft POs and mapping done accordingly.
 
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
