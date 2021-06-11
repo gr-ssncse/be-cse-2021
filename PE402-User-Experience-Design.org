@@ -1,6 +1,8 @@
 * PE402 <<<USER EXPERIENCE DESIGN>>>
 :properties:
 :author: Dr. S. Manisha and Dr. Y.V. Lokeswari
+:date: 11.6.2021
+:author: Dr. S. Manisha and Dr. Y.V. Lokeswari
 :date: 29.3.2021
 :end:
 
@@ -17,13 +19,16 @@
 
 
 ** CO-PO-PSO MATRIX :noexport:
-|     | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
-| CO1 |   3 |   3 |   2 |   0 |   1 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    3 |    1 |
-| CO2 |   3 |   3 |   2 |   0 |   2 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    3 |    2 |
-| CO3 |   3 |   3 |   2 |   0 |   2 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    3 |    2 |
-| CO4 |   3 |   3 |   3 |   0 |   1 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    3 |    1 |
-| CO5 |   3 |   3 |   2 |   0 |   2 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    3 |    2 |
-| CO6 |   3 |   3 |   2 |   0 |   2 |   1 |   0 |   3 |   3 |    3 |    3 |    1 |    3 |    3 |    2 |
+|     |     |  PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
+| CO1 | K2  |    3 |   3 |   2 |   0 |   1 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    0 |    0 |
+| CO2 | K3  |    3 |   3 |   2 |   0 |   2 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    2 |    2 |
+| CO3 | K3  |    3 |   3 |   2 |   0 |   2 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    2 |    2 |
+| CO4 | K3  |    3 |   3 |   3 |   0 |   1 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    1 |    1 |
+| CO5 | K3  |    3 |   3 |   2 |   0 |   2 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    2 |    2 |
+| CO6 | K3  |    3 |   3 |   2 |   0 |   2 |   1 |   0 |   3 |   3 |    3 |    3 |    1 |    3 |    2 |    2 |
+| Score |   |   18 |  18 |  13 |   0 |  10 |   1 |   0 |   3 |   3 |    3 |    3 |    1 |   18 |    9 |    9|
+| Course 
+Mapping |    |   3 |   3 |   3 |   0 |   2 |   1 |   0 |   1 |   1 |    1 |    1 |    1 |    3 |    2 |    2 |
 
 ** COURSE OBJECTIVES
 - To understand the goals and principles of interface design
