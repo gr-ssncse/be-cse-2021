@@ -13,16 +13,14 @@
 #+NAME: co-po-mapping 
 
 |                | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
-| CO1            |   2 |   3 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |    1 |    0 |    2 |    3 |    1 |    1 |
-| CO2            |   2 |   3 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |    1 |    0 |    2 |    3 |    1 |    2 |
-| CO3            |   2 |   3 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |    1 |    0 |    2 |    3 |    1 |    2 |
-| CO4            |   2 |   3 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |    1 |    0 |    2 |    3 |    1 |    2 |
-| CO5            |   2 |   3 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |    1 |    0 |    2 |    3 |    1 |    2 |
-| Score          |  10 |  15 |  15 |  15 |   0 |   0 |   0 |   0 |   0 |    5 |    0 |   10 |   15 |    5 |    9 |
+| CO1            |   2 |   1 |   1 |   1 |   0 |   0 |   0 |   0 |   0 |    1 |    0 |    0 |    1 |    0 |    0 |
+| CO2            |   3 |   3 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |    1 |    0 |    2 |    2 |    0 |    1 |
+| CO3            |   3 |   3 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |    1 |    0 |    2 |    2 |    0 |    1 |
+| CO4            |   2 |   3 |   2 |   1 |   0 |   0 |   0 |   0 |   0 |    1 |    0 |    0 |    2 |    0 |    0 |
+| CO5            |   3 |   3 |   3 |   3 |   1 |   0 |   0 |   0 |   0 |    1 |    0 |    2 |    1 |    0 |    2 |
+| Score          |  13 |  13 |  12 |  11 |   1 |   0 |   0 |   0 |   0 |    5 |    0 |    6 |    8 |    0 |    4 |
+| Course Mapping |   3 |   3 |   3 |   3 |   1 |   0 |   0 |   0 |   0 |    1 |    0 |    2 |    2 |    0 |    2 |
 
-#+begin_comment
-| Course Mapping |   3 |   3 |   2 |   0 |   2 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    2 |
-#+end_comment
 
 ** COURSE OBJECTIVES
 - To understand the basics of reinforcement learning techniques
@@ -31,9 +29,7 @@
 
 {{{unit}}}
 | UNIT I | INTRODUCTION | 9 |
-Reinforcement Learning -- Examples -- Elements of Reinforcement
-Learning -- Limitations and Scope -- Tic-Tac-Toe; Multi-armed Bandits;
-Finite Markov Decision Processes.
+Reinforcement Learning -- Examples -- Elements of Reinforcement Learning -- Limitations and Scope -- Tic-Tac-Toe; Multi-armed Bandits; Finite Markov Decision Processes.
 
 {{{unit}}}
 | UNIT II | TABULAR SOLUTION METHODS | 11 |
