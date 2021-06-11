@@ -15,7 +15,6 @@
 2. Unit1 was reordered
 3. Reference book was added  for the unit1
 
-
 ** COURSE OBJECTIVES
    - To learn algorithmic problem solving techniques.
    - To learn the fundamentals of python programming.

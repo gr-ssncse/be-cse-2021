@@ -67,7 +67,7 @@
 |   2 |      | Microprocessors, microcontrollers, and Interfacing        | PC  |   3 |   3 |   0 |   0 |     |   3 |
 |   3 |      | Artificial Intelligence (TCP a)                           | PC  |   5 |   3 |   0 |   2 |     |   4 |
 |   4 |      | Software Engineering                                      | PC  |   3 |   3 |   0 |   0 |     |   3 |
-|   5 |      | Professional Elective 1                                   | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   5 |      | Professional Elective I                                   | PE  |   3 |   3 |   0 |   0 |     |   3 |
 |   6 |      | Management Elective                                       | HS  |   3 |   3 |   0 |   0 |     |   3 |
 |     |      | /Practical/                                               |     |     |     |     |     |     |     |
 |   7 |      | Networks Lab                                              | PC  |   3 |   0 |   0 |   3 |     | 1.5 |
@@ -81,8 +81,8 @@
 |   2 |      | Software System Security                                  | PC  |   3 |   3 |   0 |   0 |     |   3 |
 |   3 |      | Machine Learning                                          | PC  |   3 |   3 |   0 |   0 |     |   3 |
 |   4 |      | Theory of Computation                                     | PC  |   3 |   3 |   0 |   0 |     |   3 |
-|   5 |      | Professional Elective 2                                   | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   6 |      | Open Elective 1                                           | OE  |   3 |   3 |   0 |   0 |     |   3 |
+|   5 |      | Professional Elective II                                  | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   6 |      | Open Elective I                                           | OE  |   3 |   3 |   0 |   0 |     |   3 |
 |     |      | /Practical/                                               |     |     |     |     |     |     |     |
 |   7 |      | Internet Programming Lab                                  | PC  |   3 |   0 |   0 |   3 |     | 1.5 |
 |   8 |      | Machine Learning Lab                                      | PC  |   3 |   0 |   0 |   3 |     | 1.5 |
@@ -94,9 +94,9 @@
 |   1 |      | Distributed Systems                                       | PC  |   3 |   3 |   0 |   0 |     |   3 |
 |   2 |      | Software Architecture                                     | PC  |   3 |   3 |   0 |   0 |     |   3 |
 |   3 |      | Compiler Design (TCP a)                                   | PC  |   5 |   3 |   0 |   2 |     |   4 |
-|   4 |      | Professional Elective 3                                   | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   5 |      | Professional Elective 4                                   | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   6 |      | Professional Elective 5                                   | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   4 |      | Professional Elective III                                 | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   5 |      | Professional Elective IV                                  | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   6 |      | Professional Elective V                                   | PE  |   3 |   3 |   0 |   0 |     |   3 |
 |     |      | /Practical/                                               |     |     |     |     |     |     |     |
 |   7 |      | Project Work Phase I                                      | EEC |   6 |   0 |   0 |   6 |     |   3 |
 |   8 |      | Industrial Training / Internship                          | EEC |   0 |   0 |   0 |   0 |     |   2 |
@@ -105,8 +105,8 @@
 |-----+------+-----------------------------------------------------------+-----+-----+-----+-----+-----+-----+-----|
 |     |      | *Semester VIII*                                           |     |     |     |     |     |     |     |
 |     |      | /Theory/                                                  |     |     |     |     |     |     |     |
-|   1 |      | Professional Elective 6                                   | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   2 |      | Open Elective 2                                           | OE  |   3 |   3 |   0 |   0 |     |   3 |
+|   1 |      | Professional Elective VI                                  | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   2 |      | Open Elective II                                          | OE  |   3 |   3 |   0 |   0 |     |   3 |
 |     |      | /Practical/                                               |     |     |     |     |     |     |     |
 |   3 |      | Project Work Phase II                                     | EEC |  16 |   0 |   0 |  16 |     |   8 |
 |-----+------+-----------------------------------------------------------+-----+-----+-----+-----+-----+-----+-----|
@@ -126,78 +126,78 @@
 
 {{{clrpage}}}
 {{{curriculum-table}}}
-| <5> | <9>   | <50>                                      | <6> | <5> | <5> | <5> | <5> | <5> | <5> |
-|  No | Code  | Title                                     | Cat | Hrs |   L |   T |   P | E   |   C |
-|-----+-------+-------------------------------------------+-----+-----+-----+-----+-----+-----+-----|
-|     |       | *Professional Elective 1*                 |     |     |     |     |     |     |     |
-|   1 | PE001 | Mathematics for Machine Learning [fn:1]   | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   2 | PE101 | Big Data Technologies                     | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   3 | PE102 | Software Testing                          | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   4 | PE103 | Image Processing and Analysis             | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   5 | PE104 | Logic Programming                         | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   6 | PE105 | UNIX Internals                            | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   7 | PE106 | Ethical Hacking                           | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   8 | PE107 | Advanced Database Management Systems      | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|-----+-------+-------------------------------------------+-----+-----+-----+-----+-----+-----+-----|
-|     |       | *Professional Elective 2*                 |     |     |     |     |     |     |     |
-|   1 | PE201 | Cloud Computing                           | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   2 | PE202 | Big Data Management                       | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   3 | PE203 | Software Configuration Management         | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   4 | PE204 | Probabilistic Graphical Models            | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   5 | PE205 | Natural Language Processing               | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   6 | PE206 | Cyber Forensics                           | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   7 | PE207 | Internet of Things                        | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|-----+-------+-------------------------------------------+-----+-----+-----+-----+-----+-----+-----|
-|     |       | *Professional Elective 3*                 |     |     |     |     |     |     |     |
-|   1 | PE301 | Bayesian Data Analysis                    | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   2 | PE302 | Wireless and Adhoc Networks               | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   3 | PE303 | Object Oriented Analysis and Design       | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   4 | PE304 | Soft Computing                            | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   5 | PE305 | Deep Learning                             | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   6 | PE306 | Multicore Architectures and GPU Computing | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   7 | PE307 | Network and Server Security               | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|-----+-------+-------------------------------------------+-----+-----+-----+-----+-----+-----+-----|
-|     |       | *Professional Elective 4*                 |     |     |     |     |     |     |     |
-|   1 | PE401 | Healthcare  Analytics                     | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   2 | PE402 | User Experience Design                    | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   3 | PE403 | Social Network Analysis                   | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   4 | PE404 | Reinforcement Learning                    | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   5 | PE405 | Blockchain Technologies                   | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   6 | PE406 | Embedded systems                          | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   7 | PE407 | Computer Graphics and Multimedia          | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|-----+-------+-------------------------------------------+-----+-----+-----+-----+-----+-----+-----|
-|     |       | *Professional Elective 5*                 |     |     |     |     |     |     |     |
-|   1 | PE501 | Business Analytics                        | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   2 | PE502 | Agile Methodologies                       | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   3 | PE503 | Time Series Analysis and Forecasting      | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   4 | PE504 | Computer Vision                           | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   5 | PE505 | Speech Processing and Synthesis           | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   6 | PE506 | Mobile Computing                          | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   7 | PE507 | Mobile and Wireless Security              | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|-----+-------+-------------------------------------------+-----+-----+-----+-----+-----+-----+-----|
-|     |       | *Professional Elective 6*                 |     |     |     |     |     |     |     |
-|   1 | PE601 | Bioinformatics Technologies               | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   2 | PE602 | Formal System Verification                | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   3 | PE603 | Service Oriented Architecture             | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   4 | PE604 | Information Retrieval Techniques          | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   5 | PE605 | Introduction to Robotics                  | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   6 | PE606 | Software Defined Networks                 | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|   7 | PE607 | Parallel Algorithms                       | PE  |   3 |   3 |   0 |   0 |     |   3 |
-|-----+-------+-------------------------------------------+-----+-----+-----+-----+-----+-----+-----|
+| <5> | <9>   | <50>                                    | <6> | <5> | <5> | <5> | <5> | <5> | <5> |
+|  No | Code  | Title                                   | Cat | Hrs |   L |   T |   P | E   |   C |
+|-----+-------+-----------------------------------------+-----+-----+-----+-----+-----+-----+-----|
+|     |       | *Professional Elective 1*               |     |     |     |     |     |     |     |
+|   1 | PE001 | Mathematics for Machine Learning [fn:1] | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   2 | PE101 | Big Data Technologies                   | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   3 | PE102 | Software Testing                        | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   4 | PE103 | Image Processing and Analysis           | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   5 | PE104 | Logic Programming                       | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   6 | PE105 | UNIX Internals                          | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   7 | PE106 | Ethical Hacking                         | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   8 | PE107 | Advanced Database Management Systems    | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|-----+-------+-----------------------------------------+-----+-----+-----+-----+-----+-----+-----|
+|     |       | *Professional Elective 2*               |     |     |     |     |     |     |     |
+|   1 | PE201 | Cloud Computing                         | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   2 | PE202 | Big Data Management                     | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   3 | PE203 | Software Configuration Management       | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   4 | PE204 | Probabilistic Graphical Models          | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   5 | PE205 | Natural Language Processing             | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   6 | PE206 | Cyber Forensics                         | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   7 | PE207 | Internet of Things                      | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|-----+-------+-----------------------------------------+-----+-----+-----+-----+-----+-----+-----|
+|     |       | *Professional Elective 3*               |     |     |     |     |     |     |     |
+|   1 | PE301 | Bayesian Data Analysis                  | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   2 | PE302 | Wireless and Adhoc Networks             | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   3 | PE303 | Object Oriented Analysis and Design     | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   4 | PE304 | Soft Computing                          | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   5 | PE305 | Deep Learning                           | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   6 | PE306 | Multicore Architectures and Programming | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   7 | PE307 | Network and Server Security             | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|-----+-------+-----------------------------------------+-----+-----+-----+-----+-----+-----+-----|
+|     |       | *Professional Elective 4*               |     |     |     |     |     |     |     |
+|   1 | PE401 | Healthcare  Analytics                   | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   2 | PE402 | User Experience Design                  | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   3 | PE403 | Social Network Analysis                 | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   4 | PE404 | Reinforcement Learning                  | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   5 | PE405 | Blockchain Technologies                 | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   6 | PE406 | Embedded systems                        | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   7 | PE407 | Computer Graphics and Multimedia        | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|-----+-------+-----------------------------------------+-----+-----+-----+-----+-----+-----+-----|
+|     |       | *Professional Elective 5*               |     |     |     |     |     |     |     |
+|   1 | PE501 | Business Analytics                      | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   2 | PE502 | Agile Methodologies                     | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   3 | PE503 | Time Series Analysis and Forecasting    | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   4 | PE504 | Computer Vision                         | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   5 | PE505 | Speech Processing and Synthesis         | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   6 | PE506 | Mobile Computing                        | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   7 | PE507 | Mobile and Wireless Security            | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|-----+-------+-----------------------------------------+-----+-----+-----+-----+-----+-----+-----|
+|     |       | *Professional Elective 6*               |     |     |     |     |     |     |     |
+|   1 | PE601 | Bioinformatics Technologies             | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   2 | PE602 | Formal System Verification              | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   3 | PE603 | Service Oriented Architecture           | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   4 | PE604 | Information Retrieval Techniques        | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   5 | PE605 | Introduction to Robotics                | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   6 | PE606 | Software Defined Networks               | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|   7 | PE607 | Parallel Algorithms                     | PE  |   3 |   3 |   0 |   0 |     |   3 |
+|-----+-------+-----------------------------------------+-----+-----+-----+-----+-----+-----+-----|
 [fn:1] Only for students of Honours degree
 
 
-** Open Electives Offered by CSE
+** Open Electives Offered by CSE (to All Other Departments)
 {{{curriculum-table}}}
 | <5> | <9>  | <50>                                           | <6> | <5> | <5> | <5> | <5> | <5> | <5> |
 |  No | Code | Title                                          | Cat | Hrs |   L |   T |   P | E   |   C |
 |-----+------+------------------------------------------------+-----+-----+-----+-----+-----+-----+-----|
-|     |      | *Open Electives 1*                             |     |     |     |     |     |     |     |
+|     |      | *Open Electives 1 (Semester VI)*               |     |     |     |     |     |     |     |
 |   1 | OE1  | Introduction to Data Structures (TCP a)        | OE  |   4 |   2 |   0 |   2 |     |   3 |
 |   2 | OE2  | Object Oriented Programming Techniques (TCP a) | OE  |   4 |   2 |   0 |   2 |     |   3 |
 |   3 | OE3  | Problem Solving and Programming in C (TCP a)   | OE  |   4 |   2 |   0 |   2 |     |   3 |
 |-----+------+------------------------------------------------+-----+-----+-----+-----+-----+-----+-----|
-|     |      | *Open Electives 2*                             |     |     |     |     |     |     |     |
+|     |      | *Open Electives 2 (Semester VIII)*             |     |     |     |     |     |     |     |
 |   4 | OE4  | Introduction to Big Data Analytics (TCP a)     | OE  |   4 |   2 |   0 |   2 |     |   3 |
 |   5 | OE5  | Machine Learning Applications (TCP a)          | OE  |   4 |   2 |   0 |   2 |     |   3 |
 |   6 | OE6  | Web Technology (TCP a)                         | OE  |   4 |   2 |   0 |   2 |     |   3 |
@@ -212,7 +212,7 @@
 |------+-----------------------------------------------------------+-----------------------------------------------------------------------+-----------------------------------------------------------------------------------------|
 |    2 | Big Data Management, Software Configuration Management    | Cloud Computing, Cyber Forensics, Internet of Things                  | Probablistic Graphical Models, Natural Language Processing                              |
 |------+-----------------------------------------------------------+-----------------------------------------------------------------------+-----------------------------------------------------------------------------------------|
-|    3 | Object Orineted Analysis and Design                       | Multicore Architecture and GPU Computing, Network and Server Security | Bayesian Data Analysis, Soft Computing, Deep Learning                                   |
+|    3 | Object Orineted Analysis and Design                       | Multicore Architectures and Programming, Network and Server Security | Bayesian Data Analysis, Soft Computing, Deep Learning                                   |
 |------+-----------------------------------------------------------+-----------------------------------------------------------------------+-----------------------------------------------------------------------------------------|
 |    4 | User Experience Design                                    | Blockchain Technologies, Embedded systems                             | Social Network Analysis, Reinforcement Learning                                         |
 |------+-----------------------------------------------------------+-----------------------------------------------------------------------+-----------------------------------------------------------------------------------------|

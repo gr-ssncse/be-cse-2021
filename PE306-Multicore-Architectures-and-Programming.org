@@ -1,4 +1,4 @@
-* PE306 <<<MULTICORE ARCHITECTURE AND GPU PROGRAMMING>>>
+* PE306 <<<MULTICORE ARCHITECTURES AND PROGRAMMING>>>
 :properties:
 :author: Dr. D. Venkatavara Prasad and Ms.S.Angel Deborah 
 :date: 6.03.2021 (COs mapping revised) / 29.03.2021(Changes highlighted)
