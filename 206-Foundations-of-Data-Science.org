@@ -19,13 +19,13 @@
 #+NAME: co-po-mapping
 |                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
 |                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K5 |   K3 |   K6 |
-| CO1            | K2 |   3 |   2 |   1 |   1 |   0 |   0 |   0 |   1 |   1 |    0 |    0 |    0 |    2 |    0 |    0 |
-| CO2            | K3 |   3 |   2 |   2 |   2 |   2 |   0 |   0 |   1 |   1 |    1 |    0 |    2 |    3 |    1 |    2 |
-| CO3            | K3 |   3 |   2 |   2 |   2 |   0 |   0 |   0 |   1 |   1 |    1 |    0 |    0 |    3 |    0 |    0 |
-| CO4            | K2 |   2 |   2 |   1 |   1 |   0 |   0 |   0 |   1 |   1 |    1 |    0 |    0 |    3 |    0 |    0 |
-| CO5            | K3 |   3 |   2 |   2 |   2 |   2 |   0 |   0 |   1 |   1 |    2 |    0 |    2 |    3 |    2 |    2 |
-| Score          |    |  14 |  10 |   8 |   8 |   4 |   0 |   0 |   5 |   5 |    5 |    0 |    4 |   12 |    3 |    4 |
-| Course Mapping |    |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    3 |    1 |    1 |
+| CO1            | K2 |   3 |   2 |   1 |   1 |   0 |   0 |   0 |   1 |   0 |    0 |    0 |    0 |    2 |    0 |    0 |
+| CO2            | K3 |   3 |   2 |   2 |   2 |   2 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    3 |    1 |    0 |
+| CO3            | K3 |   3 |   2 |   2 |   2 |   0 |   0 |   0 |   1 |   0 |    0 |    0 |    0 |    3 |    0 |    0 |
+| CO4            | K2 |   2 |   2 |   1 |   1 |   0 |   0 |   0 |   1 |   1 |    0 |    0 |    0 |    3 |    0 |    0 |
+| CO5            | K3 |   3 |   2 |   2 |   2 |   2 |   0 |   0 |   1 |   1 |    2 |    0 |    1 |    3 |    2 |    0 |
+| Score          |    |  14 |  10 |   8 |   8 |   4 |   0 |   0 |   5 |   3 |    3 |    0 |    2 |   12 |    3 |    0 |
+| Course Mapping |    |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    3 |    1 |    0 |
 
 ** COURSE OBJECTIVES
 - To learn fundamentals of Data Science using Python.
@@ -80,8 +80,7 @@ After the completion of this course, students will be able to:
 - Develop Python programs to perform analysis on data. (K3)
 - Apply statistical techniques to explain and analyze the data. (K3)
 - Interpret the various Statistical Inferences. (K2).
-- Develop applications in teams to demonstrate machine learning algorithms in
-  practice. (K3)
+- Develop applications in teams to demonstrate machine learning algorithms in practice. (K3)
  
 ** TEXT BOOKS
 1. Davy Cielen, Arno D B Meysman, Mohamed Ali, ``Introducing Data
