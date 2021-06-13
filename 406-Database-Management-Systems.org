@@ -40,6 +40,7 @@
 - To explore the fundamental concepts of transaction processing,
   concurrency control and recovery techniques
 - To explain Distributed and NOSQL databases.
+= To create Database for real time applications by applying database design concepts
 
 {{{unit}}}
 |UNIT I | DATABASE SYSTEM CONCEPTS AND CONCEPTUAL MODELING | 8 |
