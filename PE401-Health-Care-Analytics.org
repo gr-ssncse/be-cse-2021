@@ -19,7 +19,7 @@
 | CO4            | K3 |   2 |   3 |  1  |   3 |   0 |   0 |   0 |   2 |   0 |    0 |    0 |    0 |    1 |    0 |    0 |
 | CO5            | K3 |   2 |   2 |  1  |   3 |   0 |   0 |   0 |   2 |   0 |    0 |    0 |    0 |    0 |    0 |    0 |
 | CO6            | K3 |   2 |   3 |  3  |   3 |   0 |   0 |   0 |   2 |   1 |    2 |    0 |    1 |    0 |    0 |    0 |
-| Score          | K3 |  12 |  16 |  7  |  13 |   0 |   0 |   0 |   6 |   1 |    2 |    0 |    1 |    2 |    0 |    0 |
+| Score          | K3 |  12 |  17 |  7  |  13 |   0 |   0 |   0 |   6 |   1 |    2 |    0 |    1 |    2 |    0 |    0 |
 | Course Mapping |    |   3 |   3 |  2  |   3 |   0 |   0 |   0 |   2 |   1 |    1 |    0 |    1 |    1 |    0 |    0 |
 
 ** COURSE OBJECTIVES
@@ -94,8 +94,8 @@ After the completion of this course, students will be able to:
 - Build data models that integrate patient data from multiple sources
   to create comprehensive, patient-centered views of data using
   analytics tools for Signal, Genome and Text Data.(K3)
-- Discover meaningful patterns and trends in advanced data analytics
-  systems. (K4)
+- Apply and Solve meaningful patterns and trends in advanced data analytics
+  systems. (K3)
 - Apply descriptive and inferential methodologies according to the
   type of study design in Healthcare practical systems (K3).
 - Develop a health care system for a given application. (K3)
