@@ -1,7 +1,7 @@
 * 403 <<<COMPUTER ORGANIZATION AND ARCHITECTURE>>>
 :properties:
 :author: Dr. K. Lekshmi, Dr. D. Venkatavara Prasad, Dr. K. R. Sarath Chandran
-:date: 23-03-2021
+:date: 23-03-2021, 13-06-2021(CO-PO Mapping Updated)
 :end:
 
 #+startup: showall
