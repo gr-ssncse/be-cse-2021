@@ -19,7 +19,7 @@
 #+end_comment
 ** R2021 CHANGES :noexport:
 1. Removed LCD display from unit 3
-3. Removed "comparison of microprocessor, microcntroller" from unit 5 
+3. Removed "comparison of microprocessor, microcontroller" from unit 5 
 
 
 ** CO PO MAPPING :noexport:
