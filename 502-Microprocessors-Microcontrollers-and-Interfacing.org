@@ -1,7 +1,7 @@
 * 502 <<<MICROPROCESSORS, MICROCONTROLLERS, AND INTERFACING>>>
 :properties:
 :author: Dr. K. R. Sarath Chandran and Ms. S. Angel Deborah
-:date: 6.03.2021/ revised 15.3.2021 (CO6 added)/ 29.03.2021(Changes highlighted)
+:date: 6.03.2021/ revised 15.3.2021 (CO6 added)/ 29.03.2021(Changes highlighted)/13.06.2021(co-po mapping updated)
 :end:
 
 #+startup: showall
