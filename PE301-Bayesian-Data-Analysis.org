@@ -15,7 +15,7 @@
 #+NAME: co-po-mapping
 |                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
 |                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K5 |   K3 |   K6 |
-| CO1            | K2 |   2 |   1 |   1 |   1 |   1 |   0 |   0 |   1 |   0 |    1 |    0 |    1 |    1 |    0 |    0 |
+| CO1            | K2 |   2 |   1 |   1 |   1 |   1 |   0 |   0 |   0 |   0 |    1 |    0 |    1 |    1 |    0 |    0 |
 | CO2            | K3 |   3 |   3 |   3 |   2 |   2 |   0 |   0 |   1 |   1 |    1 |    0 |    2 |    3 |    0 |    2 |
 | CO3            | K4 |   3 |   3 |   3 |   2 |   2 |   0 |   0 |   1 |   1 |    1 |    0 |    2 |    3 |    0 |    0 |
 | CO4            | K4 |   3 |   3 |   3 |   2 |   2 |   0 |   0 |   1 |   0 |    1 |    0 |    2 |    3 |    0 |    0 |
@@ -27,8 +27,9 @@
 ** COURSE OBJECTIVES
 - To know the fundamental concepts of probability theory, machine learning and statistics
 - To explore One-parameter model, normal model and multivariate model
-- To learn hierarchial modeling and non parametric models
+- To analyse data using hierarchial modeling and non parametric models
 - To know about the various bayesian computation.
+- To analyse the difference between non-bayesian model with bayesian model.
 
 
 {{{unit}}}
@@ -81,8 +82,8 @@ After the completion of this course, students will be able to:
 - Apply One-parameter model to develop a system (K3)
 - Analysing data using hierarchical model (K4)
 - Compare non-bayesian model with bayesian model (K4)
-- Apply various Bayesion computation techiniques to solve a problem (K3)
-- Solve a real time problem using any bayesian approach with clear documentation (K3)
+- Apply various Bayesian computation techiniques to solve a problem (K3)
+- Solve a real time problem using any bayesian approach with clear documentation (K4)
 
 
       
