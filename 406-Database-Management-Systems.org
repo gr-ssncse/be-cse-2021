@@ -40,7 +40,7 @@
 - To explore the fundamental concepts of transaction processing,
   concurrency control and recovery techniques
 - To explain Distributed and NOSQL databases.
-- To create Database for real time applications by applying database design concepts
+
 
 {{{unit}}}
 |UNIT I | DATABASE SYSTEM CONCEPTS AND CONCEPTUAL MODELING | 8 |
@@ -96,11 +96,11 @@ After the completion of this course, students will be able to:
 - Explain the database concepts and apply ER models to any real
   world applications (K3)
 - Apply data definition and complex SQL queries (K3)
-- Design databases systematically and develop database software for
-  various real-time applications (K3)
+- Design databases for a given ptoblem (K3)
 - Apply transaction processing, concurrency control and recovery
   mechanisms for practical problems (K3)
 - Explain the concepts of Distributed and NOSQL databases (K2).
+- To create Database for real time applications by applying database design concepts(K4)
 
 ** TEXT BOOKS 
 1. Ramez Elmasri, Shamkant B Navathe, ``Fundamentals of Database
