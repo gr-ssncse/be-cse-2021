@@ -133,8 +133,8 @@ After the completion of this course, students will be able to:
 - Build applications using generic programming (K3)
 - Apply the concepts of generic collections  (K3).
 - Solve real world problems in teams by choosing suitable object oriented features and  applying best practices in programming  with a clear documentation  of algorithm and approach(K5).
-#+begin_comment
 
+#+begin_comment
 09.03.2021
 CCC Feedback Committee Considerations
 CO's have been reframed based on the latest action words suggested
