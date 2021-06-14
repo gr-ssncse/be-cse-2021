@@ -36,7 +36,7 @@ Modification
 ** COURSE OBJECTIVES
 - Understand the fundamentals of social network analysis
 - Represent formally social networks 
-- Understand the working of various community detection algorithms
+- Learn the working of various community detection algorithms
 - Learn to implement SNA algorithms using SNA tools 
 - Learn to do Visualization using SNA tools
 
