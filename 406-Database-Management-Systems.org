@@ -101,8 +101,9 @@ After the completion of this course, students will be able to:
 - Design databases for a given ptoblem (K3)
 - Apply transaction processing, concurrency control and recovery
   mechanisms for practical problems (K3)
-- Explain the concepts of Distributed and NOSQL databases (K2).
-- To create Database for real time applications by applying database design concepts(K4)
+- Explain the concepts of Distributed and NOSQL databases (K2)
+- To create Database for real time applications in teams  by applying database design concepts and  applying best practices in programming  with a clear documentation and approach(K4)
+
 
 ** TEXT BOOKS 
 1. Ramez Elmasri, Shamkant B Navathe, ``Fundamentals of Database
