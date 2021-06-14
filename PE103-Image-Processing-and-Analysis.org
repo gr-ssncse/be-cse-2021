@@ -105,7 +105,8 @@ After the completion of this course, students will be able to:
 - Explain the restoration concepts and filtering techniques (K2)
 - Identify the segmentation methods and apply in real time applications (K3)
 - Analyse the feature extraction and object recognition methods (K4).
-- Develop real time application using image processing and analysis techniques (K4).
+- Develop real time application in teams by  using image processing and analysis techniques with a clear documentation  of the approach (K4).
+
    
 ** TEXT BOOKS
 1. Rafael C Gonzalez, Richard E Woods, ``Digital Image Processing'',
