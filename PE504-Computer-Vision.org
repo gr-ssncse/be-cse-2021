@@ -95,8 +95,9 @@ After the completion of this course, students will be able to:
 - Explain depth estimation and 3D reconstruction (K2)
 - Analyse the object recognition methods (K4)
 - Build Deep learning models for computer vision (K3)
-- Develop a real time application using computer vision techniques (K4)
-   
+- Develop a real time application in teams by using computer vision techniques with a clear documentation  of the approach  (K4)
+
+
 ** TEXT BOOKS
 1. Davies, E. Roy. Computer and machine vision: theory, algorithms, practicalities. Academic Press, 2012.
 2. Shanmugamani, Rajalingappaa. Deep Learning for Computer Vision: Expert techniques to train advanced neural networks using TensorFlow and Keras. Packt Publishing Ltd, 2018. 
