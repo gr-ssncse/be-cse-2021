@@ -50,7 +50,7 @@ Quantization –- Hebbian Learning
 |UNIT III | CONVENTIONAL OPTIMIZATION  | 9 |
 Derivative-based Optimization: Descent Methods -- The Method of
 Steepest Descent -- Classical Newton's Method -- Step Size
-Determination -- Conjugate gradient Methods -- Analysis of Quadratic
+Determination -- Conjugate gradient Methods -- Analysis of Quadratic 
 Case
 
 {{{unit}}}
