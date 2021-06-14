@@ -102,7 +102,7 @@ After the completion of this course, students will be able to:
 - Apply transaction processing, concurrency control and recovery
   mechanisms for practical problems (K3)
 - Explain the concepts of Distributed and NOSQL databases (K2)
-- To create Database for real time applications in teams  by applying database design concepts and  applying best practices in programming  with a clear documentation and approach(K4)
+- To create Database for real time applications in teams  by applying database design concepts with a clear documentation and approach(K4)
 
 
 ** TEXT BOOKS 
