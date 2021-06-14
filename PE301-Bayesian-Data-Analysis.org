@@ -29,7 +29,7 @@
 - To explore One-parameter model, normal model and multivariate model
 - To analyse data using hierarchial modeling and non parametric models
 - To analyse the difference between non-bayesian model with bayesian model.
-
+- To solve real time problems using bayesian computation.
 
 {{{unit}}}
 | UNIT I | BASICS OF PROBABILITY THEORY, MACHINE LEARNING AND STATISTICS | 9 |
