@@ -16,14 +16,14 @@
 #+NAME: co-po-mapping
 |                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
 |                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K5 |   K3 |   K6 |
-| CO1            | K2 |   2 |   3 |   3 |   3 |   2 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    2 |    2 |
-| CO2            | K3 |   2 |   3 |   3 |   3 |   2 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    2 |    2 |
-| CO3            | K2 |   2 |   3 |   3 |   3 |   2 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    2 |    2 |
-| CO4            | K2 |   2 |   3 |   3 |   3 |   2 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    2 |    2 |
-| CO5            | K3 |   2 |   3 |   3 |   3 |   2 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    2 |    2 |
-| CO6            | K3 |   2 |   3 |   3 |   3 |   2 |   1 |   1 |   1 |   3 |    2 |    1 |    2 |    2 |    2 |    2 |
-| Score          |    |  12 |  18 |  18 |  18 |  12 |   1 |   1 |   1 |   3 |    2 |    1 |    2 |   12 |   13 |   12 |
-| Course Mapping |    |   2 |   3 |   3 |   3 |   2 |   1 |   1 |   1 |   1 |    1 |    1 |    1 |    2 |    3 |    2 |
+| CO1            | K2 |   2 |   3 |   3 |   1 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    0 |    0 |
+| CO2            | K3 |   2 |   3 |   3 |   1 |   1 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    0 |    0 |
+| CO3            | K2 |   2 |   3 |   3 |   1 |   1 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    0 |    0 |
+| CO4            | K2 |   2 |   3 |   3 |   1 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    0 |    0 |
+| CO5            | K3 |   2 |   3 |   3 |   1 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    0 |    0 |
+| CO6            | K3 |   2 |   3 |   3 |   2 |   1 |   1 |   1 |   1 |   2 |    2 |    0 |    2 |    2 |    1 |    1 |
+| Score          |    |  12 |  18 |  18 |   7 |   3 |   1 |   1 |   1 |   2 |    2 |    0 |    2 |   12 |    1 |    1 |
+| Course Mapping |    |   2 |   3 |   3 |   2 |   1 |   1 |   1 |   1 |   1 |    1 |    0 |    1 |    2 |    1 |    1 |
 
 #+begin_comment
 1-6 : 1  
@@ -44,7 +44,7 @@
 Understanding Incident Response : The incident response process -- The incident response charter --The incident response plan --
  The incident response playbook -- Testing the incident response framework ; Managing Cyber Incidents:  Investigating incidents  -- 
 Incorporating containment strategies -- Getting back to normal – eradication and recovery; Fundamentals of Digital Forensics -- 
-Legal aspects --  Digital forensics fundamentals  -- The digital forensics process -- Digital forensic lab;
+Legal aspects --  Digital forensics fundamentals  -- The digital forensics process -- Digital forensic lab.
  
 #+begin_comment
 ...Text Book 1 : Chapter 1,2,3 
@@ -53,7 +53,7 @@ Legal aspects --  Digital forensics fundamentals  -- The digital forensics proce
 {{{unit}}}
 
 |UNIT II | EVIDENCE ACQUISITION   | 9 |
-Collecting Network Evidence  : An overview of network evidence  --  Firewalls and proxy logs --NetFlow -- Packet captures -- Wireshark -- Evidence collection;  Acquiring Host-Based Evidence Preparation :  Order of volatility  -- Evidence acquisition --  Acquiring volatile memory ;  Forensic Imaging : Understanding forensic imaging  -- Imaging tools -- Preparing a stage drive -- Using write blockers -- Imaging techniques
+Collecting Network Evidence  : An overview of network evidence  --  Firewalls and proxy logs --NetFlow -- Packet captures -- Wireshark -- Evidence collection;  Acquiring Host-Based Evidence Preparation :  Order of volatility  -- Evidence acquisition --  Acquiring volatile memory ;  Forensic Imaging : Understanding forensic imaging  -- Imaging tools -- Preparing a stage drive -- Using write blockers -- Imaging techniques.
 
 #+begin_comment
 ...Text Book 1 : Chapter 4,5,6
@@ -63,7 +63,7 @@ Collecting Network Evidence  : An overview of network evidence  --  Firewalls an
 |UNIT III | ANALYZING EVIDENCE | 9 |
 Analyzing Network Evidence :  Network evidence overview -- Analyzing firewall and proxy logs ;  Analyzing System Memory : Memory analysis overview -- 
 Memory analysis methodology ; Analyzing System Storage : Forensic platforms -- Autopsy -- MFT analysis -- Registry analysis; Analyzing Log Files : 
-Understanding Windows logs ; Writing the Incident Report : Documentation overview;
+Understanding Windows logs ; Writing the Incident Report : Documentation overview.
  
 #+begin_comment
  ...Text Book 1 : Chapter 7,8,9,10, 11
@@ -72,7 +72,7 @@ Understanding Windows logs ; Writing the Incident Report : Documentation overvie
 {{{unit}}}
 |UNIT IV |  MALWARE AND THREAT INTELLIGENCE | 9 |
 Malware Analysis for Incident Response : Malware classifications -- Malware analysis overview -- Analyzing malware -- Dynamic analysis -- Leveraging Threat Intelligence -- Understanding threat intelligence -- Threat intelligence methodology -- Threat intelligence sources -- Threat intelligence platforms 
-Using threat intelligence ;   
+Using threat intelligence.  
   
 #+begin_comment
   ...Text Book 1 : Chapter 12, 13
@@ -82,7 +82,7 @@ Using threat intelligence ;
 |UNIT V | MOBILE FORENSICS  | 9 |
 Introduction to Mobile Forensics : Why do we need mobile forensics? -- Mobile forensics -- The mobile phone evidence extraction process -- 
 Practical mobile forensic approaches ;  Parsing Third-Party Application Files : Third-party application overview --
-Encoding versus encryption -- Application data storage -- Forensic methods used to extract third-party application data ;
+Encoding versus encryption -- Application data storage -- Forensic methods used to extract third-party application data.
  
 #+begin_comment
  ...Text Book 2 : Chapter 1, 13 
